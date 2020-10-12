@@ -1,0 +1,66 @@
+var_num;var_nome;var_descricao;var_tipo;var_valor;var_valor_descricao
+1;chk_acc;Status da conta corrente;categ;A11;< 0 DM
+1;chk_acc;Status da conta corrente;categ;A12;0 <= .... < 200 DM
+1;chk_acc;Status da conta corrente;categ;A13;... >= 200 DM / salary assignments for at least 1 year
+1;chk_acc;Status da conta corrente;categ;A14;no checking account
+2;duration;No.de meses em que o crédito esteve ativo;num;;
+3;history;Histórico de crédito;categ;A30;nenhum crédito ou todos pagos em dia
+3;history;Histórico de crédito;categ;A31;todos os créditos deste banco pagos em dia
+3;history;Histórico de crédito;categ;A32;créditos sendo pagos em dia até o momento
+3;history;Histórico de crédito;categ;A33;atrasos no pagamento no passado
+3;history;Histórico de crédito;categ;A34;conta considerada crítica ou existência de créditos em outros bancos
+4;purpose;Objetivo quando da tomada do crédito;categ;A40;car (new)
+4;purpose;Objetivo quando da tomada do crédito;categ;A41;car (used)
+4;purpose;Objetivo quando da tomada do crédito;categ;A42;furniture/equipment
+4;purpose;Objetivo quando da tomada do crédito;categ;A43;radio/television
+4;purpose;Objetivo quando da tomada do crédito;categ;A44;domestic appliances
+4;purpose;Objetivo quando da tomada do crédito;categ;A45;repairs
+4;purpose;Objetivo quando da tomada do crédito;categ;A46;education
+4;purpose;Objetivo quando da tomada do crédito;categ;A47;vacation
+4;purpose;Objetivo quando da tomada do crédito;categ;A48;retraining
+4;purpose;Objetivo quando da tomada do crédito;categ;A49;business
+4;purpose;Objetivo quando da tomada do crédito;categ;A41;others
+5;amount;Crédito concedido;num;;
+6;savings;Saldo médio em aplicações (poupança e renda fixa);categ;A61;... <  100 DM
+6;savings;Saldo médio em aplicações (poupança e renda fixa);categ;A62;100 <= ... <  500 DM
+6;savings;Saldo médio em aplicações (poupança e renda fixa);categ;A63;500 <= ... < 1000 DM
+6;savings;Saldo médio em aplicações (poupança e renda fixa);categ;A64;... >= 1000 DM
+6;savings;Saldo médio em aplicações (poupança e renda fixa);categ;A65;saldo desconhecido ou não existente
+7;employment;Tempo no emprego atual;categ;A71;desempregado
+7;employment;Tempo no emprego atual;categ;A72;... < 1 year
+7;employment;Tempo no emprego atual;categ;A73;1  <= ... < 4 years
+7;employment;Tempo no emprego atual;categ;A74;4  <= ... < 7 years
+7;employment;Tempo no emprego atual;categ;A75;... >= 7 years
+8;install_rate;Installment rate: p% máx.de comprom.de renda;num;;
+9;pers_status;Estado civil e sexo;categ;A91;masculino: divorciado/separado
+9;pers_status;Estado civil e sexo;categ;A92;feminimo: divorciada/separada/casada
+9;pers_status;Estado civil e sexo;categ;A93;masculino: solteiro
+9;pers_status;Estado civil e sexo;categ;A94;masculino: casado/viúvo
+9;pers_status;Estado civil e sexo;categ;A95;feminimo: solteira
+10;guarantor;Fiadores;categ;A101;nenhum
+10;guarantor;Fiadores;categ;A102;co-aplicante
+10;guarantor;Fiadores;categ;A103;fiador
+11;present_residence;Tempo de residência no endereço atual;num;;
+12;real_state;Propriedades;categ;A121;imóveis
+12;real_state;Propriedades;categ;A122;empresa, seguro de vida
+12;real_state;Propriedades;categ;A123;carros ou outras propriedades não listadas acima
+12;real_state;Propriedades;categ;A124;desconhecido ou nenhuma propriedade
+13;age;Idade em anos;num;;
+14;other_installment;Outros empréstimos;categ;A141;outros bancos
+14;other_installment;Outros empréstimos;categ;A142;lojas
+14;other_installment;Outros empréstimos;categ;A143;nenhum
+15;housing;Residência;categ;A151;alugada
+15;housing;Residência;categ;A152;própria
+15;housing;Residência;categ;A153;sem custo
+16;num_credits;Número de créditos neste banco;num;;
+17;job;Emprego;categ;A171;Desempregado/Não especializado/Não residente
+17;job;Emprego;categ;A172;Não especializado/Residente
+17;job;Emprego;categ;A173;Especializado/Oficial
+17;job;Emprego;categ;A174;Gerência/Empresário/Altamente Qualificado/Oficial
+18;num_dependents;Número de dependentes;num;;
+19;telephone;Possui linha telefônica;categ;A191;Não
+19;telephone;Possui linha telefônica;categ;A192;Sim e registrada no seu nome
+20;foreign;Trabalhador estrangeiro;categ;A201;Sim
+20;foreign;Trabalhador estrangeiro;categ;A202;Não
+21;response;Variável de saida;categ;1;Credit Rating GOOD
+21;response;Variável de saida;categ;2;Credit Rating BAD
