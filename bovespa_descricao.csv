@@ -1,0 +1,649 @@
+FULLNAME;CODE;BBG_TICKER;NAME;INDUSTRY_SECTOR;INDUSTRY_SECTOR_NUM;GICS_SECTOR_NAME;GICS_SECTOR;CUR_MKT_CAP;EQY_FLOAT;EQY_FREE_FLOAT_PCT;FUND_ASSET_CLASS_FOCUS;SECTOR
+APPLE DRN;AAPL34;AAPL34 BS Equity;APPLE INC - BDR;Technology;10013;Information Technology;45;1.916.117.440.000;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+ABC BRASIL PN;ABCB4;ABCB4 BS Equity;BANCO ABC BRASIL SA;Financial;10008;Financials;40;2.159.006.360;53,52;69,33;#N/A N/A;O Banco Tem por Objeto A Prática de Operações Ativas. Passivas e Acessórias Inerentes Às Respectivas Carteiras Autorizadas.
+FII ABC IMOB CI;ABCP11;ABCP11 BS Equity;FII GRAND PLAZA SHOPPING;Financial;10008;#N/A N/A;#N/A N/A;622.395.447;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+AMBEV S/A ON;ABEV3;ABEV3 BS Equity;AMBEV SA;Consumer, Non-cyclical;10005;Consumer Staples;30;264.698.312.500;4.459,81;28,39;#N/A N/A;Fabricação e Distribuição de Cervejas. Refrigerantes e Bebidas Não Carbonatadas e Não Alcoólicas.
+ABRIL EDUCA ON;ABRE3;ABRE3 BS Equity;ABRIL EDUCACAO SA;Consumer, Non-cyclical;10005;Consumer Discretionary;25;2.939.148.574;156,41;59,87;#N/A N/A;Edição. Impressão. Publicação. Divulgação e Comercialização no Atacado ou Varejo. de Livros. Apostilas e Publicações de Qualquer Natureza. Voltadas. Principalmente. para A Educação.
+ABBOTT DRN;ABTT34;ABTT34 BS Equity;ABBOTT LABORATORIES -BDR;Consumer, Non-cyclical;10005;Health Care;35;155.961.297.786;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+FII AESAPAR CI;AEFI11;AEFI11 BS Equity;AESAPAR FDI IMOBILIARIO;Financial;10008;#N/A N/A;#N/A N/A;80.547.600;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+AES ELPA ON;AELP3;AELP3 BS Equity;AES ELPA SA;Diversified;10006;Utilities;55;731.970.108;1,65;1,74;#N/A N/A;O Objeto Social da Companhia É A Participação em Outras Sociedades como Quotista. Acionista ou Membro de Consórcio.
+AFLUENTE T ON;AFLT3;AFLT3 BS Equity;AFLUENTE TRANSMISSAO DE;Utilities;10014;Utilities;55;164.020.220;0,86;1,37;#N/A N/A;Transmissão de Energia Elétrica
+AFLUENTE ON;AFLU3;AFLU3 BS Equity;AFLUENTE GERACAO DE ENERGIA;Utilities;10014;Utilities;55;87.314.276;0,23;2,07;#N/A N/A;Geração de Energia Elétrica.
+AFLUENTE PNA;AFLU5;AFLU5 BS Equity;AFLUENTE GERACAO E TRANSMISS;Utilities;10014;Utilities;55;87.314.276;0,03;1,62;#N/A N/A;Geração de Energia Elétrica.
+FII AG CAIXA CI;AGCX11;AGCX11 BS Equity;FII AGENCIAS CAIXA;Financial;10008;#N/A N/A;#N/A N/A;388.799.988;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+BRASILAGRO ON;AGRO3;AGRO3 BS Equity;BRASILAGRO-CIA BRASILEIRA DE;Consumer, Non-cyclical;10005;Consumer Staples;30;435.246.880;30,16;51,62;#N/A N/A;Empresa de Desenvolvimento de Terras e Agropecuário
+ALL AMER LAT ON;ALLL3;ALLL3 BS Equity;ALL AMERICA LATINA LOGISTICA;Industrial;10011;Industrials;20;4.277.272.021;460,67;66,99;#N/A N/A;Prestar Serviços de Transporte de Cargas Através dos Modais Ferroviário e Rodoviário. Dentre Outros. Isoladamente ou Combinados entre Si de Forma Intermodal ou Multimodal. entre Outros.
+ALPARGATAS ON;ALPA3;ALPA3 BS Equity;ALPARGATAS SA;Consumer, Cyclical;10004;Consumer Discretionary;25;3.772.113.499;19,28;7,98;#N/A N/A;Indústria e Comércio de Calçados e Artigos Esportivos
+ALPARGATAS PN;ALPA4;ALPA4 BS Equity;ALPARGATAS SA - PREF;Consumer, Cyclical;10004;Consumer Discretionary;25;3.772.113.499;107,46;46,96;#N/A N/A;Indústria e Comércio de Calçados e Artigos Esportivos
+ALIANSCE ON;ALSC3;ALSC3 BS Equity;ALIANSCE SHOPPING CENTERS SA;Financial;10008;Financials;40;2.839.237.422;70,53;44,34;#N/A N/A;#N/A N/A
+ALUPAR UNT;ALUP11;ALUP11 BS Equity;ALUPAR INVESTIMENTO SA-UNIT;Utilities;10014;Utilities;55;3.978.541.460;208,3;100;#N/A N/A;"A Participação em Outras Sociedades Atuantes Nos Setores de Energia e Infra-Estrutura. no Brasil ou no Exterior; A Geração. Transformação. Transporte. A Distribuiçãoe o Comércio de Energia."
+LOJAS MARISA ON;AMAR3;AMAR3 BS Equity;MARISA LOJAS SA;Consumer, Cyclical;10004;Consumer Discretionary;25;2.690.224.527;48,09;25,92;#N/A N/A;Comércio Varejista de Artigos do Vestuário e Acessórios
+AMGEN DRN;AMGN34;AMGN34 BS Equity;AMGEN INC-BDR;Consumer, Non-cyclical;10005;Health Care;35;314.868.014.053;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+AMAZON DRN;AMZO34;AMZO34 BS Equity;AMAZON-BDR;Communications;10003;Consumer Discretionary;25;403.195.715.400;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+ANIMA ON;ANIM3;ANIM3 BS Equity;GAEC EDUCACAO SA;Consumer, Non-cyclical;10005;Consumer Discretionary;25;3.116.604.213;34,75;41,94;#N/A N/A;Administração. Direta ou Indireta. de Atividade de Instituições de 3º e 4º Graus. Educação Profissional.
+ALL ORE ON;AORE3;AORE3 BS Equity;ALL ORE MINERACAO SA;Basic Materials;10002;Materials;15;23.304.323;8,21;10,22;#N/A N/A;Administração de Participações Societárias e Mineração
+ALIPERTI ON;APTI3;APTI3 BS Equity;SIDERURGICA J.L. ALIPERTI SA;Basic Materials;10002;#N/A N/A;#N/A N/A;#N/A N/A;0,01;21,38;#N/A N/A;Fabricação de Peças e Acessórios para o Sistema de Direção e Suspensão de Veículos Automotores
+ALIPERTI PN;APTI4;APTI4 BS Equity;SIDERURGICA J.L. ALIPERTI-PR;Basic Materials;10002;#N/A N/A;#N/A N/A;#N/A N/A;0,07;57,39;#N/A N/A;Fabricação de Peças e Acessórios para o Sistema de Direção e Suspensão de Veículos Automotores
+FII AQUILLA CI;AQLL11;AQLL11 BS Equity;AQUILLA FII;Financial;10008;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+ARCELOR DRN;ARMT34;ARMT34 BS Equity;ARCELORMITTAL - BDR;Basic Materials;10002;Materials;15;53.026.089.844;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+ARTERIS ON;ARTR3;ARTR3 BS Equity;ARTERIS SA;Consumer, Non-cyclical;10005;Industrials;20;5.083.999.934;54,56;15,84;#N/A N/A;Gerenciamento de Concessões Públicas
+AREZZO CO ON;ARZZ3;ARZZ3 BS Equity;AREZZO INDUSTRIA E COMERCIO;Consumer, Cyclical;10004;Consumer Discretionary;25;2.553.175.941;42,34;47,74;#N/A N/A;O Principal Ramo de Atividade da Companhia É A Industrialização e A Comercialização de Artigos de Couro e de Plástico em Geral. Incluindo Sapatos e Artigos de Vestuário.
+ATT INC DRN;ATTB34;ATTB34 BS Equity;AT&T INC - BDRSS CO - BDR;Communications;10003;Telecommunication Services;50;476.840.910.000;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+AVON DRN;AVON34;AVON34 BS Equity;AVON - BDR;Consumer, Non-cyclical;10005;Consumer Staples;30;11.744.396.014;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+AMERICAN EXP DRN;AXPB34;AXPB34 BS Equity;AMERICAN EXPRESS CO - BDR;Financial;10008;Financials;40;249.438.865.774;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+AZEVEDO ON;AZEV3;AZEV3 BS Equity;AZEVEDO E TRAVASSOS SA;Industrial;10011;Industrials;20;#N/A N/A;0,91;10,1;#N/A N/A;Execução de Obras de Construção Pesada Junto A Orgãos Públicos
+AZEVEDO PN;AZEV4;AZEV4 BS Equity;AZEVEDO E TRAVASSOS SA-PREF;Industrial;10011;Industrials;20;46.709.999;6,53;36,26;#N/A N/A;Execução de Obras de Construção Pesada Junto A Orgãos Públicos
+BAHEMA ON;BAHI3;BAHI3 BS Equity;BAHEMA SA;Diversified;10006;Industrials;20;35.625.280;2,87;47,56;#N/A N/A;Participação em Outras Sociedades
+BAUMER ON;BALM3;BALM3 BS Equity;BAUMER SA;Consumer, Non-cyclical;10005;Health Care;35;#N/A N/A;0,25;5,09;#N/A N/A;Fabricação Aparelhos e Instrumentos P/ Uso Medico Hospitalar e Ortopedia
+BAUMER PN;BALM4;BALM4 BS Equity;BAUMER SA-PREF;Consumer, Non-cyclical;10005;Health Care;35;116.620.003;2,23;45,45;#N/A N/A;Fabricação Aparelhos e Instrumentos P/ Uso Medico Hospitalar e Ortopedia
+EXCELSIOR PN;BAUH4;BAUH4 BS Equity;EXCELSIOR ALIMENTOS SA-PREF;Consumer, Non-cyclical;10005;Consumer Staples;30;58.488.886;1,36;57,24;#N/A N/A;Produtos de Salsicharia
+AMAZONIA ON;BAZA3;BAZA3 BS Equity;BANCO DA AMAZONIA SA;Financial;10008;Financials;40;800.441.126;1.603,25;54,08;#N/A N/A;#N/A N/A
+BRASIL ON;BBAS3;BBAS3 BS Equity;BANCO DO BRASIL S.A.;Financial;10008;Financials;40;84.959.614.643;1.046,37;36,52;#N/A N/A;Banco Múltiplo.
+BRADESCO ON;BBDC3;BBDC3 BS Equity;BANCO BRADESCO S.A.;Financial;10008;Financials;40;163.494.669.002;547,37;26,02;#N/A N/A;Prática de Operações Bancárias em Geral. Inclusive Câmbio
+BRADESCO PN;BBDC4;BBDC4 BS Equity;BANCO BRADESCO SA-PREF;Financial;10008;Financials;40;163.494.669.002;2.047,05;97,31;#N/A N/A;Prática de Operações Bancárias em Geral. Inclusive Câmbio
+FII BB PRGII CI;BBPO11;BBPO11 BS Equity;BB PROGRESSIVO II FII;Financial;10008;#N/A N/A;#N/A N/A;1.650.871.826;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FII BB CORP CI;BBRC11;BBRC11 BS Equity;FII BB RENDA CORPORATIVA;Financial;10008;#N/A N/A;#N/A N/A;137.566.788;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+BR BROKERS ON;BBRK3;BBRK3 BS Equity;BRASIL BROKERS PARTICIPACOES;Financial;10008;Financials;40;576.590.407;180,31;93,5;#N/A N/A;Participação em Sociedades que Atuem no Setor Imobiliário.
+BBSEGURIDADE ON;BBSE3;BBSE3 BS Equity;BB SEGURIDADE PARTICIPACOES;Financial;10008;Financials;40;67.140.000.000;675;33,75;#N/A N/A;Participação no Capital Social de Outras Sociedades. que Tenham por Atividade Operações de Seguros. Resseguros. Previdências Complementar ou Capitalização.
+BTG PACTUAL UNT;BBTG11;BBTG11 BS Equity;GRUPO BTG PACTUAL-UNIT;Financial;10008;Financials;40;27.058.525.380;904,97;100;#N/A N/A;Holding de Companhias que Atuam como Veículos de Investimento.
+FII C JARDIM CI;BBVJ11;BBVJ11 BS Equity;BB VOTORANTIM JHSF CID JARD;Financial;10008;#N/A N/A;#N/A N/A;151.759.995;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+BARDELLA ON;BDLL3;BDLL3 BS Equity;BARDELLA SA INDUSTRIAS MECAN;Industrial;10011;Industrials;20;96.816.000;0,02;3,44;#N/A N/A;Bens de Capital que Fornece Produtos e Serviços para os Segmentos de Metalurgia. Movimentação de Materiais. Óleo e Gás. Energia e Aços Laminados e Trefilados. para os Mercados Nacional e Internacional
+BARDELLA PN;BDLL4;BDLL4 BS Equity;BARDELLA SA INDUSTRIAS-PREF;Industrial;10011;Industrials;20;96.816.000;0,82;82,83;#N/A N/A;Bens de Capital que Fornece Produtos e Serviços para os Segmentos de Metalurgia. Movimentação de Materiais. Óleo e Gás. Energia e Aços Laminados e Trefilados. para os Mercados Nacional e Internacional
+MINERVA ON;BEEF3;BEEF3 BS Equity;MINERVA SA;Consumer, Non-cyclical;10005;Consumer Staples;30;2.029.201.026;97,85;54,97;#N/A N/A;Um dos Líderes da América Latina na Produção e Comercialização de Carne In Natura. Boi Vivo e Seus Derivados e que Atua Também Nos Segmentos de Processamento de Carne Bovina. Suína e de Aves.
+BANESTES ON;BEES3;BEES3 BS Equity;BANESTES SA-BANCO ESTADO ESP;Financial;10008;Financials;40;656.058.004;89,61;7,74;#N/A N/A;Intermediação Financeira Inerente Aos Bancos Múltiplos. por Meio das Carteira Autorizadas. Inclusive Operações de Câmbio
+BANESTES PN;BEES4;BEES4 BS Equity;BANESTES SA-BANCO ESTADO ESP;Financial;10008;Financials;40;656.058.004;31;7,35;#N/A N/A;Intermediação Financeira Inerente Aos Bancos Múltiplos. por Meio das Carteira Autorizadas. Inclusive Operações de Câmbio
+BEMATECH ON;BEMA3;BEMA3 BS Equity;BEMATECH SA;Technology;10013;Information Technology;45;430.595.055;42,97;83,33;#N/A N/A;Produção. Industrialização e Comercialização de Hardware. Software e Serviços.
+BERKSHIRE DRN;BERK34;BERK34 BS Equity;BERKSHIRE HATHAWAY INC - BDR;Financial;10008;Financials;40;938.701.976.168;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+BANESE ON;BGIP3;BGIP3 BS Equity;BANCO ESTADO DE SERGIPE S.A.;Financial;10008;Financials;40;377.541.723;0,49;6,36;#N/A N/A;#N/A N/A
+BANESE PN;BGIP4;BGIP4 BS Equity;BANCO ESTADO DE SERGIPE-PREF;Financial;10008;Financials;40;377.541.723;1,06;13,91;#N/A N/A;#N/A N/A
+BHG ON;BHGR3;BHGR3 BS Equity;BHG SA - BRAZIL HOSPITALITY;Consumer, Cyclical;10004;Consumer Discretionary;25;1.122.417.657;39,78;63,26;#N/A N/A;#N/A N/A
+BICBANCO ON;BICB3;BICB3 BS Equity;BANCO INDUSTRIAL E COMERCIAL;Financial;10008;Financials;40;1.441.550.343;2,24;1,4;#N/A N/A;Banco Múltiplo
+BICBANCO PN;BICB4;BICB4 BS Equity;BANCO INDUSTRIAL E COMERCIAL;Financial;10008;Financials;40;1.441.550.343;55,4;59,77;#N/A N/A;Banco Múltiplo
+BIOMM ON;BIOM3;BIOM3 BS Equity;BIOMM SA;Consumer, Non-cyclical;10005;Health Care;35;260.490.862;7,15;23,2;#N/A N/A;Licenciamento de Tecnologia para Produção de Proteínas Terapêuticas Recombinantes. Especialmente Insulina.
+BROOKFIELD ON;BISA3;BISA3 BS Equity;BROOKFIELD INCORPORACOES SA;Financial;10008;Consumer Discretionary;25;927.203.366;303,44;52,69;#N/A N/A;Gestão em Participações Societárias
+MERC BRASIL ON;BMEB3;BMEB3 BS Equity;BANCO MERCANTIL DO BRASIL SA;Financial;10008;Financials;40;269.534.380;7,66;29,17;#N/A N/A;Finanças. Banco Múltiplo
+MERC BRASIL PN;BMEB4;BMEB4 BS Equity;BANCO MERCANTIL DO BRASIL-PR;Financial;10008;Financials;40;269.534.380;6,81;34,33;#N/A N/A;Finanças. Banco Múltiplo
+MERC INVEST ON;BMIN3;BMIN3 BS Equity;BANCO MERCANTIL DE INVESTIME;Financial;10008;Financials;40;34.678.800;5,2;4,66;#N/A N/A;Investimentos / Financiamentos
+MERC INVEST PN;BMIN4;BMIN4 BS Equity;BANCO MERCANTIL DE INVE-PREF;Financial;10008;Financials;40;34.678.800;28,81;40,57;#N/A N/A;Investimentos / Financiamentos
+BIC MONARK ON;BMKS3;BMKS3 BS Equity;BICICLETAS MONARK SA;Consumer, Cyclical;10004;Consumer Discretionary;25;135.515.500;0,1;21,02;#N/A N/A;Fabricação e Comercialização de Bicicletas
+BRASMOTOR ON;BMTO3;BMTO3 BS Equity;BRASMOTOR SA;Consumer, Cyclical;10004;Consumer Discretionary;25;2.423.042.173;5,92;0,6;#N/A N/A;Holding
+BRASMOTOR PN;BMTO4;BMTO4 BS Equity;BRASMOTOR SA-PREF;Consumer, Cyclical;10004;Consumer Discretionary;25;2.423.042.173;121,16;6,45;#N/A N/A;Holding
+BRISTOLMYERS DRN;BMYB34;BMYB34 BS Equity;BRISTOL-MYERS SQUIBB CO-BDR;Consumer, Non-cyclical;10005;Health Care;35;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+NORD BRASIL ON;BNBR3;BNBR3 BS Equity;BANCO NORDESTE DO BRASIL SA;Financial;10008;Financials;40;2.072.915.136;42,32;49;#N/A N/A;Banco Múltiplo com Carteira Comercial
+FII BANRISUL CI;BNFS11;BNFS11 BS Equity;BANRISUL NOVAS FRONTEIRAS FI;Financial;10008;#N/A N/A;#N/A N/A;65.093.002;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+BANK AMERICA DRN;BOAC34;BOAC34 BS Equity;BANK OF AMERICA - BDR;Financial;10008;Financials;40;473.240.271.150;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+BOMBRIL PN;BOBR4;BOBR4 BS Equity;BOMBRIL-PREF;Consumer, Non-cyclical;10005;Consumer Staples;30;141.108.575;6,45;18,92;#N/A N/A;1080
+BOEING DRN;BOEI34;BOEI34 BS Equity;BOEING CO/THE-BDR;Industrial;10011;Industrials;20;246.988.340.860;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+ISHARES BOVA CI;BOVA11;BOVA11 BS Equity;ISHARES IBOVESPA;Funds;10009;#N/A N/A;#N/A N/A;1.432.392.578;#N/A N/A;#N/A N/A;Equity;#N/A N/A
+BANCO PAN PN;BPAN4;BPAN4 BS Equity;BANCO PAN SA;Financial;10008;Financials;40;2.229.696.391;185,3;47,03;#N/A N/A;Banco Múltiplo com Carteira Comercial
+BANPARA ON;BPAR3;BPAR3 BS Equity;BANCO ESTADO DO PARA S.A.;Financial;10008;#N/A N/A;#N/A N/A;#N/A N/A;0;0,02;#N/A N/A;Bancária
+FII ABSOLUTO CI;BPFF11;BPFF11 BS Equity;FII BRASIL PLURAL ABSOLUTO;Financial;10008;#N/A N/A;#N/A N/A;144.000.000;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+BR PHARMA ON;BPHA3;BPHA3 BS Equity;BRASIL PHARMA SA;Consumer, Non-cyclical;10005;Consumer Staples;30;1.299.722.888;325,4;89,63;#N/A N/A;Empresa do Setor de Varejo Farmacêutico.
+BRADESPAR ON;BRAP3;BRAP3 BS Equity;BRADESPAR SA;Financial;10008;Materials;15;5.024.911.682;27,4;22,36;#N/A N/A;Participação como Sócia ou Acionista de Outras Sociedades.
+BRADESPAR PN;BRAP4;BRAP4 BS Equity;BRADESPAR SA -PREF;Financial;10008;Materials;15;5.024.911.682;223,78;98,57;#N/A N/A;Participação como Sócia ou Acionista de Outras Sociedades.
+ISHARES BRAX CI;BRAX11;BRAX11 BS Equity;ISHARES BOVESPA IBRX;Funds;10009;#N/A N/A;#N/A N/A;124.795.998;#N/A N/A;#N/A N/A;Equity;#N/A N/A
+FII BC FUND CI;BRCR11;BRCR11 BS Equity;FII BTG PACTUAL CORP OFFICE;Financial;10008;#N/A N/A;#N/A N/A;2.043.568.283;19,22;100;#N/A N/A;#N/A N/A
+BRF SA ON;BRFS3;BRFS3 BS Equity;BRF SA;Consumer, Non-cyclical;10005;Consumer Staples;30;57.932.223.534;687,35;78,78;#N/A N/A;Holding Operacional
+ALFA CONSORC PNE;BRGE11;BRGE11 BS Equity;CONSORCIO ALFA DE ADMI-PRF E;Financial;10008;Financials;40;#N/A N/A;5,76;85,22;#N/A N/A;Participar como Socia de Outras Sociedades na Qualidade de Cotista. Acionista ou de Outra Forma Legalmente Adminssivel
+ALFA CONSORC PNF;BRGE12;BRGE12 BS Equity;CONSORCIO ALFA DE ADMI-PRF F;Financial;10008;Financials;40;197.379.944;17,37;79,98;#N/A N/A;Participar como Socia de Outras Sociedades na Qualidade de Cotista. Acionista ou de Outra Forma Legalmente Adminssivel
+ALFA CONSORC ON;BRGE3;BRGE3 BS Equity;CONSORCIO ALFA DE ADMINIST;Financial;10008;Financials;40;197.379.944;4,2;10,41;#N/A N/A;Participar como Socia de Outras Sociedades na Qualidade de Cotista. Acionista ou de Outra Forma Legalmente Adminssivel
+ALFA CONSORC PNA;BRGE5;BRGE5 BS Equity;CONSORCIO ALFA DE ADMI-PRF A;Financial;10008;Financials;40;#N/A N/A;0,09;56,47;#N/A N/A;Participar como Socia de Outras Sociedades na Qualidade de Cotista. Acionista ou de Outra Forma Legalmente Adminssivel
+ALFA CONSORC PNB;BRGE6;BRGE6 BS Equity;CONSORCIO ALFA DE ADMI-PRF B;Financial;10008;Financials;40;#N/A N/A;1,06;45,41;#N/A N/A;Participar como Socia de Outras Sociedades na Qualidade de Cotista. Acionista ou de Outra Forma Legalmente Adminssivel
+ALFA CONSORC PNC;BRGE7;BRGE7 BS Equity;CONSORCIO ALFA DE ADMI-PRF C;Financial;10008;Financials;40;#N/A N/A;0,17;78,4;#N/A N/A;Participar como Socia de Outras Sociedades na Qualidade de Cotista. Acionista ou de Outra Forma Legalmente Adminssivel
+ALFA CONSORC PND;BRGE8;BRGE8 BS Equity;CONSORCIO ALFA DE ADMI-PRF D;Financial;10008;Financials;40;#N/A N/A;1,77;86,13;#N/A N/A;Participar como Socia de Outras Sociedades na Qualidade de Cotista. Acionista ou de Outra Forma Legalmente Adminssivel
+BR INSURANCE ON;BRIN3;BRIN3 BS Equity;BRASIL INSURANCE PARTICIPACO;Financial;10008;Financials;40;543.748.199;95,95;95,99;#N/A N/A;Participação em Sociedades Corretoras de Seguros
+ALFA INVEST ON;BRIV3;BRIV3 BS Equity;BANCO ALFA DE INVESTIMENTO;Financial;10008;Financials;40;598.839.290;6,77;12,55;#N/A N/A;A Prática de Todas as Operações Permitidas À Sociedade da Espécie pelas Disposições Legais e Regulamentares que Então Vigorem. Inclusive as de Câmbio. Mas Excetuadas Outras que Dependem de Autoriazaçã
+ALFA INVEST PN;BRIV4;BRIV4 BS Equity;BANCO ALFA DE INVESTIME-PREF;Financial;10008;Financials;40;598.839.290;1,4;3,86;#N/A N/A;A Prática de Todas as Operações Permitidas À Sociedade da Espécie pelas Disposições Legais e Regulamentares que Então Vigorem. Inclusive as de Câmbio. Mas Excetuadas Outras que Dependem de Autoriazaçã
+BRASKEM ON;BRKM3;BRKM3 BS Equity;BRASKEM SA;Basic Materials;10002;Materials;15;12.721.438.040;12,92;2,86;#N/A N/A;"(1) Produção de Produtos Químicos e Petroquímicos Básicos. Resinas Termoplásticas. Utilidades e Energia Elétrica; (2) Prestação de Serviços Industriais; e (3) Participação em Outras Sociedades."
+BRASKEM PNA;BRKM5;BRKM5 BS Equity;BRASKEM SA-PREF A;Basic Materials;10002;Materials;15;12.721.438.040;143,12;41,49;#N/A N/A;"(1) Produção de Produtos Químicos e Petroquímicos Básicos. Resinas Termoplásticas. Utilidades e Energia Elétrica; (2) Prestação de Serviços Industriais; e (3) Participação em Outras Sociedades."
+BRASKEM PNB;BRKM6;BRKM6 BS Equity;BRASKEM SA-PREF B;Basic Materials;10002;Materials;15;12.721.438.040;0,59;100;#N/A N/A;"(1) Produção de Produtos Químicos e Petroquímicos Básicos. Resinas Termoplásticas. Utilidades e Energia Elétrica; (2) Prestação de Serviços Industriais; e (3) Participação em Outras Sociedades."
+BR MALLS PAR ON;BRML3;BRML3 BS Equity;BR MALLS PARTICIPACOES SA;Financial;10008;Financials;40;8.498.086.716;421,44;91,5;#N/A N/A;Holding
+BR PROPERT ON;BRPR3;BRPR3 BS Equity;BR PROPERTIES SA;Financial;10008;Financials;40;3.265.601.352;172,89;57,97;#N/A N/A;"Compra. Venda e Incorp. de Imóveis Comerciais Prontos ou A Construir; Admin de Imóveis Próprios ou de Terceiros; Arrendamento. Exploração Com. Locação Sub-Locação de Imóveis Comerciais Própr. e Outros"
+BANRISUL ON;BRSR3;BRSR3 BS Equity;BANCO ESTADO RIO GRANDE SUL;Financial;10008;Financials;40;5.880.382.186;0,8;0,39;#N/A N/A;Banco Múltiplo Atuante nas Carteiras Comercial. Crédito. Financiamento e Investimento. Crédito Imobiliário. Desenvolvimento e Arrendamento Mercantil e de Investimentos.
+BANRISUL PNA;BRSR5;BRSR5 BS Equity;BANCO ESTADO RIO GRAN-PREF A;Financial;10008;Financials;40;5.880.382.186;0,64;18,12;#N/A N/A;Banco Múltiplo Atuante nas Carteiras Comercial. Crédito. Financiamento e Investimento. Crédito Imobiliário. Desenvolvimento e Arrendamento Mercantil e de Investimentos.
+BANRISUL PNB;BRSR6;BRSR6 BS Equity;BANCO ESTADO RIO GRAN-PREF B;Financial;10008;Financials;40;5.880.382.186;174,31;86,98;#N/A N/A;Banco Múltiplo Atuante nas Carteiras Comercial. Crédito. Financiamento e Investimento. Crédito Imobiliário. Desenvolvimento e Arrendamento Mercantil e de Investimentos.
+BANSANTANDER DR3;BSAN33;BSAN33 BS Equity;BANCO SANTANDER SA - BDR;Financial;10008;Financials;40;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;Instituição Financeira
+BIOSEV ON;BSEV3;BSEV3 BS Equity;BIOSEV SA;Consumer, Non-cyclical;10005;Consumer Staples;30;1.621.395.206;21,38;10,34;#N/A N/A;"Produção. Processamento. Industrialização. Distribuição e Comercialização de Canaâ?de-Açúcar e Seus Derivados. Açúcar e Etanol; entre Outros."
+BRB BANCO ON;BSLI3;BSLI3 BS Equity;BRB BANCO DE BRASILIA SA;Financial;10008;Financials;40;891.036.250;0,88;3,15;#N/A N/A;O Brb É Uma Instituição Financeira de Economia Mista. Controlada pelo Governo do Distrito Federal. Organizada sob A Forma de Banco Múltiplo
+BRB BANCO PN;BSLI4;BSLI4 BS Equity;BRB BANCO DE BRASILIA-PREF;Financial;10008;Financials;40;891.036.250;0,26;3,15;#N/A N/A;O Brb É Uma Instituição Financeira de Economia Mista. Controlada pelo Governo do Distrito Federal. Organizada sob A Forma de Banco Múltiplo
+B2W DIGITAL ON;BTOW3;BTOW3 BS Equity;B2W CIA DIGITAL;Communications;10003;Consumer Discretionary;25;7.299.277.163;98,77;38,69;#N/A N/A;Comércio Varejista e Atacadista em Geral de Quaisquer Bens e Serviços Através de Diversos Meios. em Especial da Internet. sem Restrição A Outros Meios.
+BATTISTELLA ON;BTTL3;BTTL3 BS Equity;BATTISTELLA ADM PART SA;Diversified;10006;Industrials;20;72.842.968;40,15;80,45;#N/A N/A;"Com.de Caminhões e Ônibus Scania. Seus Acessórios e Prest.serv.assist.técnica; Industrializ.e Com. de Madeiras; Prestação de Serviços sob A Forma de Trading Company; Partic. em Outras Sociedades."
+BATTISTELLA PN;BTTL4;BTTL4 BS Equity;BATTISTELLA ADM PART SA-PREF;Diversified;10006;Industrials;20;72.842.968;60;60,14;#N/A N/A;"Com.de Caminhões e Ônibus Scania. Seus Acessórios e Prest.serv.assist.técnica; Industrializ.e Com. de Madeiras; Prestação de Serviços sob A Forma de Trading Company; Partic. em Outras Sociedades."
+BUETTNER ON;BUET3;BUET3 BS Equity;BUETTNER SA INDUSTRIA E COME;Consumer, Cyclical;10004;Consumer Discretionary;25;#N/A N/A;0,04;2,36;#N/A N/A;Banho e Cama
+BUETTNER PN;BUET4;BUET4 BS Equity;BUETTNER SA INDUSTRIA E COME;Consumer, Cyclical;10004;Consumer Discretionary;25;#N/A N/A;0,12;3,7;#N/A N/A;Banho e Cama
+BMFBOVESPA ON;BVMF3;BVMF3 BS Equity;BM&FBOVESPA SA;Financial;10008;Financials;40;20.026.000.000;1.739,07;91,53;#N/A N/A;A Bm&fbovespa Tem como Principais Objetivos Administrar Mercados Organizados de Títulos. Valores Mobiliários e Contratos Derivativos.
+CONST A LIND ON;CALI3;CALI3 BS Equity;CONST ADOLPHO LINDENBERG SA;Consumer, Cyclical;10004;Industrials;20;#N/A N/A;0;0,54;#N/A N/A;Construção de Edifícios
+CONST A LIND PN;CALI4;CALI4 BS Equity;CONST ADOLPHO LINDENBERG-PRF;Consumer, Cyclical;10004;Industrials;20;#N/A N/A;0,02;8,52;#N/A N/A;Construção de Edifícios
+CAMBUCI PN;CAMB4;CAMB4 BS Equity;CAMBUCI S.A.-PREF;Consumer, Cyclical;10004;Consumer Discretionary;25;55.515.239;6,9;27,09;#N/A N/A;#N/A N/A
+CSU CARDSYST ON;CARD3;CARD3 BS Equity;CSU CARDSYSTEM SA;Financial;10008;Information Technology;45;132.506.000;14,96;35,78;#N/A N/A;Terceirização em Administração e Processamento de Meios Eletrônicos de Pagamento. Infraestrutura e Gestão em Terceirização de Contact Center. Desenvolvimento e Gestão Operacional de Programas Market
+CASAN ON;CASN3;CASN3 BS Equity;CIA CATARINENSE AGUAS SANEAM;Utilities;10014;#N/A N/A;#N/A N/A;#N/A N/A;0;0;#N/A N/A;Atuar como Instituição Integrante do Sistema de Saneamento Básico e de Saúde do Estado de Santa Catarina Através dos Serviços de Captação. Tratamento e Distribuição de Água e Tratamento de Esgoto.
+CASAN PN;CASN4;CASN4 BS Equity;CIA CATARINENSE AGUAS SAN-PF;Utilities;10014;#N/A N/A;#N/A N/A;#N/A N/A;0;0;#N/A N/A;Atuar como Instituição Integrante do Sistema de Saneamento Básico e de Saúde do Estado de Santa Catarina Através dos Serviços de Captação. Tratamento e Distribuição de Água e Tratamento de Esgoto.
+CATERPILLAR DRN;CATP34;CATP34 BS Equity;CATERPILLAR-BDR;Industrial;10011;Industrials;20;166.831.399.083;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+AMPLA ENERG ON *;CBEE3;CBEE3 BS Equity;AMPLA ENERGIA E SERVICOS SA;Utilities;10014;Utilities;55;4.667.793.943;14.513,23;0,37;#N/A N/A;Distribuição de Energia Elétrica
+COBRASMA ON;CBMA3;CBMA3 BS Equity;COBRASMA SA;Industrial;10011;#N/A N/A;#N/A N/A;3.077.546;10,67;26,48;#N/A N/A;Construção e Reparação de Material Ferroviário
+COBRASMA PN;CBMA4;CBMA4 BS Equity;COBRASMA SA-PREF;Industrial;10011;#N/A N/A;#N/A N/A;3.077.546;58,94;94,63;#N/A N/A;Construção e Reparação de Material Ferroviário
+FII C BRANCO CI;CBOP11;CBOP11 BS Equity;CASTELLO BRANCO OF PARK FII;Financial;10008;#N/A N/A;#N/A N/A;101.597.000;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+CHIARELLI ON;CCHI3;CCHI3 BS Equity;CERAMICA CHIARELLI S.A.;Industrial;10011;Industrials;20;3.900.000;24,81;37,67;#N/A N/A;Industria Ceramica
+CHIARELLI PN;CCHI4;CCHI4 BS Equity;CERAMICA CHIARELLI S.A.-PREF;Industrial;10011;Industrials;20;3.900.000;12,14;100;#N/A N/A;Industria Ceramica
+CYRE COM-CCP ON;CCPR3;CCPR3 BS Equity;CYRELA COMMERCIAL PROPERTIES;Financial;10008;Financials;40;1.140.420.000;24,7;29,76;#N/A N/A;Incorporação de Empreendimentos Imobiliários
+CCR SA ON;CCRO3;CCRO3 BS Equity;CCR SA;Consumer, Non-cyclical;10005;Industrials;20;31.162.614.080;861,25;48,78;#N/A N/A;Prestadora de Serviços Públicos. Via Concessão. nas Área de Rodoviária. Metroviária. Inspeção Veicular e Aeroportuária.
+CCX CARVAO ON;CCXC3;CCXC3 BS Equity;CCX CARVAO DA COLOMBIA SA;Energy;10007;Energy;10;39.128.275;46,99;27,62;#N/A N/A;Desenvolvimento de Projetos de Carvão na Colômbia. Incluindo. Mas Não Limitado A. Pesquisa. Exploração. Lavra. Beneficiamento. Industrialização. Transporte. Exportação e Comércio de Carvão
+CEB ON;CEBR3;CEBR3 BS Equity;CIA ENERGETICA DE BRASILIA;Utilities;10014;Utilities;55;183.115.679;0,46;10,15;#N/A N/A;Holding - Geração e Distribuição de Energia Elétrica
+CEB PNA;CEBR5;CEBR5 BS Equity;CIA ENERGETICA BRASIL-PF A;Utilities;10014;Utilities;55;183.115.679;1,25;95,28;#N/A N/A;Holding - Geração e Distribuição de Energia Elétrica
+CEB PNB;CEBR6;CEBR6 BS Equity;CIA ENERGETICA BRASIL-PF B;Utilities;10014;Utilities;55;183.115.679;3,22;97,9;#N/A N/A;Holding - Geração e Distribuição de Energia Elétrica
+CEDRO ON;CEDO3;CEDO3 BS Equity;CIA DE FIACAO E TECIDOS CEDR;Consumer, Cyclical;10004;Consumer Discretionary;25;96.192.459;1,27;22,24;#N/A N/A;Indústria Têxtil
+CEDRO PN;CEDO4;CEDO4 BS Equity;CIA DE FIACAO E TECIDOS-PREF;Consumer, Cyclical;10004;Consumer Discretionary;25;96.192.459;1,57;36,56;#N/A N/A;Indústria Têxtil
+COELBA ON;CEEB3;CEEB3 BS Equity;CIA ELETRICIDADE DA BAHIA;Utilities;10014;Utilities;55;4.851.270.029;2,26;2,07;#N/A N/A;Distribuição de Energia Elétrica
+COELBA PNA;CEEB5;CEEB5 BS Equity;CIA ELETRICIDADE DE BAH-PR A;Utilities;10014;Utilities;55;4.851.270.029;0,31;1,56;#N/A N/A;Distribuição de Energia Elétrica
+CEEE-D ON;CEED3;CEED3 BS Equity;CIA ESTADUAL DE DISTRIBUICAO;Utilities;10014;Utilities;55;305.911.564;2,74;0,72;#N/A N/A;Prestação de Serviços de Natureza Pública ou Privada. no Setor de Distribuição de Energia Elétrica.
+CEEE-D PN;CEED4;CEED4 BS Equity;CIA ESTADUAL DE DISTRIBUICAO;Utilities;10014;Utilities;55;305.911.564;3,01;45,91;#N/A N/A;Prestação de Serviços de Natureza Pública ou Privada. no Setor de Distribuição de Energia Elétrica.
+CEG ON *;CEGR3;CEGR3 BS Equity;CIA DISTRIBUIDORA DE GAS;Utilities;10014;Utilities;55;#N/A N/A;4.681,42;9,02;#N/A N/A;Distribuição de Gás Canalizado no Estado do Rio de Janeiro.
+CELPA ON;CELP3;CELP3 BS Equity;CENTRAIS ELET DO PARA SA;Utilities;10014;Utilities;55;2.479.684.749;9,52;0,5;#N/A N/A;Distribuição de Energia Elétrica
+CELPA PNA;CELP5;CELP5 BS Equity;CENTRAIS ELET DO PARA-PREF A;Utilities;10014;Utilities;55;2.479.684.749;1,82;84,03;#N/A N/A;Distribuição de Energia Elétrica
+CELPA PNB;CELP6;CELP6 BS Equity;CENTRAIS ELET DO PARA-PRF B;Utilities;10014;Utilities;55;2.479.684.749;1,09;100;#N/A N/A;Distribuição de Energia Elétrica
+CELPA PNC;CELP7;CELP7 BS Equity;CENTRAIS ELET DO PARA-PREF C;Utilities;10014;Utilities;55;2.479.684.749;1,09;90,35;#N/A N/A;Distribuição de Energia Elétrica
+CELPE PNA;CEPE5;CEPE5 BS Equity;CIA ENERGETICA DE PER-PREF A;Utilities;10014;Utilities;55;1.194.544.332;7,1;93,87;#N/A N/A;Estudar. Projetar. Construir e Explorar os Sistemas de Distribuição e Comercialização Aos Consumidores Finais de Energia Elétrica. Bem como A Geraçãa de Energia Elétrica em Sistema Isolado.
+CESP ON;CESP3;CESP3 BS Equity;CIA ENERGETICA DE SAO PAULO;Utilities;10014;Utilities;55;8.123.616.743;6,43;5,89;#N/A N/A;Geração e Comercialização de Energia Elétrica
+CESP PNA;CESP5;CESP5 BS Equity;CIA ENERGETICA DE SP-PREF A;Utilities;10014;Utilities;55;8.123.616.743;0,95;12,44;#N/A N/A;Geração e Comercialização de Energia Elétrica
+CESP PNB;CESP6;CESP6 BS Equity;CIA ENERGETICA DE SP-PREF B;Utilities;10014;Utilities;55;8.123.616.743;176,38;83,7;#N/A N/A;Geração e Comercialização de Energia Elétrica
+COMGAS ON;CGAS3;CGAS3 BS Equity;CIA DE GAS DE SAO PAULO;Utilities;10014;Utilities;55;6.091.638.927;3,79;3,97;#N/A N/A;Setor de Atividade: Utilidade Pública: Distribuição de Gás Natural Canalizado.
+COMGAS PNA;CGAS5;CGAS5 BS Equity;CIA DE GAS DE SAO PAULO-PR A;Utilities;10014;Utilities;55;6.091.638.927;22,31;84,64;#N/A N/A;Setor de Atividade: Utilidade Pública: Distribuição de Gás Natural Canalizado.
+GRAZZIOTIN ON;CGRA3;CGRA3 BS Equity;GRAZZIOTIN SA;Consumer, Cyclical;10004;Consumer Discretionary;25;396.684.057;2,62;29,96;#N/A N/A;Comércio Varejista de Vestuário e Bazar.
+GRAZZIOTIN PN;CGRA4;CGRA4 BS Equity;GRAZZIOTIN SA-PREF;Consumer, Cyclical;10004;Consumer Discretionary;25;396.684.057;9,13;69,68;#N/A N/A;Comércio Varejista de Vestuário e Bazar.
+CHEVRON DRN;CHVX34;CHVX34 BS Equity;CHEVRON-BDR;Energy;10007;Energy;10;531.700.911.000;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+CIELO ON;CIEL3;CIEL3 BS Equity;CIELO SA;Consumer, Non-cyclical;10005;Information Technology;45;69.099.549.725;665,05;42,3;#N/A N/A;Empresa Prestadora de Serviços de Adquirência e Meios de Pagamento.
+CACIQUE ON;CIQU3;CIQU3 BS Equity;CIA CACIQUE DE CAFE SOLUVEL;Consumer, Non-cyclical;10005;Consumer Staples;30;265.696.200;0,54;6,52;#N/A N/A;A Exploração de Usinas de Café Solúvel e A Industrialização e Envasamento do Café Solúvel. do Café Torrado E/ou Moído
+CACIQUE PN;CIQU4;CIQU4 BS Equity;CIA CACIQUE DE CAFE SOLUV-PR;Consumer, Non-cyclical;10005;Consumer Staples;30;265.696.200;1,19;7,13;#N/A N/A;A Exploração de Usinas de Café Solúvel e A Industrialização e Envasamento do Café Solúvel. do Café Torrado E/ou Moído
+CELESC ON;CLSC3;CLSC3 BS Equity;CENTRAIS ELETRICA STA CATARI;Utilities;10014;Utilities;55;563.145.229;2,59;16,69;#N/A N/A;Holding do Setor de Energia
+CELESC PN;CLSC4;CLSC4 BS Equity;CENTRAIS ELETRICAS SANTA CAT;Utilities;10014;Utilities;55;563.145.229;17,33;75,19;#N/A N/A;Holding do Setor de Energia
+COMCAST DRN;CMCS34;CMCS34 BS Equity;COMCAST CORP-DES;Communications;10003;Consumer Discretionary;25;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+CEMAT ON;CMGR3;CMGR3 BS Equity;CENTRAIS ELET MATOGROSSENSES;Utilities;10014;Utilities;55;1.176.683.175;3,33;5,67;#N/A N/A;Distribuição de Energia Elétrica
+CEMAT PN;CMGR4;CMGR4 BS Equity;CENTRAIS ELET MATOGROSSENSES;Utilities;10014;Utilities;55;1.176.683.175;1,02;0,91;#N/A N/A;Distribuição de Energia Elétrica
+CEMIG ON;CMIG3;CMIG3 BS Equity;CIA ENERGETICA DE MINAS GER;Utilities;10014;Utilities;55;18.006.402.843;67,66;16,08;#N/A N/A;Concessionária de Serviço Público de Energia Elétrica.
+CEMIG PN;CMIG4;CMIG4 BS Equity;CIA ENERGETICA MINAS GER-PRF;Utilities;10014;Utilities;55;18.006.402.843;716,22;85,46;#N/A N/A;Concessionária de Serviço Público de Energia Elétrica.
+COCA COLA DRN;COCA34;COCA34 BS Equity;COCA COLA-BDR;Consumer, Non-cyclical;10005;Consumer Staples;30;488.568.542.280;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+COELCE ON;COCE3;COCE3 BS Equity;CIA ENERGETICA DO CEARA;Utilities;10014;Utilities;55;2.778.862.844;1;2,09;#N/A N/A;Distribuição de Energia Elétrica.
+COELCE PNA;COCE5;COCE5 BS Equity;CIA ENERGETICA DO CEARA-PR A;Utilities;10014;Utilities;55;2.778.862.844;13,7;48,48;#N/A N/A;Distribuição de Energia Elétrica.
+COELCE PNB;COCE6;COCE6 BS Equity;CIA ENERGETICA DO CEARA-PR B;Utilities;10014;Utilities;55;2.778.862.844;0;0,23;#N/A N/A;Distribuição de Energia Elétrica.
+COLGATE DRN;COLG34;COLG34 BS Equity;COLGATE-PALMOLIVE-BDR;Consumer, Non-cyclical;10005;Consumer Staples;30;170.261.796.000;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+COPHILLIPS DRN;COPH34;COPH34 BS Equity;CONOCOPHILLIPS - BDR;Energy;10007;Energy;10;231.158.769.900;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+COR RIBEIRO PN;CORR4;CORR4 BS Equity;CORREA RIBEIRO S.A.-PREF;Consumer, Cyclical;10004;Financials;40;#N/A N/A;0,02;98;#N/A N/A;#N/A N/A
+CPFL ENERGIA ON;CPFE3;CPFE3 BS Equity;CPFL ENERGIA SA;Utilities;10014;Utilities;55;18.966.425.665;319,84;33,24;#N/A N/A;Gestão de Participações Societárias (holdings)
+COPEL ON;CPLE3;CPLE3 BS Equity;CIA PARANAENSE DE ENERGIA;Utilities;10014;Utilities;55;8.040.811.283;20,17;13,9;#N/A N/A;Geração. Transmissão. Comercialização e Distribuição de Energia Elétrica
+COPEL PNA;CPLE5;CPLE5 BS Equity;CIA PARANAENSE DE ENERGI-PFA;Utilities;10014;Utilities;55;8.040.811.283;0,25;66,07;#N/A N/A;Geração. Transmissão. Comercialização e Distribuição de Energia Elétrica
+COPEL PNB;CPLE6;CPLE6 BS Equity;CIA PARANAENSE DE ENERGI-PFB;Utilities;10014;Utilities;55;8.040.811.283;100,95;78,72;#N/A N/A;Geração. Transmissão. Comercialização e Distribuição de Energia Elétrica
+CPFL RENOVAV ON;CPRE3;CPRE3 BS Equity;CPFL ENERGIAS RENOVAVEIS;Energy;10007;Utilities;55;5.989.063.654;104,23;20,71;#N/A N/A;Geração de Energias Renováveis.
+CR2 ON;CRDE3;CRDE3 BS Equity;CR2 EMPREENDIMENTOS IMOBILIA;Financial;10008;Consumer Discretionary;25;128.858.545;33,3;68,75;#N/A N/A;Incorporação Imobiliária
+CREMER ON;CREM3;CREM3 BS Equity;CREMER SA;Consumer, Non-cyclical;10005;Health Care;35;471.648.000;1,25;4,24;#N/A N/A;Indústria e Comércio de Produtos Têxteis (Tecidos e Não Tecidos). Cirúrgicos. Hospitalares.adesivos Cirúrgicos e Industriais. Cosméticos. de Perfumaria e Higiene. Comércio de Medicamentos. Saneantes
+ALFA FINANC ON;CRIV3;CRIV3 BS Equity;FINANCEIRA ALFA SA;Financial;10008;Financials;40;374.061.768;6,89;11,59;#N/A N/A;A Prática de Todas as Operações de Crédito. Financiamento e Investimentos Permitidas pelas Leis e Regulamentos Aplicáveis À Espécie.
+ALFA FINANC PN;CRIV4;CRIV4 BS Equity;FINANCEIRA ALFA SA-PREF;Financial;10008;Financials;40;374.061.768;16,86;36,4;#N/A N/A;A Prática de Todas as Operações de Crédito. Financiamento e Investimentos Permitidas pelas Leis e Regulamentos Aplicáveis À Espécie.
+SOUZA CRUZ ON;CRUZ3;CRUZ3 BS Equity;SOUZA CRUZ SA;Consumer, Non-cyclical;10005;Consumer Staples;30;31.333.235.250;378,14;24,74;#N/A N/A;Fabricação de Cigarros e Exportação de Fumo.
+SEG AL BAHIA ON;CSAB3;CSAB3 BS Equity;CIA SEGUROS ALIANCA DA BAHIA;Financial;10008;Financials;40;245.760.000;1,46;38,01;#N/A N/A;Companhia de Seguros
+SEG AL BAHIA PN;CSAB4;CSAB4 BS Equity;CIA SEGUROS ALIANCA BAHIA-PR;Financial;10008;Financials;40;245.760.000;1,2;31,29;#N/A N/A;Companhia de Seguros
+COSAN ON;CSAN3;CSAN3 BS Equity;COSAN SA INDUSTRIA COMERCIO;Energy;10007;Energy;10;12.990.137.861;121,15;29,75;#N/A N/A;Produção de Açúcar. Etanol e Cogeração de Energia. Distribuição de Combustíveis.produção e Distribuição de Lubrificantes.tranporte e Carregamento de Açúcar. Operador de Terras e Distribuição de Gás.
+CISCO DRN;CSCO34;CSCO34 BS Equity;CISCO-BDR;Communications;10003;Information Technology;45;352.354.927.300;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+COPASA ON;CSMG3;CSMG3 BS Equity;CIA SANEAMENTO MINAS GERAIS;Utilities;10014;Utilities;55;2.920.300.092;58,13;48,57;#N/A N/A;Prestar Serviços de Saneamento.
+ISHARES CSMO CI;CSMO11;CSMO11 BS Equity;ISHARES BM&F BOVESPA CONSUMO;Funds;10009;#N/A N/A;#N/A N/A;5.600.000;#N/A N/A;#N/A N/A;Equity;#N/A N/A
+SID NACIONAL ON;CSNA3;CSNA3 BS Equity;CIA SIDERURGICA NACIONAL SA;Basic Materials;10002;Materials;15;8.408.395.725;625,91;45,11;#N/A N/A;A Companhia Siderúrgica Nacional Atua Nos Setores de Mineração. Siderurgia. Logística. Cimento e Energia.
+COSERN ON;CSRN3;CSRN3 BS Equity;CIA ENERGETICA DO RIO GRANDE;Utilities;10014;Utilities;55;1.486.145.980;1,35;1,04;#N/A N/A;Serviço Público de Distribuição de Energia Elétrica
+COSERN PNA;CSRN5;CSRN5 BS Equity;CIA ENERGETICA DO RIO-PREF A;Utilities;10014;Utilities;55;1.486.145.980;0,37;1,77;#N/A N/A;Serviço Público de Distribuição de Energia Elétrica
+COSERN PNB;CSRN6;CSRN6 BS Equity;CIA ENERGETICA DO RIO-PREF B;Utilities;10014;Utilities;55;1.486.145.980;0,23;1,29;#N/A N/A;Serviço Público de Distribuição de Energia Elétrica
+CONTAX UNT;CTAX11;CTAX11 BS Equity;CONTAX PARTICIPACOES-UNIT;Technology;10013;Industrials;20;708.824.134;69,15;100;#N/A N/A;O Grupo Contax Atua em Toda A Cadeia de Relacionamento entre Empresas e Seus Consumidores. Através de Diversos Canais de Comunicação Remotos e Presenciais.
+CONTAX ON;CTAX3;CTAX3 BS Equity;CONTAX PARTICIPACOES SA;Technology;10013;Industrials;20;708.824.134;48,79;40,75;#N/A N/A;O Grupo Contax Atua em Toda A Cadeia de Relacionamento entre Empresas e Seus Consumidores. Através de Diversos Canais de Comunicação Remotos e Presenciais.
+CONTAX PN;CTAX4;CTAX4 BS Equity;CONTAX PARTICIPACOES-PREF;Technology;10013;Industrials;20;708.824.134;134,38;59,45;#N/A N/A;O Grupo Contax Atua em Toda A Cadeia de Relacionamento entre Empresas e Seus Consumidores. Através de Diversos Canais de Comunicação Remotos e Presenciais.
+CITIGROUP DRN;CTGP34;CTGP34 BS Equity;CITIGROUP-BDR;Financial;10008;Financials;40;424.751.397.300;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+CETIP ON;CTIP3;CTIP3 BS Equity;CETIP SA-MERCADOS ORGANIZADO;Financial;10008;Financials;40;8.704.634.274;217,96;83,08;#N/A N/A;Sociedade Administradora de Mercados de Balcão Organizados.
+KARSTEN ON;CTKA3;CTKA3 BS Equity;KARSTEN SA;Consumer, Cyclical;10004;Consumer Discretionary;25;108.064.395;2,76;9,57;#N/A N/A;Fabricação. Exportação. Importação e o Comércio Atacadista e Varejista de Fios. Tecidos e Produtos Têxteis em Geral.
+KARSTEN PN;CTKA4;CTKA4 BS Equity;CIA TEXTIL KARSTEN-PREF;Consumer, Cyclical;10004;Consumer Discretionary;25;108.064.395;29,71;75,99;#N/A N/A;Fabricação. Exportação. Importação e o Comércio Atacadista e Varejista de Fios. Tecidos e Produtos Têxteis em Geral.
+COTEMINAS ON;CTNM3;CTNM3 BS Equity;CIA TECIDOS NORTE DE MINAS;Consumer, Cyclical;10004;Consumer Discretionary;25;143.704.603;1,2;2,16;#N/A N/A;Holding
+COTEMINAS PN;CTNM4;CTNM4 BS Equity;CIA TECIDOS NORTE DE MINA-PR;Consumer, Cyclical;10004;Consumer Discretionary;25;143.704.603;44,93;67,16;#N/A N/A;Holding
+SANTANENSE ON;CTSA3;CTSA3 BS Equity;CIA TECIDOS SANTANENSE;Consumer, Cyclical;10004;Consumer Discretionary;25;132.723.206;2,88;7,58;#N/A N/A;Indústria Têxtil
+SANTANENSE PN;CTSA4;CTSA4 BS Equity;CIA TECIDOS SANTANENSE-PREF;Consumer, Cyclical;10004;Consumer Discretionary;25;132.723.206;0,8;63,67;#N/A N/A;Indústria Têxtil
+FII C TEXTIL CI;CTXT11;CTXT11 BS Equity;FII CENTRO TEXTIL INTL;Financial;10008;#N/A N/A;#N/A N/A;121.671.684;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+CVC BRASIL ON;CVCB3;CVCB3 BS Equity;CVC BRASIL OPERADORA E AGENC;Consumer, Cyclical;10004;Consumer Discretionary;25;2.037.712.693;69,06;52,53;#N/A N/A;Serviços de Turismo. Compreendendo A Intermediação. Individualmente ou na Forma Agregada. de Passagens Aéreas. Transporte Terrestre. Reservas de Hotéis. Passagens de Cruzeiros Marítimos. entre Outros.
+FII CX RBRAV CI;CXRI11;CXRI11 BS Equity;FII CAIXA RIO BRAVO;Financial;10008;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FII CX TRX CI;CXTL11;CXTL11 BS Equity;FI IM CAIXA TRX LOGISTICA RE;Financial;10008;#N/A N/A;#N/A N/A;34.570.065;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+CYRELA REALT ON;CYRE3;CYRE3 BS Equity;CYRELA BRAZIL REALTY SA EMP;Financial;10008;Consumer Discretionary;25;4.976.797.848;234,61;58,69;#N/A N/A;Incorporação Imobiliária
+COSAN LTD DR3;CZLT33;CZLT33 BS Equity;COSAN LTD-BDR;Consumer, Non-cyclical;10005;Energy;10;6.366.566.406;#N/A N/A;#N/A N/A;#N/A N/A;Produção de Açúcar. Etanol e Cogeração de Energia. Distribuição de Combustíveis. Produção Ee Distribuição de Lubrificantes. Transporte e Carregamento de Açúcar e Operador Logístico
+DUFRY AG DR3;DAGB33;DAGB33 BS Equity;DUFRY GROUP-BDR;Consumer, Cyclical;10004;Consumer Discretionary;25;14.469.737.568;#N/A N/A;#N/A N/A;#N/A N/A;Adquirir. Deter. Administrar Continuamente. Vender e Financiar Participações em Companhias de Todos os Tipos na Suíça e no Exterior.
+DASA ON;DASA3;DASA3 BS Equity;DIAGNOSTICOS DA AMERICA SA;Consumer, Non-cyclical;10005;Health Care;35;3.289.521.808;55,16;17,69;#N/A N/A;Análises Clínicas e Medicina Diagnóstica
+DAYCOVAL PN;DAYC4;DAYC4 BS Equity;BANCO DAYCOVAL SA;Financial;10008;Financials;40;2.284.873.259;49,65;56,75;#N/A N/A;Banco Múltiplo com Carteira Comercial. de Câmbio. de Investimento e de Crédito e Financiamento.
+D H B ON;DHBI3;DHBI3 BS Equity;DHB INDUSTRIA E COMERCIO SA;Consumer, Cyclical;10004;Consumer Discretionary;25;#N/A N/A;0,09;6,19;#N/A N/A;Participação em Outras Sociedades - Holding
+D H B PN;DHBI4;DHBI4 BS Equity;DHB INDUSTRIA E COMERCIO-PRF;Consumer, Cyclical;10004;Consumer Discretionary;25;3.777.078;0,86;31,26;#N/A N/A;Participação em Outras Sociedades - Holding
+DIRECIONAL ON;DIRR3;DIRR3 BS Equity;DIRECIONAL ENGENHARIA SA;Financial;10008;Consumer Discretionary;25;1.490.867.990;85,27;54,91;#N/A N/A;Incorporação. Construção e Comercialização de Imóveis Próprios ou de Terceiros e Prestação de Serviços de Engenharia.
+WALT DISNEY DRN;DISB34;DISB34 BS Equity;WALT DISNEY CO/THE-BDR;Communications;10003;Consumer Discretionary;25;395.886.668.644;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+IT NOW IDIV CI;DIVO11;DIVO11 BS Equity;IT NOW IDIV FUNDO DE INDICE;Funds;10009;#N/A N/A;#N/A N/A;43.848.000;#N/A N/A;#N/A N/A;Equity;#N/A N/A
+DOHLER ON;DOHL3;DOHL3 BS Equity;DOHLER SA COMERCIO E INDUSTR;Consumer, Cyclical;10004;Consumer Discretionary;25;283.821.109;10,01;22,97;#N/A N/A;Fabricação de Artefatos Têxteis para Uso Doméstico
+DOHLER PN;DOHL4;DOHL4 BS Equity;DOHLER SA COMERCIO E IN-PREF;Consumer, Cyclical;10004;Consumer Discretionary;25;283.821.109;9,73;57,46;#N/A N/A;Fabricação de Artefatos Têxteis para Uso Doméstico
+FII DOMO CI;DOMC11;DOMC11 BS Equity;FII DOMO;Financial;10008;#N/A N/A;#N/A N/A;122.500.000;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+DOW CHEMICAL DRN;DOWB34;DOWB34 BS Equity;DOW CHEMICAL CO/THE-BDR;Basic Materials;10002;Materials;15;134.945.234.500;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+DTCOM-DIRECT ON;DTCY3;DTCY3 BS Equity;DTCOM-DIRECT TO COMPANY SA;Consumer, Non-cyclical;10005;Information Technology;45;23.575.360;5,66;10,7;#N/A N/A;Treinamento Empresarial Via Satélite
+DURATEX ON;DTEX3;DTEX3 BS Equity;DURATEX SA;Industrial;10011;Materials;15;5.584.094.025;279,47;41,99;#N/A N/A;Fabricação. Comércio. Importação e Exportação de Produtos Derivados de Madeira. de Produtos de Metais e Materiais Cerâmicos
+MET DUQUE PN;DUQE4;DUQE4 BS Equity;METALURGICA DUQUE SA-PREF;Basic Materials;10002;Industrials;20;#N/A N/A;0,63;35,98;#N/A N/A;Fabricação de Peças P/Bicicletas. Peças P/Eletrodomésticos e Linha Automotiva.
+ACO ALTONA ON;EALT3;EALT3 BS Equity;ELECTRO ACO ALTONA SA;Industrial;10011;Materials;15;#N/A N/A;0,04;4,48;#N/A N/A;Fundição de Ferro e Aço
+ACO ALTONA PN;EALT4;EALT4 BS Equity;ELECTRO ACO ALTONA SA-PREF;Industrial;10011;Materials;15;48.728.249;0,39;30,78;#N/A N/A;Fundição de Ferro e Aço
+EBAY DRN;EBAY34;EBAY34 BS Equity;EBAY INC - BDR;Communications;10003;Information Technology;45;169.996.464.000;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+EMBRATEL PAR ON *;EBTP3;EBTP3 BS Equity;EMBRATEL PARTICIPACOES SA;Communications;10003;Telecommunication Services;50;18.614.626.522;10.147,75;1,59;#N/A N/A;Exercer Controle de Empresas de Telecomunicações
+EMBRATEL PAR PN *;EBTP4;EBTP4 BS Equity;EMBRATEL PARTICIPACOES-PREF;Communications;10003;Telecommunication Services;50;18.614.626.522;10.379,92;1,75;#N/A N/A;Exercer Controle de Empresas de Telecomunicações
+ISHARES ECOO CI;ECOO11;ECOO11 BS Equity;ISHARES CARBONO EFICIENTE;Funds;10009;#N/A N/A;#N/A N/A;106.147.995;#N/A N/A;#N/A N/A;Equity;#N/A N/A
+ECORODOVIAS ON;ECOR3;ECOR3 BS Equity;ECORODOVIAS INFRA E LOG SA;Consumer, Non-cyclical;10005;Industrials;20;6.145.689.880;198,95;35,61;#N/A N/A;Exploração Direta ou Indireta de Negócios de Concessão de Obras e Serviços Públicos e Organização Logísitica do Transporte de Carga.
+ENCORPAR ON;ECPR3;ECPR3 BS Equity;EMP NACL COM REDITO E PART;Consumer, Cyclical;10004;Consumer Discretionary;25;#N/A N/A;0,22;21,69;#N/A N/A;Holding
+ENCORPAR PN;ECPR4;ECPR4 BS Equity;EMP NACL COM REDITO E PAR-PF;Consumer, Cyclical;10004;Consumer Discretionary;25;#N/A N/A;0,21;23,95;#N/A N/A;Holding
+CEEE-GT ON;EEEL3;EEEL3 BS Equity;CIA ESTADUAL DE GERACAO E TR;Utilities;10014;Utilities;55;529.061.172;0,01;0;#N/A N/A;Prestação de Serviços de Natureza Pública ou Privada. no Setor de Geração e Transmissão de Energia Elétrica
+CEEE-GT PN;EEEL4;EEEL4 BS Equity;CIA ESTADUAL DE GERACAO E TR;Utilities;10014;Utilities;55;529.061.172;0,05;0,81;#N/A N/A;Prestação de Serviços de Natureza Pública ou Privada. no Setor de Geração e Transmissão de Energia Elétrica
+ELEKTRO ON;EKTR3;EKTR3 BS Equity;ELETRICIDADE E SERVICOS SA;Utilities;10014;Utilities;55;2.993.580.644;0,03;0,03;#N/A N/A;Distribuição de Energia Elétrica
+ELEKTRO PN;EKTR4;EKTR4 BS Equity;ELECTRICIDADE E SERVICOS-PRF;Utilities;10014;Utilities;55;2.993.580.644;0,6;0,59;#N/A N/A;Distribuição de Energia Elétrica
+ELEKEIROZ ON;ELEK3;ELEK3 BS Equity;ELEKEIROZ S/A;Basic Materials;10002;Materials;15;247.373.752;0,26;1,77;#N/A N/A;Industrialização e Comercialização de Produtos Químicos
+ELEKEIROZ PN;ELEK4;ELEK4 BS Equity;ELEKEIROZ SA-PRF;Basic Materials;10002;Materials;15;247.373.752;0,85;5,01;#N/A N/A;Industrialização e Comercialização de Produtos Químicos
+ELETROBRAS ON;ELET3;ELET3 BS Equity;CENTRAIS ELETRICAS BRASILIER;Utilities;10014;Utilities;55;8.594.224.865;278,72;25,64;#N/A N/A;Empresa Holding de Geração. Transmissão e Distribuição de Energia
+ELETROBRAS PNA;ELET5;ELET5 BS Equity;CENTRAIS ELETRICAS BRAS-PR A;Utilities;10014;Utilities;55;8.594.224.865;0,1;65,84;#N/A N/A;Empresa Holding de Geração. Transmissão e Distribuição de Energia
+ELETROBRAS PNB;ELET6;ELET6 BS Equity;CENTRAIS ELETRICAS BRAS-PR B;Utilities;10014;Utilities;55;8.594.224.865;228,48;86,08;#N/A N/A;Empresa Holding de Geração. Transmissão e Distribuição de Energia
+ELETROPAULO ON;ELPL3;ELPL3 BS Equity;ELETROPAULO METROPOLITANA SP;Utilities;10014;Utilities;55;1.699.806.574;1,44;2,16;#N/A N/A;Distribuição de Energia Elétrica
+ELETROPAULO PN;ELPL4;ELPL4 BS Equity;ELETROPAULO METROPOLI-PREF;Utilities;10014;Utilities;55;1.699.806.574;92,74;92,06;#N/A N/A;Distribuição de Energia Elétrica
+EMAE PN;EMAE4;EMAE4 BS Equity;EMPRESA METROPOLITANA-PREF;Utilities;10014;Utilities;55;145.940.982;5,51;24,77;#N/A N/A;Produção de Energia Elétrica
+EMBRAER ON;EMBR3;EMBR3 BS Equity;EMBRAER SA;Industrial;10011;Industrials;20;17.504.593.750;640,35;86,48;#N/A N/A;Produção de Aerovanes
+ENERGIAS BR ON;ENBR3;ENBR3 BS Equity;EDP - ENERGIAS DO BRASIL SA;Utilities;10014;Utilities;55;4.811.797.681;232,59;48,82;#N/A N/A;Área de Negócios: Geração. Distribuição e Comercialização de Energia Elétrica
+ENEVA ON;ENEV3;ENEV3 BS Equity;ENEVA SA;Utilities;10014;Utilities;55;697.288.069;238,93;28,44;#N/A N/A;Empresa de Recursos Naturais e de Geração de Energia Elétrica. Integração Vertical na Geração de Energia Elétrica.
+ENERGISA UNT;ENGI11;ENGI11 BS Equity;ENERGISA SA-UNITS;Utilities;10014;Utilities;55;2.701.341.366;249,14;100;#N/A N/A;Sociedade de Participações em Outras Empresas. Predominantemente em Distribuidoras de Energia Elétrica.
+ENERGISA ON;ENGI3;ENGI3 BS Equity;ENERGISA S.A.;Utilities;10014;Utilities;55;2.701.341.366;75,27;12,7;#N/A N/A;Sociedade de Participações em Outras Empresas. Predominantemente em Distribuidoras de Energia Elétrica.
+ENERGISA PN;ENGI4;ENGI4 BS Equity;ENERGISA SA-PREFERENCE;Utilities;10014;Utilities;55;2.701.341.366;79,01;12,1;#N/A N/A;Sociedade de Participações em Outras Empresas. Predominantemente em Distribuidoras de Energia Elétrica.
+EQUATORIAL ON;EQTL3;EQTL3 BS Equity;EQUATORIAL ENERGIA SA - ORD;Utilities;10014;Utilities;55;5.536.681.121;188,49;94,98;#N/A N/A;Empresa Holding com Atuação no Setor Elétrico
+ESTACIO PART ON;ESTC3;ESTC3 BS Equity;ESTACIO PARTICIPACOES SA;Consumer, Non-cyclical;10005;Consumer Discretionary;25;8.797.339.465;291,99;92,57;#N/A N/A;A Estácio Participações S.A e as Sociedades de Propósito Específico por Elas Controladas Desenvolvem. Principalmente. Atividades de (i) Ensino Superior nas Modalidades Presencial e A Distância.
+ESTRELA ON;ESTR3;ESTR3 BS Equity;MANUF BRINQUEDOS ESTRELA SA;Consumer, Cyclical;10004;Consumer Discretionary;25;13.795.827;0,13;2,32;#N/A N/A;Fabricação de Brinquedos e Jogos Recreativos
+ESTRELA PN;ESTR4;ESTR4 BS Equity;MANUF BRINQUEDOS ESTRELA-PRF;Consumer, Cyclical;10004;Consumer Discretionary;25;13.795.827;9,44;87,57;#N/A N/A;Fabricação de Brinquedos e Jogos Recreativos
+ETERNIT ON;ETER3;ETER3 BS Equity;ETERNIT SA;Industrial;10011;Materials;15;605.020.000;141,94;79,3;#N/A N/A;Industrialização e Comercialização de Produtos de Fibrocimento. Cimento. Concreto. Gesso. Produtos de Matéria Plástica. Bem como Outros Materiais de Construção e Respectivos Acessórios.
+EUCATEX ON;EUCA3;EUCA3 BS Equity;EUCATEX SA INDUSTRIA E COMER;Industrial;10011;Materials;15;319.536.433;12,57;40,2;#N/A N/A;Indústria e Comércio de Chapas de Fibra de Madeira
+EUCATEX PN;EUCA4;EUCA4 BS Equity;EUCATEX SA INDUSTRIA-PREF;Industrial;10011;Materials;15;319.536.433;58,47;95,29;#N/A N/A;Indústria e Comércio de Chapas de Fibra de Madeira
+FII EUROPAR CI;EURO11;EURO11 BS Equity;FUNDO DE INVEST IMOB EUROPAR;Financial;10008;#N/A N/A;#N/A N/A;65.994.499;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+EVEN ON;EVEN3;EVEN3 BS Equity;EVEN CONSTRUTORA E INCORPORA;Consumer, Cyclical;10004;Consumer Discretionary;25;1.353.101.766;218,13;93,5;#N/A N/A;Construção e Incorporação
+EXXON MOBIL DRN;EXXO34;EXXO34 BS Equity;EXXON MOBIL - BDR;Energy;10007;Energy;10;1.040.584.854.100;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+EZTEC ON;EZTC3;EZTC3 BS Equity;EZ TEC EMPREENDIMENTOS E PAR;Financial;10008;Consumer Discretionary;25;3.367.318.554;50,55;34,45;#N/A N/A;(a) Incorporação e Comercialização de Empreendimentos Imobiliários de Qualquer Natureza. (b) Administração e Locação de Imóveis Prórpios. (c) Loteamento de Terrenos. (d) Construção de Condomínios ...
+FIBAM PN;FBMC4;FBMC4 BS Equity;FIBAM CIA INDUSTRIAL-PREF;Basic Materials;10002;Industrials;20;10.171.196;0,35;75,64;#N/A N/A;Fabricação de Peças e Acessórios para Veículos Automotores Tais como Parafusos. Porcas. Arruelas. Roscas e Similares.
+FACEBOOK DRN;FBOK34;FBOK34 BS Equity;FACEBOOK INC;Communications;10003;Information Technology;45;524.074.187.500;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+FREEPORT DRN;FCXO34;FCXO34 BS Equity;FREEPORT-MCMORAN-BDR;Basic Materials;10002;Materials;15;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+FORD MOTORS DRN;FDMO34;FDMO34 BS Equity;FORD MOTOR COMPANY-BDR;Consumer, Cyclical;10004;Consumer Discretionary;25;139.189.893.885;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+FEDEX CORP DRN;FDXB34;FDXB34 BS Equity;FEDEX CORP-BDR;Industrial;10011;Industrials;20;123.492.588.780;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+FERBASA ON;FESA3;FESA3 BS Equity;FERBASA-FERRO LIGAS DA BAHIA;Basic Materials;10002;Materials;15;775.449.600;0,31;1,06;#N/A N/A;"Fabricação e Comercialização dos Diversos Tipos de Ferroligas;"
+FERBASA PN;FESA4;FESA4 BS Equity;CIA FERRO LIGAS DA BAHIA -FE;Basic Materials;10002;Materials;15;775.449.600;32,61;55,39;#N/A N/A;"Fabricação e Comercialização dos Diversos Tipos de Ferroligas;"
+FII RIOB RC CI;FFCI11;FFCI11 BS Equity;FI IMOB RIO BRAVO RENDA CORP;Financial;10008;#N/A N/A;#N/A N/A;221.614.838;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FER HERINGER ON;FHER3;FHER3 BS Equity;FERTILIZANTES HERINGER LTDA;Basic Materials;10002;Materials;15;295.190.869;15,63;32,24;#N/A N/A;Produção. Comercialização e Distribuição de Fertilizantes. com Atuação Nacional.
+FIBRIA ON;FIBR3;FIBR3 BS Equity;FIBRIA CELULOSE SA;Basic Materials;10002;Materials;15;17.077.805.136;222,34;40,14;#N/A N/A;#N/A N/A
+INVEST BEMGE ON;FIGE3;FIGE3 BS Equity;INVESTIMENTOS BEMGE SA;Financial;10008;Financials;40;#N/A N/A;0,12;14,72;#N/A N/A;Investimentos
+INVEST BEMGE PN;FIGE4;FIGE4 BS Equity;INVESTIMENTOS BEMGE SA-PREF;Financial;10008;Financials;40;#N/A N/A;0,2;12,42;#N/A N/A;Investimentos
+FII GEN SHOP CI;FIGS11;FIGS11 BS Equity;FII GENERAL SHOPPING ATIVO;Financial;10008;#N/A N/A;#N/A N/A;193.118.576;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FII INDL BR CI;FIIB11;FIIB11 BS Equity;FII INDUSTRIAL DO BRASIL;Financial;10008;#N/A N/A;#N/A N/A;199.354.797;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+IT NOW IFNC CI;FIND11;FIND11 BS Equity;IT NOW IFNC FUNDO DE INDICE;Funds;10009;#N/A N/A;#N/A N/A;31.566.000;#N/A N/A;#N/A N/A;Equity;#N/A N/A
+FII FATORFIX CI;FIXX11;FIXX11 BS Equity;FII FATOR IFIX;Financial;10008;#N/A N/A;#N/A N/A;27.444.239;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FORJA TAURUS ON;FJTA3;FJTA3 BS Equity;FORJAS TAURUS SA;Industrial;10011;Industrials;20;98.036.016;15,81;17,03;#N/A N/A;Indústria e Comércio de Armas
+FORJA TAURUS PN;FJTA4;FJTA4 BS Equity;FORJAS TAURUS SA-PREF;Industrial;10011;Industrials;20;98.036.016;56,23;66,35;#N/A N/A;Indústria e Comércio de Armas
+FII S F LIMA CI;FLMA11;FLMA11 BS Equity;FDO S F LIMA;Financial;10008;#N/A N/A;#N/A N/A;129.092.651;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FLEURY ON;FLRY3;FLRY3 BS Equity;FLEURY SA;Consumer, Non-cyclical;10005;Health Care;35;2.492.879.028;73,35;46,93;#N/A N/A;(i) A Prestação de Serviços Médicos e Medicina Diagnóstica. (ii) A Consultoria. Assessoria. Cursos e Palestras na Área da Saúde. Bem como A Prestação de Serviços que Visem A Promoção de Saúde
+FII MEMORIAL CI;FMOF11;FMOF11 BS Equity;FII MEMORIAL OFFICE;Financial;10008;#N/A N/A;#N/A N/A;58.065.315;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FII A BRANCA CI;FPAB11;FPAB11 BS Equity;FI IMOB PROJETO AGUA BRANCA;Financial;10008;#N/A N/A;#N/A N/A;240.000.000;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FRAS-LE ON;FRAS3;FRAS3 BS Equity;FRAS-LE SA;Consumer, Cyclical;10004;Consumer Discretionary;25;518.641.063;34,18;27,35;#N/A N/A;Indústria de Autopeças e Materiais de Fricção
+METALFRIO ON;FRIO3;FRIO3 BS Equity;METALFRIO SOLUTIONS SA;Consumer, Cyclical;10004;Industrials;20;47.240.836;17,48;42,18;#N/A N/A;Fabricação e Comercialiazação de Geladeiras e Similares. de Máquinas de Vendas Automáticas. Componentes e Peças
+FII V PARQUE CI;FVPQ11;FVPQ11 BS Equity;FUNDO INVESTIMENT VIA PARQUE;Financial;10008;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+GE DRN;GEOO34;GEOO34 BS Equity;GENERAL ELETRIC-BDR;Industrial;10011;Industrials;20;689.910.232.000;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+GER PARANAP ON;GEPA3;GEPA3 BS Equity;DUKE ENERGY INTL GERACAO PAR;Utilities;10014;Utilities;55;5.741.543.606;0,3;0,95;#N/A N/A;Geração e Comercialização de Energia Elétrica
+GER PARANAP PN;GEPA4;GEPA4 BS Equity;DUKE ENERGY INTL GERACAO-PRF;Utilities;10014;Utilities;55;5.741.543.606;2,32;3,68;#N/A N/A;Geração e Comercialização de Energia Elétrica
+AES TIETE ON;GETI3;GETI3 BS Equity;AES TIETE SA;Utilities;10014;Utilities;55;6.680.839.499;56,41;28,57;#N/A N/A;Geração de Energia Elétrica
+AES TIETE PN;GETI4;GETI4 BS Equity;AES TIETE SA-PREF;Utilities;10014;Utilities;55;6.680.839.499;94,25;51,28;#N/A N/A;Geração de Energia Elétrica
+GAFISA ON;GFSA3;GFSA3 BS Equity;GAFISA SA;Financial;10008;Consumer Discretionary;25;1.193.432.211;399,92;91,82;#N/A N/A;#N/A N/A
+GERDAU ON;GGBR3;GGBR3 BS Equity;GERDAU S.A.;Basic Materials;10002;Materials;15;17.711.750.666;94,57;16,49;#N/A N/A;Participação e Administração
+GERDAU PN;GGBR4;GGBR4 BS Equity;GERDAU SA-PREF;Basic Materials;10002;Materials;15;17.711.750.666;856,55;74,74;#N/A N/A;Participação e Administração
+GERDAU MET ON;GOAU3;GOAU3 BS Equity;METALURGICA GERDAU SA;Basic Materials;10002;Materials;15;4.925.857.158;47,75;34,7;#N/A N/A;Participação e Administração
+GERDAU MET PN;GOAU4;GOAU4 BS Equity;METALURGICA GERDAU SA-PREF;Basic Materials;10002;Materials;15;4.925.857.158;268,74;97,7;#N/A N/A;Participação e Administração
+GOL PN;GOLL4;GOLL4 BS Equity;GOL LINHAS AEREAS - PREF;Consumer, Cyclical;10004;Industrials;20;4.255.230.564;128,87;92,54;#N/A N/A;Gestão de Participação Societária
+GOOGLE DRN;GOOG34;GOOG34 BS Equity;GOOGLE INC - BDR;Communications;10003;Information Technology;45;943.265.111.526;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+IT NOW IGCT CI;GOVE11;GOVE11 BS Equity;IT NOW IGCT FUNDO DE INDICE;Funds;10009;#N/A N/A;#N/A N/A;27.587.999;#N/A N/A;#N/A N/A;Equity;#N/A N/A
+CELGPAR ON;GPAR3;GPAR3 BS Equity;CIA CELG DE PARTICIPACOES SA;Utilities;10014;Utilities;55;#N/A N/A;0,08;0,23;#N/A N/A;Participação em Outras Sociedades como Acionista ou Sócia-Cotista E. Ainda. A Exploração Direta ou Indireta de Serviços de Energia Elétrica
+GPC PART ON;GPCP3;GPCP3 BS Equity;GPC PARTICIPACOES SA;Diversified;10006;Materials;15;173.350.863;156,27;41,47;#N/A N/A;#N/A N/A
+GP INVEST DR3;GPIV33;GPIV33 BS Equity;GP INVESTMENTS LTD - BDR;Financial;10008;Financials;40;794.982.849;#N/A N/A;#N/A N/A;#N/A N/A;Investimentos Alternativos. Principalmente em Private Equity
+FII LOUVEIRA CI;GRLV11;GRLV11 BS Equity;FII CSHG GR LOUVEIRA;Financial;10008;#N/A N/A;#N/A N/A;107.352.997;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+GRENDENE ON;GRND3;GRND3 BS Equity;GRENDENE SA;Consumer, Cyclical;10004;Consumer Discretionary;25;5.187.420.000;66,77;22,2;#N/A N/A;Fabricação de Calçados em Geral
+GOLDMANSACHS DRN;GSGI34;GSGI34 BS Equity;GOLDMAN SACHS GROUP INC -BDR;Financial;10008;Financials;40;218.258.003.393;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+GENERALSHOPP ON;GSHP3;GSHP3 BS Equity;GENERAL SHOPPING BRASIL SA;Financial;10008;Financials;40;331.152.736;20,49;40,59;#N/A N/A;Administração de Shopping Centers
+GUARARAPES ON;GUAR3;GUAR3 BS Equity;GUARARAPES CONFECCOES SA;Consumer, Cyclical;10004;Consumer Discretionary;25;5.362.656.000;6,41;20,55;#N/A N/A;Confecções de Roupas e Tecidos em Geral.
+GUARARAPES PN;GUAR4;GUAR4 BS Equity;GUARARAPES CONFECCOES-PREF;Consumer, Cyclical;10004;Consumer Discretionary;25;5.362.656.000;1,58;5,06;#N/A N/A;Confecções de Roupas e Tecidos em Geral.
+FII GAVEA CI;GVFF11;GVFF11 BS Equity;FII GAVEA;Financial;10008;#N/A N/A;#N/A N/A;107.643.600;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FII GWI LOG CI;GWIC11;GWIC11 BS Equity;GWI CONDOMINIOS LOGISTICOS;Financial;10008;#N/A N/A;#N/A N/A;129.940.002;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FII GWI RI CIA;GWIR11;GWIR11 BS Equity;FII GWI RENDA IMOBILIARIA;Financial;10008;#N/A N/A;#N/A N/A;110.001.801;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+HAGA S/A ON;HAGA3;HAGA3 BS Equity;HAGA SA INDUSTRIA E COMERCIO;Industrial;10011;Industrials;20;16.065.000;0,72;18,26;#N/A N/A;Industria Metalúrgica - Fab. de Fechaduras P/Construção Civil
+HAGA S/A PN;HAGA4;HAGA4 BS Equity;FERRAGENS HAGA SA-PREF;Industrial;10011;Industrials;20;16.065.000;5,45;68,75;#N/A N/A;Industria Metalúrgica - Fab. de Fechaduras P/Construção Civil
+HALLIBURTON DRN;HALI34;HALI34 BS Equity;HALLIBURTON CO-BDR;Energy;10007;Energy;10;122.373.266.309;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+HELBOR ON;HBOR3;HBOR3 BS Equity;HELBOR EMPREENDIMENTOS SA;Financial;10008;Consumer Discretionary;25;1.443.119.647;109,26;42,4;#N/A N/A;Incorporação de Imoveis
+HABITASUL PNA;HBTS5;HBTS5 BS Equity;CIA HABITASUL DE PARTI-PRF A;Financial;10008;Industrials;20;114.171.088;5,95;100;#N/A N/A;Participações Societárias
+HERCULES ON;HETA3;HETA3 BS Equity;HERCULES SA FABRICA TALHERES;Consumer, Cyclical;10004;Consumer Discretionary;25;#N/A N/A;0,09;1,67;#N/A N/A;Fabricação e A Comercialização de Toda A Espécie de Talheres e Outros Artigos de Mesa para Uso Doméstico. Artigos de Adorno. Beleza. Higiene. Móveis. Material Escolar. de Escritório e Profissional.
+HERCULES PN;HETA4;HETA4 BS Equity;HERCULES SA FABRICA TAL-PREF;Consumer, Cyclical;10004;Consumer Discretionary;25;7.506.707;7,23;71,12;#N/A N/A;Fabricação e A Comercialização de Toda A Espécie de Talheres e Outros Artigos de Mesa para Uso Doméstico. Artigos de Adorno. Beleza. Higiene. Móveis. Material Escolar. de Escritório e Profissional.
+FII CSHGSHOP CI;HGBS11;HGBS11 BS Equity;CSHG BRASIL SHOPPING;Financial;10008;#N/A N/A;#N/A N/A;843.862.427;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FII CSHG CRI CI;HGCR11;HGCR11 BS Equity;CSHG RECEBIVEIS IMOBILIARIOS;Financial;10008;#N/A N/A;#N/A N/A;94.238.098;#N/A N/A;#N/A N/A;Fixed Income;#N/A N/A
+FII CSHGJHSF CI;HGJH11;HGJH11 BS Equity;CSHG JHSF PRIME OFFICES FI I;Financial;10008;#N/A N/A;#N/A N/A;174.074.997;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FII CSHG LOG CI;HGLG11;HGLG11 BS Equity;CSHG LOGISTICA FI IMOBILIARO;Financial;10008;#N/A N/A;#N/A N/A;357.105.011;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FII HG REAL CI;HGRE11;HGRE11 BS Equity;CSHG REAL ESTATE FI IMOBILIA;Financial;10008;#N/A N/A;#N/A N/A;930.270.630;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+CIA HERING ON;HGTX3;HGTX3 BS Equity;CIA HERING;Consumer, Cyclical;10004;Consumer Discretionary;25;4.024.743.522;140,87;85,58;#N/A N/A;Confecção de Artigos do Vestuário e Acessórios
+HOME DEPOT DRN;HOME34;HOME34 BS Equity;HOME DEPOT INC/THE - BDR;Consumer, Cyclical;10004;Consumer Discretionary;25;343.748.217.535;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+HONEYWELL DRN;HONB34;HONB34 BS Equity;HONEYWELL INTERNATIONAL-BDR;Industrial;10011;Industrials;20;177.384.819.645;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+HOTEIS OTHON PN;HOOT4;HOOT4 BS Equity;HOTEIS OTHON S.A.-PREF;Consumer, Cyclical;10004;Consumer Discretionary;25;82.675.854;27,66;35,04;#N/A N/A;Prestação de Serviços na Indústria Hoteleira
+HP COMPANY DRN;HPQB34;HPQB34 BS Equity;HEWLETT-PACKARD CO - BDR;Technology;10013;Information Technology;45;156.673.786.250;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+HRT PETROLEO ON;HRTP3;HRTP3 BS Equity;HRT PARTICIPACOES EM PETROLE;Energy;10007;Energy;10;226.074.730;23,78;79,94;#N/A N/A;Constitui Objeto da Companhia A Participação em Outras Sociedades como Sócia. Acionista ou Quotista. Independentemente de Sua Atividade.
+HYPERMARCAS ON;HYPE3;HYPE3 BS Equity;HYPERMARCAS SA;Consumer, Non-cyclical;10005;Consumer Staples;30;10.966.948.654;373,37;59,07;#N/A N/A;Produção e Venda de Bens de Consumo e Medicamentos
+IBM DRN;IBMB34;IBMB34 BS Equity;INTL BUSINESS MACH CORP-BDR;Technology;10013;Information Technology;45;402.593.880.010;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+IDEIASNET ON;IDNT3;IDNT3 BS Equity;IDEIASNET SA;Financial;10008;Information Technology;45;213.971.942;70,31;57,5;#N/A N/A;"Aquisição de Participações Diretas e Indiretas em Companhias do Setor de Tecnologia. Mídia e Telecomunicações; e Gestão de Carteiras de Valores Mobiliários e Recursos Próprios e de Terceiros."
+INDUSVAL ON;IDVL3;IDVL3 BS Equity;BANCO INDUSVAL SA;Financial;10008;Financials;40;277.558.888;23,77;40,62;#N/A N/A;Banco Múltiplo que Concentra Seus Negócios em Produtos de Crédito Corporativo. em Moeda Nacional e Estrangeira. Bem como Oferece Produtos de Repasse. Tesouraria e Assessoria Financeira A Empresas.
+INDUSVAL PN;IDVL4;IDVL4 BS Equity;BANCO INDUSVAL SA;Financial;10008;Financials;40;277.558.888;13,12;42,29;#N/A N/A;Banco Múltiplo que Concentra Seus Negócios em Produtos de Crédito Corporativo. em Moeda Nacional e Estrangeira. Bem como Oferece Produtos de Repasse. Tesouraria e Assessoria Financeira A Empresas.
+IGB S/A ON;IGBR3;IGBR3 BS Equity;IGB ELETRONICA SA;Consumer, Cyclical;10004;Consumer Discretionary;25;36.014.305;6;48;#N/A N/A;Eletroeletrônica
+IGUATEMI ON;IGTA3;IGTA3 BS Equity;IGUATEMI EMP DE SHOPPING;Financial;10008;Financials;40;4.538.917.555;65,75;37,23;#N/A N/A;Empresa Full Service no Setor de Shopping Centers. Suas Atividades Englobam A Concepção. o Planejamento. o Desenvolvimento e A Administração de Shopping Centers Regionais e Complexos Imobiliários.
+IMC HOLDINGS ON;IMCH3;IMCH3 BS Equity;INTL MEAL COMP HOLDINGS SA;Consumer, Cyclical;10004;Consumer Discretionary;25;1.140.517.706;42,06;49,78;#N/A N/A;Setor de Varejo de Alimentação
+INEPAR ON;INEP3;INEP3 BS Equity;INEPAR SA INDUSTRIA E CONSTR;Industrial;10011;Industrials;20;20.307.243;13,48;33,79;#N/A N/A;Fabricação de Equipamentos e Sistemas Elétricos . Fabricação de Torres e Acessórios para Transmissão de Energia e Telecomunicações. Fabricação de Bens de Capital e Sitemas Industriais sob Encomenda.
+INEPAR PN;INEP4;INEP4 BS Equity;INEPAR SA INDUSTRIA E C-PREF;Industrial;10011;Industrials;20;20.307.243;59,59;94,38;#N/A N/A;Fabricação de Equipamentos e Sistemas Elétricos . Fabricação de Torres e Acessórios para Transmissão de Energia e Telecomunicações. Fabricação de Bens de Capital e Sitemas Industriais sob Encomenda.
+INEPAR TEL ON;INET3;INET3 BS Equity;INEPAR TELECOMUNICACOES SA;Communications;10003;Telecommunication Services;50;15.674.246;67,02;21,38;#N/A N/A;Participação em Empresas do Setor de Telecomunicações.
+IT NOW ISE CI;ISUS11;ISUS11 BS Equity;IT NOW ISE FUNDO DE INDICE;Funds;10009;#N/A N/A;#N/A N/A;38.369.999;#N/A N/A;#N/A N/A;Equity;#N/A N/A
+ITAUTEC ON;ITEC3;ITEC3 BS Equity;ITAUTEC SA - GRUPO ITAUTEC;Technology;10013;Information Technology;45;195.988.923;0,25;2,2;#N/A N/A;Participação em Outras Sociedades no País e no Exterior. em Especial Naquelas que Atuam na Fabricação e Comercialização de Equipamentos de Automações Bancária e Comercial e na Prestação de Serviços
+INTEL DRN;ITLC34;ITLC34 BS Equity;INTEL - BDR;Technology;10013;Information Technology;45;485.247.510.000;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+ITAUSA ON;ITSA3;ITSA3 BS Equity;ITAUSA-INVESTIMENTOS ITAU SA;Diversified;10006;Financials;40;63.963.631.462;293,82;12,49;#N/A N/A;Gestão de Participações Societárias (holding)
+ITAUSA PN;ITSA4;ITSA4 BS Equity;ITAUSA-INVESTIMENTOS ITAU-PR;Diversified;10006;Financials;40;63.963.631.462;3.109,84;82,76;#N/A N/A;Gestão de Participações Societárias (holding)
+ITAUUNIBANCO ON;ITUB3;ITUB3 BS Equity;ITAU UNIBANCO HOLDING SA;Financial;10008;Financials;40;201.301.980.693;286,42;10,34;#N/A N/A;A Sociedade Tem por Objeto A Atividade Bancária em Todas as Modalidades Autorizadas. Inclusive A de Operações de Câmbio.
+ITAUUNIBANCO PN;ITUB4;ITUB4 BS Equity;ITAU UNIBANCO HOLDING S-PREF;Financial;10008;Financials;40;201.301.980.693;2.760,80;100;#N/A N/A;A Sociedade Tem por Objeto A Atividade Bancária em Todas as Modalidades Autorizadas. Inclusive A de Operações de Câmbio.
+ISHARE SP500 CI;IVVB11;IVVB11 BS Equity;ISHARES S&P 500 FIC FI IE;Funds;10009;#N/A N/A;#N/A N/A;37.764.999;#N/A N/A;#N/A N/A;Equity;#N/A N/A
+J B DUARTE ON;JBDU3;JBDU3 BS Equity;INDUSTRIAS J B DUARTE SA;Consumer, Non-cyclical;10005;Consumer Staples;30;5.388.953;0,86;4,62;#N/A N/A;"I - Exploração Industrial e Comercial. Exp. e Imp de Produtos Alimenticios; Ii - Exploração Industrial e Acondicionamento de Produtos Alimenticios; Iii - Particip em Outras Sociedades."
+J B DUARTE PN;JBDU4;JBDU4 BS Equity;INDUSTRIAS J B DUARTE SA-PRF;Consumer, Non-cyclical;10005;Consumer Staples;30;5.388.953;1,35;3,63;#N/A N/A;"I - Exploração Industrial e Comercial. Exp. e Imp de Produtos Alimenticios; Ii - Exploração Industrial e Acondicionamento de Produtos Alimenticios; Iii - Particip em Outras Sociedades."
+JBS ON;JBSS3;JBSS3 BS Equity;JBS SA;Consumer, Non-cyclical;10005;Consumer Staples;30;35.323.728.096;960,81;32,64;#N/A N/A;#N/A N/A
+JOAO FORTES ON;JFEN3;JFEN3 BS Equity;JOAO FORTES ENGENHARIA S.A.;Financial;10008;Financials;40;869.297.075;46,33;26,06;#N/A N/A;"Incorporação e Construção de Imóveis; Execução por Administração de Obras de Construção Civil"
+JHSF PART ON;JHSF3;JHSF3 BS Equity;JHSF PARTICIPACOES SA;Financial;10008;Financials;40;1.257.905.392;87,36;20,21;#N/A N/A;Empresa de Participações em Empresas de Incorporação Imobiliária. Desenvolvimento e Exploração de Shopping Centers e Escritórios Comerciais e Atividade Hoteleira
+JOHNSON DRN;JNJB34;JNJB34 BS Equity;JOHNSON & JOHNSON-BDR;Consumer, Non-cyclical;10005;Health Care;35;809.122.529.358;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+JOSAPAR ON;JOPA3;JOPA3 BS Equity;JOAQUIM OLIVEIRA S.A.-PARTIC;Consumer, Non-cyclical;10005;Consumer Staples;30;190.694.145;3,25;31,09;#N/A N/A;Beneficiamento de Arroz e Participações
+JOSAPAR PN;JOPA4;JOPA4 BS Equity;JOAQUIM OLIVEIRA S.A.-PREF;Consumer, Non-cyclical;10005;Consumer Staples;30;190.694.145;0,03;24,48;#N/A N/A;Beneficiamento de Arroz e Participações
+JPMORGAN DRN;JPMC34;JPMC34 BS Equity;JPMORGAN CHASE & CO - BDR;Financial;10008;Financials;40;601.808.000.000;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+FII JPP CAPI CI;JPPC11;JPPC11 BS Equity;FII JPP CAPITAL;Financial;10008;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+JSL ON;JSLG3;JSLG3 BS Equity;JSL SA;Industrial;10011;Industrials;20;2.861.748.569;64,3;29,66;#N/A N/A;#N/A N/A
+FII JS REAL CI;JSRE11;JSRE11 BS Equity;JS REAL ESTATE MULTIGESTAO F;Financial;10008;#N/A N/A;#N/A N/A;580.076.904;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+KEPLER WEBER ON;KEPL3;KEPL3 BS Equity;KEPLER WEBER SA;Consumer, Cyclical;10004;Industrials;20;1.220.492.834;18,43;70,07;#N/A N/A;Indústria e Comércio de Produtos e Matérias Primas Relacionadas A Metalurgia. Importação e Exportação. Prestação de Serviços. Comércio de Produtos Destinados A Agroindústria.
+KRAFT GROUP DRN;KFGI34;KFGI34 BS Equity;KRAFT FOODS GROUP INC - BDR;Consumer, Non-cyclical;10005;Consumer Staples;30;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+KLABIN S/A UNT;KLBN11;KLBN11 BS Equity;KLABIN SA - UNIT;Basic Materials;10002;Materials;15;13.832.289.250;945,96;100;#N/A N/A;Empresa Brasileira de Base Florestal. Produtora de Papéis e Cartões para Embalagens. Embalagens de Papelão Ondulado e Sacos Industriais. Além de Ser Recicladora e Produtora de Toras para Serrarias.
+KLABIN S/A ON;KLBN3;KLBN3 BS Equity;KLABIN SA;Basic Materials;10002;Materials;15;13.832.289.250;585,69;31,68;#N/A N/A;Empresa Brasileira de Base Florestal. Produtora de Papéis e Cartões para Embalagens. Embalagens de Papelão Ondulado e Sacos Industriais. Além de Ser Recicladora e Produtora de Toras para Serrarias.
+KLABIN S/A PN;KLBN4;KLBN4 BS Equity;KLABIN SA-PREF;Basic Materials;10002;Materials;15;13.832.289.250;2.165,22;75,15;#N/A N/A;Empresa Brasileira de Base Florestal. Produtora de Papéis e Cartões para Embalagens. Embalagens de Papelão Ondulado e Sacos Industriais. Além de Ser Recicladora e Produtora de Toras para Serrarias.
+FII KINEA RI CI;KNCR11;KNCR11 BS Equity;KINEA RENDIMENTOS IMOB FII;Financial;10008;#N/A N/A;#N/A N/A;734.781.250;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FII KII REAL CI;KNRE11;KNRE11 BS Equity;KINEA II REAL ESTATE EQTY FI;Financial;10008;#N/A N/A;#N/A N/A;94.994.476;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FII KINEA CI;KNRI11;KNRI11 BS Equity;KINEA RENDA IMOBILIARIA FII;Financial;10008;#N/A N/A;#N/A N/A;1.552.024.536;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+KROTON ON;KROT3;KROT3 BS Equity;KROTON EDUCACIONAL SA;Consumer, Non-cyclical;10005;Consumer Discretionary;25;29.092.675.582;1.621,60;99,94;#N/A N/A;A Companhia Tem por Objeto A Participação. como Sócia ou Acionista. em Sociedades que Explorem A Administração de Atividades de Educação.
+LOJAS AMERIC ON;LAME3;LAME3 BS Equity;LOJAS AMERICANAS SA;Consumer, Cyclical;10004;Consumer Discretionary;25;18.834.302.176;139,42;30,84;#N/A N/A;Comércio em Geral. Inclusive Supermercado e Lanchonete. Lojas de Conveniência. no Varejo e no Atacado. Através de Lojas e Depósitos. de Quaisquer Mercadorias. Bem como A Realização de Serviços.
+LOJAS AMERIC PN;LAME4;LAME4 BS Equity;LOJAS AMERICANAS SA-PREF;Consumer, Cyclical;10004;Consumer Discretionary;25;18.834.302.176;471,89;61,84;#N/A N/A;Comércio em Geral. Inclusive Supermercado e Lanchonete. Lojas de Conveniência. no Varejo e no Atacado. Através de Lojas e Depósitos. de Quaisquer Mercadorias. Bem como A Realização de Serviços.
+LATAM AIRLN DR3;LATM33;LATM33 BS Equity;LATAM AIRLINES GROUP SA-BDR;Consumer, Cyclical;10004;Industrials;20;16.633.758.520;#N/A N/A;#N/A N/A;#N/A N/A;Transporte de Passageiros e Transporte de Carga.
+LOCAMERICA ON;LCAM3;LCAM3 BS Equity;COMPANHIA DE LOCACAO DAS AME;Consumer, Non-cyclical;10005;Industrials;20;272.014.846;30,44;46,78;#N/A N/A;A Companhia Tem por Objeto A Atividade de Locação de Veículos Nacionais e Importados com ou sem Motorista.
+METAL LEVE ON;LEVE3;LEVE3 BS Equity;MAHLE-METAL LEVE SA;Consumer, Cyclical;10004;Consumer Discretionary;25;2.963.926.350;38,49;30;#N/A N/A;Industria e Comércio de Peças e Componentes para Motores A Combustão
+LA FONTE TEL ON;LFFE3;LFFE3 BS Equity;JEREISSATI TELECOM SA;Consumer, Non-cyclical;10005;Telecommunication Services;50;467.669.244;0,17;0,05;#N/A N/A;#N/A N/A
+LA FONTE TEL PN;LFFE4;LFFE4 BS Equity;LA FONTE TELECOM SA-PREF;Consumer, Non-cyclical;10005;Telecommunication Services;50;467.669.244;2,8;1,35;#N/A N/A;#N/A N/A
+LOJAS HERING ON;LHER3;LHER3 BS Equity;LOJAS HERING SA;Consumer, Cyclical;10004;Consumer Discretionary;25;#N/A N/A;0;9,58;#N/A N/A;Comércio Varejista de Artigos Têxteis
+LOJAS HERING PN;LHER4;LHER4 BS Equity;LOJAS HERING SA-PREF;Consumer, Cyclical;10004;Consumer Discretionary;25;#N/A N/A;0,02;17,88;#N/A N/A;Comércio Varejista de Artigos Têxteis
+LIGHT S/A ON;LIGT3;LIGT3 BS Equity;LIGHT SA;Utilities;10014;Utilities;55;4.199.002.295;76,64;37,58;#N/A N/A;Participação em Sociedades P/ Exploração Serviços de Energia Elétrica
+LILLY DRN;LILY34;LILY34 BS Equity;ELI LILLY & CO - BDR;Consumer, Non-cyclical;10005;Health Care;35;180.343.564.155;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+LINX ON;LINX3;LINX3 BS Equity;LINX SA;Technology;10013;Information Technology;45;2.703.012.838;22,62;48,38;#N/A N/A;#N/A N/A
+ELETROPAR ON;LIPR3;LIPR3 BS Equity;ELETROBRAS PARTICIPACOES SA;Financial;10008;Utilities;55;586.362.068;1,92;16,29;#N/A N/A;A Eletropar Tem por Objeto Social Principal A Participação no Capital Social da Eletropaulo - Eletricidade de São Paulo S.a.. Concessionária de Serviços Pub. de Energia Elét.. e de Outras Sociedades.
+LIX DA CUNHA ON;LIXC3;LIXC3 BS Equity;CONSTRUTORA LIX DA CUNHA SA;Industrial;10011;Industrials;20;46.647.909;1,08;17,7;#N/A N/A;Construção Civil. Terraplanagem e Pavimentação
+LIX DA CUNHA PN;LIXC4;LIXC4 BS Equity;CONSTRUTORA LIX DA CUNHA-PRF;Industrial;10011;Industrials;20;46.647.909;4,6;78,12;#N/A N/A;Construção Civil. Terraplanagem e Pavimentação
+LE LIS BLANC ON;LLIS3;LLIS3 BS Equity;RESTOQUE COMERCIO E CONFEC;Consumer, Cyclical;10004;Consumer Discretionary;25;3.215.236.449;271,9;77,72;#N/A N/A;"(a) Confecção de Produtos em Geral. Através de Terceiros; (b) Importação e Exportação; (c) Exploração de Comércio e Indústria de Confecção de Produtos em Geral."
+LOCKHEED DRN;LMTB34;LMTB34 BS Equity;LOCKHEED MARTIN CORP-BDR;Industrial;10011;Industrials;20;141.642.207.215;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+LOG-IN ON;LOGN3;LOGN3 BS Equity;LOG-IN LOGISTICA INTERMODAL;Industrial;10011;Industrials;20;382.437.455;71,81;78,3;#N/A N/A;Empresa na Área de Logistica Capaz de Oferecer Soluções Integradas para Movimentação Portuária e Transporte de Contêineres Porta-a-Porta por Meio Marítimo. Ferroviário e Ponta Rodoviária.
+LOPES BRASIL ON;LPSB3;LPSB3 BS Equity;LPS BRASIL CONS DE IMOVEIS;Financial;10008;Financials;40;1.063.749.959;60,93;53,27;#N/A N/A;Intermediação na Compra. Venda. Permuta e Locação de Imóveis ou de Direitos e Obrigações A Eles Relativos.
+LOJAS RENNER ON;LREN3;LREN3 BS Equity;LOJAS RENNER S.A.;Consumer, Cyclical;10004;Consumer Discretionary;25;9.764.793.407;127,39;100;#N/A N/A;Loja de Departamentos (Comércio Varejista)
+LUPATECH ON;LUPA3;LUPA3 BS Equity;LUPATECH SA;Energy;10007;Energy;10;422.734.895;912,34;19,42;#N/A N/A;Fabricante de Equipamentos e Provedor de Serviços para o Setor de Petróleo e Gás.
+TREVISA PN;LUXM4;LUXM4 BS Equity;TREVISA INVESTIMENT SA-PREF;Basic Materials;10002;Industrials;20;41.948.666;0,62;64,47;#N/A N/A;Part. Capital Outras Empresas Qualquer Setor Econômico.locação de Conjuntos Comerciais.
+MAGNESITA SA ON;MAGG3;MAGG3 BS Equity;MAGNESITA REFRATARIOS SA;Industrial;10011;Materials;15;815.817.986;166,6;58,81;#N/A N/A;Mineração. Produção e Comercialização de Extensa Linha de Materiais Refratários.
+CEMEPE ON;MAPT3;MAPT3 BS Equity;CEMEPE INVESTIMENTOS S.A.;Financial;10008;Financials;40;5.138.820;0,12;2,74;#N/A N/A;Holding
+CEMEPE PN;MAPT4;MAPT4 BS Equity;CEMEPE INVESTIMENTOS S.A.-PR;Financial;10008;Financials;40;5.138.820;0,23;5,01;#N/A N/A;Holding
+IT NOW IMAT CI;MATB11;MATB11 BS Equity;IT NOW IMAT FUNDO DE INDICE;Funds;10009;#N/A N/A;#N/A N/A;12.519.000;#N/A N/A;#N/A N/A;Equity;#N/A N/A
+FII MERC BR CI;MBRF11;MBRF11 BS Equity;MERCANTIL DO BRASIL FII;Financial;10008;#N/A N/A;#N/A N/A;112.796.211;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+MCDONALDS DRN;MCDC34;MCDC34 BS Equity;MCDONALD'S - BDR;Consumer, Cyclical;10004;Consumer Discretionary;25;238.999.288.874;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+M.DIASBRANCO ON;MDIA3;MDIA3 BS Equity;M DIAS BRANCO SA;Consumer, Non-cyclical;10005;Consumer Staples;30;11.084.065.000;41,9;36,93;#N/A N/A;Produção e Comercialização de Biscoitos. Massas. Farinha de Trigo e Farelo. Margarinas e Gorduras. Bolos e Snacks.
+MENDES JR ON;MEND3;MEND3 BS Equity;MENDES JUNIOR ENGENHARIA SA;Industrial;10011;Industrials;20;92.784.492;0,05;0,7;#N/A N/A;Construção Pesada
+MENDES JR PNA;MEND5;MEND5 BS Equity;MENDES JUNIOR ENGENHARIA-PRA;Industrial;10011;Industrials;20;92.784.492;0,15;9,91;#N/A N/A;Construção Pesada
+MENDES JR PNB;MEND6;MEND6 BS Equity;MENDES JUNIOR ENGENHARIA-PRB;Industrial;10011;Industrials;20;92.784.492;1,8;100;#N/A N/A;Construção Pesada
+MERC FINANC ON;MERC3;MERC3 BS Equity;MERCANTIL BRASIL FINANCEIRA;Financial;10008;Financials;40;81.225.100;0,55;5,36;#N/A N/A;Crédito. Financiamento e Investimentos.
+MERC FINANC PN;MERC4;MERC4 BS Equity;MERCANTIL BRASIL FINANC-PREF;Financial;10008;Financials;40;81.225.100;2,32;29,62;#N/A N/A;Crédito. Financiamento e Investimentos.
+FII MERITO I CI;MFII11;MFII11 BS Equity;FII MERITO I;Financial;10008;#N/A N/A;#N/A N/A;15.283.500;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+MANGELS INDL ON;MGEL3;MGEL3 BS Equity;MANGELS INDUSTRIAL SA;Basic Materials;10002;Materials;15;11.797.754;0;0,08;#N/A N/A;Produção de Relaminados. Trefilados e Perfilados de Aço. Exceto Arames.
+MANGELS INDL PN;MGEL4;MGEL4 BS Equity;MANGELS INDUSTRIAL SA-PREF;Basic Materials;10002;Materials;15;11.797.754;8,53;76,48;#N/A N/A;Produção de Relaminados. Trefilados e Perfilados de Aço. Exceto Arames.
+MAGAZ LUIZA ON;MGLU3;MGLU3 BS Equity;MAGAZINE LUIZA SA;Consumer, Cyclical;10004;Consumer Discretionary;25;1.451.955.736;54,14;29,83;#N/A N/A;Somos Uma Rede Varejista e Atuamos com Foco na Comercialização de Bens Duráveis no Brasil.
+ISHARES MILA CI;MILA11;MILA11 BS Equity;ISHARES BM&FBOVESPA MIDLARGE;Funds;10009;#N/A N/A;#N/A N/A;4.968.000;#N/A N/A;#N/A N/A;Equity;#N/A N/A
+MILLS ON;MILS3;MILS3 BS Equity;MILLS ESTRUTURAS E SERVICOS;Consumer, Non-cyclical;10005;Industrials;20;1.344.608.213;82,86;64,71;#N/A N/A;Serviços Especiais de Engenharia
+JEREISSATI ON;MLFT3;MLFT3 BS Equity;JEREISSATI PARTICIPACOES SA;Financial;10008;Telecommunication Services;50;1.253.120.376;2,78;0,72;#N/A N/A;#N/A N/A
+JEREISSATI PN;MLFT4;MLFT4 BS Equity;JEREISSATI PARTICIPACOES-PR;Financial;10008;Telecommunication Services;50;1.253.120.376;142,68;24,68;#N/A N/A;#N/A N/A
+3M DRN;MMMC34;MMMC34 BS Equity;3M - BDR;Industrial;10011;Industrials;20;279.397.015.112;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+MMX MINER ON;MMXM3;MMXM3 BS Equity;MMX MINERACAO E METALICOS SA;Basic Materials;10002;Materials;15;116.787.293;42,35;26,11;#N/A N/A;Mineração de Minério de Ferro
+MUNDIAL ON;MNDL3;MNDL3 BS Equity;MUNDIAL SA PROD DE CONSUMO;Industrial;10011;Consumer Discretionary;25;19.842.080;0,62;24,91;#N/A N/A;Componentes Diversos para Indústria de Calçados Confecções. Artigos de Cuidados Pessoais e de Cultelaria.
+MINUPAR ON;MNPR3;MNPR3 BS Equity;MINUPAR PARTICIPACOES SA;Consumer, Non-cyclical;10005;Consumer Staples;30;49.700.700;294,3;41,45;#N/A N/A;"Criação. Abate Industrialização e Comercialização de Carnes e Produtos Derivados de Aves e Suinos; Importação e Exportação; Prestação de Serviços A Terceiros e Partipação em Outras Empresas"
+MONT ARANHA ON;MOAR3;MOAR3 BS Equity;MONTEIRO ARANHA S.A.;Diversified;10006;Financials;40;1.716.151.038;2,99;24,41;#N/A N/A;Holding - Participação Societária
+ISHARES MOBI CI;MOBI11;MOBI11 BS Equity;ISHARES BM&F BOVESPA IMOBIL;Funds;10009;#N/A N/A;#N/A N/A;2.430.000;#N/A N/A;#N/A N/A;Equity;#N/A N/A
+MULTIPLUS ON;MPLU3;MPLU3 BS Equity;MULTIPLUS SA;Communications;10003;Consumer Discretionary;25;5.629.956.083;44,11;27,19;#N/A N/A;A Multiplus Atua com o Conceito de Rede de Empresas e Programas de Fidelização. por Meio Desta Rede. os Consumidores Podem Acumular e Resgatar Pontos Nos Estabelecimentos Parceiros.
+MERCK DRN;MRCK34;MRCK34 BS Equity;MERCK & CO. INC.-BDR;Consumer, Non-cyclical;10005;Health Care;35;438.093.386.160;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+MARFRIG ON;MRFG3;MRFG3 BS Equity;MARFRIG GLOBAL FOODS SA;Consumer, Non-cyclical;10005;Consumer Staples;30;3.405.688.029;245,12;47,07;#N/A N/A;Produção e Distribuição de Alimentos À Base de Carne Bovina. Suína. Ovina e Avícola. In Natura. Elaborados e Processados. Couros Semi-Terminados e Terminados. Além de Outros Produtos Alimentícios.
+MRV ON;MRVE3;MRVE3 BS Equity;MRV ENGENHARIA;Consumer, Cyclical;10004;Consumer Discretionary;25;3.840.144.298;287,45;64;#N/A N/A;Atividades de Incorporação e Construçãoatividades de Logística
+MORGAN STAN DRN;MSBR34;MSBR34 BS Equity;MORGAN STANLEY-BDR;Financial;10008;Financials;40;163.272.548.494;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+MASTERCARD DRN;MSCD34;MSCD34 BS Equity;MASTERCARD INC - BDR;Consumer, Non-cyclical;10005;Information Technology;45;250.921.843.750;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+MICROSOFT DRN;MSFT34;MSFT34 BS Equity;MICROSOFT - BDR;Technology;10013;Information Technology;45;1.022.196.179.076;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+FII LARGO 13 CI;MSHP11;MSHP11 BS Equity;MAIS SHOPPING LARGO 13 FII;Financial;10008;#N/A N/A;#N/A N/A;62.679.600;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+MELHOR SP ON;MSPA3;MSPA3 BS Equity;CIA MELHORAMENTOS DE SAO PAU;Basic Materials;10002;Consumer Discretionary;25;#N/A N/A;0,33;5,91;#N/A N/A;#N/A N/A
+MELHOR SP PN;MSPA4;MSPA4 BS Equity;CIA MELHORAMENTOS DE SAO-PRF;Basic Materials;10002;Consumer Discretionary;25;#N/A N/A;0,43;55,04;#N/A N/A;#N/A N/A
+METAL IGUACU ON;MTIG3;MTIG3 BS Equity;METALGRAFICA IGUACU SA;Industrial;10011;Materials;15;37.501.920;12,19;11,7;#N/A N/A;Fábrica de Embalagens Metálicas para Alimentos
+METAL IGUACU PN;MTIG4;MTIG4 BS Equity;METALGRAFICA IGUACU SA-PREF;Industrial;10011;Materials;15;37.501.920;71,07;34,11;#N/A N/A;Fábrica de Embalagens Metálicas para Alimentos
+METISA PN;MTSA4;MTSA4 BS Equity;METISA METALURGICA TIMB-PREF;Basic Materials;10002;Industrials;20;141.585.004;3,44;61,92;#N/A N/A;Fabricação de Máquinas e Equipamentos para A Agricultura e Pecuária. Peças e Acessórios. Exceto para Irrigação.
+MULTIPLAN ON;MULT3;MULT3 BS Equity;MULTIPLAN EMPREENDIMENTOS;Industrial;10011;Financials;40;9.805.756.215;76,23;42,79;#N/A N/A;Administração de Shopping Centers
+WETZEL S/A ON;MWET3;MWET3 BS Equity;WETZEL SA;Basic Materials;10002;Industrials;20;#N/A N/A;0,26;3,8;#N/A N/A;Fabricação de Peças e Acessórios para Sistema Motor de Veículos Automotores
+WETZEL S/A PN;MWET4;MWET4 BS Equity;WETZEL SA-PREF;Basic Materials;10002;Industrials;20;14.406.025;8,19;59,73;#N/A N/A;Fabricação de Peças e Acessórios para Sistema Motor de Veículos Automotores
+FII MAXIMARC CI;MXRC11;MXRC11 BS Equity;MAXIMA RENDA CORPORATIVA FII;Financial;10008;#N/A N/A;#N/A N/A;41.777.851;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FII MAXI REN CI;MXRF11;MXRF11 BS Equity;MAXI RENDA FII;Financial;10008;#N/A N/A;#N/A N/A;180.641.830;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+IOCHP-MAXION ON;MYPK3;MYPK3 BS Equity;IOCHPE-MAXION S.A.;Consumer, Cyclical;10004;Industrials;20;1.337.573.545;59,31;62,52;#N/A N/A;Fabricação e Comercialização de Produtos do Setor Automotivo e Equipamentos Ferroviários.
+NADIR FIGUEI PN;NAFG4;NAFG4 BS Equity;NADIR FIGUEIREDO SA-PREF;Consumer, Cyclical;10004;Consumer Discretionary;25;217.264.496;3,1;38,46;#N/A N/A;Fabricação de Artigos de Vidro para Uso Doméstico e Embalagem
+NATURA ON;NATU3;NATU3 BS Equity;NATURA COSMETICOS SA;Consumer, Non-cyclical;10005;Consumer Staples;30;15.209.808.841;171,42;39,75;#N/A N/A;Comércio Atacadista de Comércio e Produtos de Perfumaria
+NET PN;NETC4;NETC4 BS Equity;NET SERVICOS DE COMUNI-PREF;Communications;10003;Consumer Discretionary;25;15.550.291.075;22,99;9,21;#N/A N/A;Multi-Operadora de Serviços Via Cabo de Tv por Assinatura . Vídeo Digital . Video em Alta Definição. Banda Larga e Voz.
+NETFLIX DRN;NFLX34;NFLX34 BS Equity;NETFLIX INC-ADR;Communications;10003;Consumer Discretionary;25;65.163.060.766;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+NIKE DRN;NIKE34;NIKE34 BS Equity;NIKE INC - BDR;Consumer, Cyclical;10004;Consumer Discretionary;25;233.584.941.016;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+NORDON MET ON *;NORD3;NORD3 BS Equity;NORDON INDUS METALURGICA SA;Industrial;10011;Industrials;20;36.418.178;0,66;0,01;#N/A N/A;A Sociedade Tem como Atividade Operacional Preponderante A Produção de Bens de Capital Destinados ao Mercado Interno e Externo para os Setores Químico. Petrolífero. Petroquímico. Criogenia. Alimentíci
+NUTRIPLANT ON;NUTR3;NUTR3 BS Equity;NUTRIPLANT INDUSTRIA E COMER;Basic Materials;10002;Materials;15;21.353.246;2,55;20,58;#N/A N/A;Industria e Comércio de Fertilizantes para Agricultura.
+ODONTOPREV ON;ODPV3;ODPV3 BS Equity;ODONTOPREV S.A.;Financial;10008;Health Care;35;5.126.994.743;260,23;48,98;#N/A N/A;Operadora de Planos Odontológicos
+OUROFINO S/A ON;OFSA3;OFSA3 BS Equity;OURO FINO SAUDE ANIMAL PARTI;Consumer, Non-cyclical;10005;Health Care;35;1.699.182.671;14,62;27,1;#N/A N/A;Participação em Outras Sociedades que Execerçam Atividades de Desenvolvimento. Fabricação e Comercialização de Produtos Destinados ao Setor de Saúde Animal.
+OGX PETROLEO ON;OGXP3;OGXP3 BS Equity;OLEO E GAS PARTICIPACOES SA;Energy;10007;Energy;10;323.601.679;1.612,51;49,83;#N/A N/A;Participações em Outras Sociedades
+OI ON;OIBR3;OIBR3 BS Equity;OI SA;Communications;10003;Telecommunication Services;50;12.218.915.675;1.113,70;38,92;#N/A N/A;#N/A N/A
+OI PN;OIBR4;OIBR4 BS Equity;OI SA-PREFERENCE;Communications;10003;Telecommunication Services;50;12.218.915.675;3.585,56;62,65;#N/A N/A;#N/A N/A
+FII THE ONE CI;ONEF11;ONEF11 BS Equity;FII THE ONE;Financial;10008;#N/A N/A;#N/A N/A;73.791.000;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+ORACLE DRN;ORCL34;ORCL34 BS Equity;ORACLE CORP - BDR;Technology;10013;Information Technology;45;468.030.638.340;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+OSX BRASIL ON;OSXB3;OSXB3 BS Equity;OSX BRASIL SA;Industrial;10011;Energy;10;140.653.606;106,21;33,98;#N/A N/A;Equipamentos e Serviços para A Indústria Offshore de Petróleo e Gás Natural
+FII PANAMBY CI;PABY11;PABY11 BS Equity;FUNDO PANAMBY;Financial;10008;#N/A N/A;#N/A N/A;50.054.401;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+PANATLANTICA ON;PATI3;PATI3 BS Equity;PANATLANTICA SA;Basic Materials;10002;Materials;15;246.656.722;#N/A N/A;#N/A N/A;#N/A N/A;Industrialização e Comercialização de Aços Planos
+PANATLANTICA PN;PATI4;PATI4 BS Equity;PANATLANTICA SA-PREF;Basic Materials;10002;Materials;15;246.656.722;0,25;39,82;#N/A N/A;Industrialização e Comercialização de Aços Planos
+P.ACUCAR-CBD ON;PCAR3;PCAR3 BS Equity;CIA BRASILIERA DE DISTRIBUIC;Consumer, Non-cyclical;10005;Consumer Staples;30;28.778.785.102;0,06;0,06;#N/A N/A;Comércio Varejista
+P.ACUCAR-CBD PN;PCAR4;PCAR4 BS Equity;CIA BRASILEIRA DE DIS-PREF;Consumer, Non-cyclical;10005;Consumer Staples;30;28.778.785.102;142,95;86,34;#N/A N/A;Comércio Varejista
+PDG REALT ON;PDGR3;PDGR3 BS Equity;PDG REALTY SA;Financial;10008;Consumer Discretionary;25;1.468.823.288;1.323,26;100;#N/A N/A;Participação em Sociedades Atuantes no Setor Imobiliário
+PAR AL BAHIA ON;PEAB3;PEAB3 BS Equity;CIA PARTICIP ALIANCA BAHIA;Diversified;10006;Industrials;20;385.508.340;2,6;40,47;#N/A N/A;Participações em Outras Sociedades. na Qualidade de Sócia E/ou Quotista e Administração de Bens Próprios
+PAR AL BAHIA PN;PEAB4;PEAB4 BS Equity;CIA PARTICIP ALIANCA BA-PREF;Diversified;10006;Industrials;20;385.508.340;2,25;35,03;#N/A N/A;Participações em Outras Sociedades. na Qualidade de Sócia E/ou Quotista e Administração de Bens Próprios
+PEPSICO INC DRN;PEPB34;PEPB34 BS Equity;PEPSICO INC - BDR;Consumer, Non-cyclical;10005;Consumer Staples;30;378.851.958.270;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+PETROBRAS ON;PETR3;PETR3 BS Equity;PETROBRAS - PETROLEO BRAS;Energy;10007;Energy;10;162.131.965.512;2.936,79;39,46;#N/A N/A;Petróleo. Gás e Energia
+PETROBRAS PN;PETR4;PETR4 BS Equity;PETROBRAS - PETROLEO BRAS-PR;Energy;10007;Energy;10;162.131.965.512;3.746,09;66,87;#N/A N/A;Petróleo. Gás e Energia
+PFIZER DRN;PFIZ34;PFIZ34 BS Equity;PFIZER INC - BDR;Consumer, Non-cyclical;10005;Health Care;35;560.526.737.936;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+PROFARMA ON;PFRM3;PFRM3 BS Equity;PROFARMA DISTRIBUIDORA;Consumer, Non-cyclical;10005;Health Care;35;402.638.299;12,65;30,48;#N/A N/A;Profarma Atua na Distribuição de Produtos Farmacêuticos. Higiene Pessoal e Cosméticos. Nos Mais Populosos Estados Brasileiros.
+PG DRN;PGCO34;PGCO34 BS Equity;PROCTER & GAMBLE CO-BDR;Consumer, Non-cyclical;10005;Consumer Staples;30;602.157.278.800;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+IT NOW PIBB CI;PIBB11;PIBB11 BS Equity;IT NOW PIBB IBRX-50 FI;Funds;10009;#N/A N/A;#N/A N/A;1.249.815.674;#N/A N/A;#N/A N/A;Equity;#N/A N/A
+PINE PN;PINE4;PINE4 BS Equity;BANCO PINE SA - PREF SHARES;Financial;10008;Financials;40;753.689.989;30,57;54,59;#N/A N/A;Banco de Atacado Focado no Relacionamento de Longo Prazo com Clientes de Grande Porte e Investidores. Oferece Crédito. Produtos de Hedging. Mercado de Capitais. Serviços de Assessoria Financeira.
+PLASCAR PART ON;PLAS3;PLAS3 BS Equity;PLASCAR PARTICIPACOES SA;Consumer, Cyclical;10004;Consumer Discretionary;25;89.463.008;133,95;53,9;#N/A N/A;Participação em Outras Empresas
+FII POLO I CI;PLRI11;PLRI11 BS Equity;POLO FII I;Financial;10008;#N/A N/A;#N/A N/A;105.288.361;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+PARANAPANEMA ON;PMAM3;PMAM3 BS Equity;PARANAPANEMA S.A.;Basic Materials;10002;Materials;15;839.435.357;178,68;55,98;#N/A N/A;Metalurgia do Cobre e Suas Ligas
+DIMED ON;PNVL3;PNVL3 BS Equity;DIMED SA DISTRIBUIDORA DE ME;Consumer, Cyclical;10004;Health Care;35;934.834.525;1,61;39,17;#N/A N/A;Comercio Atacadista e Varejista de Medicamentos e Produtos de Perfumaria e Toucador
+DIMED PN;PNVL4;PNVL4 BS Equity;DIMED SA DISTRIBUIDORA DE-PR;Consumer, Cyclical;10004;Health Care;35;934.834.525;0,41;91,64;#N/A N/A;Comercio Atacadista e Varejista de Medicamentos e Produtos de Perfumaria e Toucador
+MARCOPOLO ON;POMO3;POMO3 BS Equity;MARCOPOLO SA;Consumer, Cyclical;10004;Industrials;20;3.726.831.378;53,05;15,53;#N/A N/A;#N/A N/A
+MARCOPOLO PN;POMO4;POMO4 BS Equity;MARCOPOLO SA-PREF;Consumer, Cyclical;10004;Industrials;20;3.726.831.378;406,07;73,13;#N/A N/A;#N/A N/A
+FII POLO CRI CI;PORD11;PORD11 BS Equity;FII POLO CRI;Financial;10008;#N/A N/A;#N/A N/A;104.900.002;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+POSITIVO INF ON;POSI3;POSI3 BS Equity;POSITIVO INFORMATICA SA;Technology;10013;Information Technology;45;240.572.000;24,06;27,4;#N/A N/A;Fabricação de Computadores.
+FII D PEDRO CI;PQDP11;PQDP11 BS Equity;FI IMOBIL PAR DOM PED SHP CT;Financial;10008;#N/A N/A;#N/A N/A;307.635.315;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+PARANA PN;PRBC4;PRBC4 BS Equity;PARANA BANCO SA;Financial;10008;Financials;40;1.020.718.650;12,49;40,23;#N/A N/A;Banco Multiplo com Carteira de Crédito. Financiamento e Investimentos.
+PRUMO ON;PRML3;PRML3 BS Equity;PRUMO LOGISTICA SA;Industrial;10011;Industrials;20;1.499.836.344;1.302,40;46,89;#N/A N/A;Atuação no Setor de Logísitica Portuária.
+FII P VARGAS CI;PRSV11;PRSV11 BS Equity;FI IMOB PRESIDENTE VARGAS;Financial;10008;#N/A N/A;#N/A N/A;136.500.000;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+PROVIDENCIA ON;PRVI3;PRVI3 BS Equity;COMPANHIA PROVIDENCIA;Industrial;10011;Consumer Discretionary;25;682.750.856;23,01;28,75;#N/A N/A;Fabricação e Comercialização de Tecido Nãotecido. Resultante da Transformação de Polipropileno.
+PORTO SEGURO ON;PSSA3;PSSA3 BS Equity;PORTO SEGURO SA;Financial;10008;Financials;40;10.057.646.163;94,34;29,18;#N/A N/A;Gestão de Participações Societárias (holding)
+PORTOBELLO ON;PTBL3;PTBL3 BS Equity;PORTOBELLO SA;Industrial;10011;Industrials;20;752.820.456;69,42;43,8;#N/A N/A;Industrialização e Comercialização de Revestimentos Cerâmicos
+PETTENATI ON;PTNT3;PTNT3 BS Equity;PETTENATI SA INDUSTRIA TEXTI;Consumer, Cyclical;10004;Consumer Discretionary;25;67.265.083;0,39;2,41;#N/A N/A;Fabricação de Tecidos Acabados em Malha Circular. Fabricação de Confecções do Vestuário
+PETTENATI PN;PTNT4;PTNT4 BS Equity;PETTENATI SA INDUSTRIA-PREF;Consumer, Cyclical;10004;Consumer Discretionary;25;67.265.083;16,3;50,88;#N/A N/A;Fabricação de Tecidos Acabados em Malha Circular. Fabricação de Confecções do Vestuário
+EVORA PN;PTPA4;PTPA4 BS Equity;EVORA SA-PREF;Diversified;10006;Materials;15;838.917.278;2,12;17,79;#N/A N/A;Empresa de Administração e Participação em Negócios de Embalagens Metálicas e Plásticas. Nãotecidos de Polipropileno e Florestamento.
+QUALCOMM DRN;QCOM34;QCOM34 BS Equity;QUALCOMM INC-BDR;Technology;10013;Information Technology;45;309.142.547.671;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+QGEP PART ON;QGEP3;QGEP3 BS Equity;QGEP PARTICIPACOES SA;Energy;10007;Energy;10;2.126.455.240;90,4;34,01;#N/A N/A;Participação em Sociedades que Se Dediquem À Exploração. Produção Ecomercialização de Petróleo. Gás Natural e Seus Derivados. Seja como Sócio Ouacionista ou Outras Formas de Associações.
+QUALICORP ON;QUAL3;QUAL3 BS Equity;QUALICORP SA;Consumer, Non-cyclical;10005;Health Care;35;7.600.174.946;255,41;93,42;#N/A N/A;Prestação de Serviços e Gestão de Benefícios de Assistência À Saúde.
+RAIADROGASIL ON;RADL3;RADL3 BS Equity;RAIA DROGASIL SA;Consumer, Cyclical;10004;Consumer Staples;30;8.061.418.400;194,29;58,81;#N/A N/A;Comércio de Produtos Farmacêuticos. Perfumarias e Afins
+CELUL IRANI ON;RANI3;RANI3 BS Equity;CELULOSE IRANI SA;Basic Materials;10002;Materials;15;535.171.954;15,39;10;#N/A N/A;Fabricação de Papel para Embalagem. Embalagens de Papelão Ondulado e Resinas.
+CELUL IRANI PN;RANI4;RANI4 BS Equity;CELULOSE IRANI S.A.-PREF;Basic Materials;10002;Materials;15;535.171.954;1,88;14,64;#N/A N/A;Fabricação de Papel para Embalagem. Embalagens de Papelão Ondulado e Resinas.
+RANDON PART ON;RAPT3;RAPT3 BS Equity;RANDON SA IMPLEMENTOS E PART;Consumer, Cyclical;10004;Industrials;20;1.674.414.062;11,62;11,35;#N/A N/A;"Indústria e Comércio de Veíc. Automotores e Rebocados para A Movimentação e o de Transporte de Materiais; de Implem para o Transp Rodoviário e Ferroviário e de Aparelhos Mecânicos. Peças"
+RANDON PART PN;RAPT4;RAPT4 BS Equity;RANDON PARTICIPACOES SA-PREF;Consumer, Cyclical;10004;Industrials;20;1.674.414.062;145,79;72,04;#N/A N/A;"Indústria e Comércio de Veíc. Automotores e Rebocados para A Movimentação e o de Transporte de Materiais; de Implem para o Transp Rodoviário e Ferroviário e de Aparelhos Mecânicos. Peças"
+FII JHSF FBV CI;RBBV11;RBBV11 BS Equity;FII JHSF FBV;Financial;10008;#N/A N/A;#N/A N/A;79.639.412;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FII RIOBRCIB CI;RBCB11;RBCB11 BS Equity;RIO BRAVO CREDITO IMOB I FI;Financial;10008;#N/A N/A;#N/A N/A;37.701.530;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FII RBRESID2 CI;RBDS11;RBDS11 BS Equity;RB CAPITAL DESENV RESID II;Financial;10008;#N/A N/A;#N/A N/A;145.121.887;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FII RB GSB I CI;RBGS11;RBGS11 BS Equity;RB CAPITAL GENERAL SHOPPING;Financial;10008;#N/A N/A;#N/A N/A;66.264.664;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FII RBPRIME2 CI;RBPD11;RBPD11 BS Equity;RB CAPITAL PRIME REALTY II-S;Financial;10008;#N/A N/A;#N/A N/A;28.400.000;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FII RBPRIME1 CI;RBPR11;RBPR11 BS Equity;RB CAPITAL PRIME REALTY I;Financial;10008;#N/A N/A;#N/A N/A;16.000.000;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FII RB II CI;RBRD11;RBRD11 BS Equity;RB CAPITAL RENDA II FUNDO;Financial;10008;#N/A N/A;#N/A N/A;120.384.613;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FII RIOBCRI2 CI;RBVO11;RBVO11 BS Equity;RIO BRAVO CRED IMOB II FII;Financial;10008;#N/A N/A;#N/A N/A;44.747.730;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FII REP 1 CI;RCCS11;RCCS11 BS Equity;REP 1 CCS-FI IMOBILIARIO;Financial;10008;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+RECRUSUL ON;RCSL3;RCSL3 BS Equity;RECRUSUL SA;Industrial;10011;Industrials;20;9.332.152;10,97;14,03;#N/A N/A;Produção e Comercialização de Equipamentos para Refrigeração Industrial e Unidades de Transportes.
+RECRUSUL PN;RCSL4;RCSL4 BS Equity;RECRUSUL SA-PREF;Industrial;10011;Industrials;20;9.332.152;144,19;92,95;#N/A N/A;Produção e Comercialização de Equipamentos para Refrigeração Industrial e Unidades de Transportes.
+FII RD ESCRI CI;RDES11;RDES11 BS Equity;RENDA DE ESCRITORIOS FII;Financial;10008;#N/A N/A;#N/A N/A;57.148.838;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+RODOBENSIMOB ON;RDNI3;RDNI3 BS Equity;RODOBENS NEG IMOB SA;Financial;10008;Consumer Discretionary;25;510.039.600;25,34;52,17;#N/A N/A;"(i) A Compra e Venda de Imóveis; (ii) o Desmembramento ou Loteamento de Terrenos; (iii) A Incorporação Imobiliária ou Construção de Imóveis Destinados À Venda; (iv) A Prestação de Serviços A Terceiros"
+REDENTOR ON;RDTR3;RDTR3 BS Equity;REDENTOR ENERGIA SA;Utilities;10014;Utilities;55;564.100.306;3,46;3,19;#N/A N/A;Companhia Holding com Atuação no Setor Elétrico
+REDE ENERGIA ON;REDE3;REDE3 BS Equity;REDE ENERGIA SA;Utilities;10014;Utilities;55;1.261.353.545;894,97;75,7;#N/A N/A;Participação em Outras Empresas (a Rede Energia É Uma Holding)
+REDE ENERGIA PN;REDE4;REDE4 BS Equity;REDE EMPRESAS DE ENER-PREF;Utilities;10014;Utilities;55;1.261.353.545;396,06;74,37;#N/A N/A;Participação em Outras Empresas (a Rede Energia É Uma Holding)
+LOCALIZA ON;RENT3;RENT3 BS Equity;LOCALIZA RENT A CAR;Consumer, Non-cyclical;10005;Industrials;20;7.412.769.000;149,44;70,56;#N/A N/A;Aluguel de Carros e Gestão de Frotas
+RJCP EQUITY ON;RJCP3;RJCP3 BS Equity;RCJP EQUITY SA;Financial;10008;Financials;40;14.124.841;1.155,23;81,79;#N/A N/A;Administração de Participações Societárias.
+COSAN LOG ON;RLOG3;RLOG3 BS Equity;COSAN LOGISTICA SA;Industrial;10011;Industrials;20;1.408.323.145;152,16;37,49;#N/A N/A;Administração. Direta ou Indireta. de Participações Societárias em Empresas do Setor de Infraestrutura.
+RENAR ON;RNAR3;RNAR3 BS Equity;RENAR MACAS SA;Consumer, Non-cyclical;10005;Consumer Staples;30;29.008.125;2,93;38,63;#N/A N/A;Pomicultura Produção. Comercialização e Exportação
+FII BB R PAP CI;RNDP11;RNDP11 BS Equity;BB RENDA DE PAPEIS IMOB FII;Financial;10008;#N/A N/A;#N/A N/A;97.807.709;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+RENOVA UNT;RNEW11;RNEW11 BS Equity;RENOVA ENERGIA SA-UNITS;Energy;10007;Utilities;55;4.035.239.865;106,22;100;#N/A N/A;Geração de Energia por Meio de Fontes Renováveis.
+RENOVA ON;RNEW3;RNEW3 BS Equity;RENOVA ENERGIA SA;Energy;10007;Utilities;55;#N/A N/A;30,72;12,97;#N/A N/A;Geração de Energia por Meio de Fontes Renováveis.
+RENOVA PN;RNEW4;RNEW4 BS Equity;RENOVA ENERGIA SA;Energy;10007;Utilities;55;#N/A N/A;39,15;47,86;#N/A N/A;Geração de Energia por Meio de Fontes Renováveis.
+FII RIONEGRO CI;RNGO11;RNGO11 BS Equity;FII RIO NEGRO;Financial;10008;#N/A N/A;#N/A N/A;215.953.186;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+INDS ROMI ON;ROMI3;ROMI3 BS Equity;INDUSTRIAS ROMI SA;Industrial;10011;Industrials;20;231.777.200;23,34;32,53;#N/A N/A;Indústria e Comércio de Máquinas-Ferramenta
+ALFA HOLDING ON;RPAD3;RPAD3 BS Equity;ALFA HOLDINGS SA;Financial;10008;Financials;40;273.098.421;2,82;6,12;#N/A N/A;Participar como Sócio ou Acionista de Sociedades. na Qualidade de Cotista. Acionista. ou de Outra Forma Legalmente Adminssivel
+ALFA HOLDING PNA;RPAD5;RPAD5 BS Equity;ALFA HOLDINGS SA-PREF A;Financial;10008;Financials;40;273.098.421;3,37;23,51;#N/A N/A;Participar como Sócio ou Acionista de Sociedades. na Qualidade de Cotista. Acionista. ou de Outra Forma Legalmente Adminssivel
+ALFA HOLDING PNB;RPAD6;RPAD6 BS Equity;ALFA HOLDINGS SA-PREF B;Financial;10008;Financials;40;273.098.421;12,6;51,73;#N/A N/A;Participar como Sócio ou Acionista de Sociedades. na Qualidade de Cotista. Acionista. ou de Outra Forma Legalmente Adminssivel
+PET MANGUINH ON;RPMG3;RPMG3 BS Equity;REFINARIA DE PETROLEOS MANGU;Energy;10007;Energy;10;342.638.953;403,01;38,04;#N/A N/A;Fabricação de Produtos de Refino de Petróleo.
+PET MANGUINH PN;RPMG4;RPMG4 BS Equity;REFINARIA DE PETROLEOS-PREF;Energy;10007;Energy;10;342.638.953;81,54;98,62;#N/A N/A;Fabricação de Produtos de Refino de Petróleo.
+ROSSI RESID ON;RSID3;RSID3 BS Equity;ROSSI RESIDENCIAL SA;Consumer, Cyclical;10004;Consumer Discretionary;25;329.344.067;77,97;90,9;#N/A N/A;O Objeto Social É A Compra e Venda de Imóveis. Desmembramento e Loteamento de Terrenos. Incorporação Imobiliária e Construção de Imóveis Destinados À Venda.
+RIOSULENSE PN;RSUL4;RSUL4 BS Equity;METALURGICA RIOSULENSE SA-PR;Basic Materials;10002;Industrials;20;11.660.000;0,05;19,39;#N/A N/A;Industria Mecâno Metalúrgica
+FII SANT AGE CI;SAAG11;SAAG11 BS Equity;SANTANDER AGENCIAS FII;Financial;10008;#N/A N/A;#N/A N/A;484.310.028;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+SANTANDER BR UNT;SANB11;SANB11 BS Equity;BANCO SANTANDER  BRASIL-UNIT;Financial;10008;Financials;40;56.292.223.905;950,87;25,02;#N/A N/A;Banco Múltiplo com Carteira Comercial
+SANTANDER BR ON;SANB3;SANB3 BS Equity;BANCO SANTANDER (BRASIL) SA;Financial;10008;Financials;40;56.292.223.905;237,08;6,13;#N/A N/A;Banco Múltiplo com Carteira Comercial
+SANTANDER BR PN;SANB4;SANB4 BS Equity;BANCO SANTANDER (BRASIL-PREF;Financial;10008;Financials;40;56.292.223.905;261,17;7;#N/A N/A;Banco Múltiplo com Carteira Comercial
+SANEPAR ON;SAPR3;SAPR3 BS Equity;CIA DE SANEAMENTO DO PARANA;Utilities;10014;Utilities;55;3.050.369.318;0,84;0,36;#N/A N/A;Captação. Tratamento e Distribuição de Água e Coleta e Tratamento de Esgoto
+SANEPAR PN;SAPR4;SAPR4 BS Equity;CIA SANEAMENTO DO PARANA-PRF;Utilities;10014;Utilities;55;3.050.369.318;89,15;36,44;#N/A N/A;Captação. Tratamento e Distribuição de Água e Coleta e Tratamento de Esgoto
+SABESP ON;SBSP3;SBSP3 BS Equity;CIA SANEAMENTO BASICO DE SP;Utilities;10014;Utilities;55;13.130.224.583;339,98;49,74;#N/A N/A;Abastecimento de Água. Esgotamento Sanitário. Drenagem e Manejo de Águas Pluviais Urbanas. Limpeza Urbana. Manejo de Resíduos Sólidos e Energia.
+STARBUCKS DRN;SBUB34;SBUB34 BS Equity;STARBUCKS CORP-BDR;Consumer, Cyclical;10004;Consumer Discretionary;25;158.840.800.000;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+SAO CARLOS ON;SCAR3;SCAR3 BS Equity;SAO CARLOS EMPREENDIMENTOS;Financial;10008;Financials;40;1.760.988.159;16,48;28,55;#N/A N/A;"Compra e Venda de Imóveis Prontos ou A Construir; Locação de Bens Imóveis; Administração de Empreendimentos Imobiliários Próprios ou de Terceiros; Exercício de Outras Atividades Correlatas; e Outros"
+FII SDI LOG CI;SDIL11;SDIL11 BS Equity;SDI LOGISTICA RIO FII;Financial;10008;#N/A N/A;#N/A N/A;114.403.206;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+SER EDUCA ON;SEER3;SEER3 BS Equity;SER EDUCACIONAL SA;Consumer, Non-cyclical;10005;Consumer Discretionary;25;3.499.710.170;25,36;20,25;#N/A N/A;"Desenvolvimento e A Administração de Atividades e Instituições no Setor de Educação e Outrasáreas Associadas; Administração de Bens e Negócios Próprios; e Participação em Outrassociedades."
+SOFISA PN;SFSA4;SFSA4 BS Equity;BANCO SOFISA S.A.;Financial;10008;Financials;40;385.692.779;14,02;34,52;#N/A N/A;Banco Múltiplo com Carteiras Comercial. Crédito. Financiamento e Investimento. Câmbio e Arrendamento Mercantil.
+WLM IND COM ON;SGAS3;SGAS3 BS Equity;WLM INDUSTRIA E COMERCIO SA;Diversified;10006;Industrials;20;547.482.711;0,19;5,61;#N/A N/A;Gestão de Participações Societárias - Holding Não Financeira
+WLM IND COM PN;SGAS4;SGAS4 BS Equity;WLM INDUSTRIA E COMERCIO SA;Diversified;10006;Industrials;20;547.482.711;1,04;26,25;#N/A N/A;Gestão de Participações Societárias - Holding Não Financeira
+SPRINGS ON;SGPS3;SGPS3 BS Equity;SPRINGS GLOBAL PARTICIPACOES;Consumer, Cyclical;10004;Consumer Discretionary;25;136.000.000;94,18;47,09;#N/A N/A;#N/A N/A
+TIME FOR FUN ON;SHOW3;SHOW3 BS Equity;T4F ENTRETENIMENTO SA;Consumer, Cyclical;10004;Consumer Discretionary;25;232.405.578;31,57;45,24;#N/A N/A;Atuação no Setor de Entretenimento ao Vivo. Através da Operação de Casas de Espetáculos e de Bilheterias. da Comercialização de Alimentos. Bebidas e Produtos Promocionais e da Negociação de Patrocínio
+FII HIGIENOP CI;SHPH11;SHPH11 BS Equity;SHOPPING PATIO HIGIENOPOLIS;Financial;10008;#N/A N/A;#N/A N/A;351.060.272;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+SCHULZ PN;SHUL4;SHUL4 BS Equity;SCHULZ SA-PREF;Industrial;10011;Industrials;20;382.263.381;19,97;54,64;#N/A N/A;Indústria Metalúrgica
+SCHLUMBERGER DRN;SLBG34;SLBG34 BS Equity;SCHLUMBERGER - BDR;Energy;10007;Energy;10;322.470.552.593;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+SLC AGRICOLA ON;SLCE3;SLCE3 BS Equity;SLC AGRICOLA SA;Consumer, Non-cyclical;10005;Consumer Staples;30;1.469.616.850;41,92;42,39;#N/A N/A;Produção e Comercialização de Algodão. Soja. Milho. Café. entre Outros.
+SARAIVA LIVR ON;SLED3;SLED3 BS Equity;SARAIVA SA-LIVREIROS EDITORE;Communications;10003;Consumer Discretionary;25;297.195.900;1,52;15,75;#N/A N/A;Edição. Indústria e Comércio de Livros e Publicações em Geral.
+SARAIVA LIVR PN;SLED4;SLED4 BS Equity;SARAIVA SA LIVREIROS-PREF;Communications;10003;Consumer Discretionary;25;297.195.900;17,81;93,84;#N/A N/A;Edição. Indústria e Comércio de Livros e Publicações em Geral.
+ISHARES SMAL CI;SMAL11;SMAL11 BS Equity;ISHARES BM&FBOVESPA SM CAP;Funds;10009;#N/A N/A;#N/A N/A;34.368.000;#N/A N/A;#N/A N/A;Equity;#N/A N/A
+SMILES ON;SMLE3;SMLE3 BS Equity;SMILES SA;Communications;10003;Consumer Discretionary;25;5.755.969.398;55,92;45,66;#N/A N/A;"Programa de Milhagem para Fidelizar os Clientes. Próprio ou de Terceiros. Acúmulo de Milhas pela Compra de Passagens Aéreas; Uso de Cartão de Crédito. Hotéis. Locadoras de Veículos e Restaurantes."
+SAO MARTINHO ON;SMTO3;SMTO3 BS Equity;SAO MARTINHO SA;Consumer, Non-cyclical;10005;Consumer Staples;30;4.520.000.000;48,58;42,99;#N/A N/A;Fabricação e Comércio de Açúcar. Álcool e Derivados.
+SENIOR SOL ON;SNSL3;SNSL3 BS Equity;SENIOR SOLUTION SA;Technology;10013;Information Technology;45;102.430.794;6,51;55,26;#N/A N/A;"Produção. Desenvolvimento. Licenciamento. Sublicenciamento e Distribuição de Programas de Computador (""software"") e Outras Atividades. Conforme Descritas no Estatuto Social da Companhia."
+SANSUY ON;SNSY3;SNSY3 BS Equity;SANSUY SA INDUSTRIA DE PLAST;Industrial;10011;Materials;15;19.784.538;1,73;26,06;#N/A N/A;Indústria e Comércio de Artefatos Plásticos
+SANSUY PNA;SNSY5;SNSY5 BS Equity;SANSUY SA INDUSTRIA-PREF A;Industrial;10011;Materials;15;19.784.538;12,62;100;#N/A N/A;Indústria e Comércio de Artefatos Plásticos
+SONDOTECNICA ON;SOND3;SOND3 BS Equity;SONDOTECNICA ENGENHARIA SOLO;Industrial;10011;Industrials;20;83.955.540;0,04;4,09;#N/A N/A;Consultoria Técnica e Econômica na Área de Engenharia e Arquitetura
+SONDOTECNICA PNA;SOND5;SOND5 BS Equity;SONDOTECNICA ENGENHARIA-PR A;Industrial;10011;Industrials;20;83.955.540;0,55;69,86;#N/A N/A;Consultoria Técnica e Econômica na Área de Engenharia e Arquitetura
+SONDOTECNICA PNB;SOND6;SOND6 BS Equity;SONDOTECNICA ENGENHARIA-PR B;Industrial;10011;Industrials;20;83.955.540;0,82;100;#N/A N/A;Consultoria Técnica e Econômica na Área de Engenharia e Arquitetura
+SPRINGER ON;SPRI3;SPRI3 BS Equity;SPRINGER SA;Consumer, Cyclical;10004;Consumer Discretionary;25;38.837.891;8,16;8,64;#N/A N/A;Indústria e Comércio. Importação e Exportação de Eletrodomésticos
+SPRINGER PNA;SPRI5;SPRI5 BS Equity;SPRINGER SA-PREF A;Consumer, Cyclical;10004;Consumer Discretionary;25;38.837.891;25,62;100;#N/A N/A;Indústria e Comércio. Importação e Exportação de Eletrodomésticos
+SPRINGER PNB;SPRI6;SPRI6 BS Equity;SPRINGER SA-PREF B;Consumer, Cyclical;10004;Consumer Discretionary;25;38.837.891;2,12;33,08;#N/A N/A;Indústria e Comércio. Importação e Exportação de Eletrodomésticos
+FII SP DOWNT CI;SPTW11;SPTW11 BS Equity;SP DOWNTOWN FII;Financial;10008;#N/A N/A;#N/A N/A;128.377.197;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+SIERRABRASIL ON;SSBR3;SSBR3 BS Equity;SONAE SIERRA BRASIL SA;Financial;10008;Financials;40;1.448.231.597;25,49;33,35;#N/A N/A;Planejamento. Desenvolvimento. Implantação e Investimentos na Área Imobiliária. Nomeadamente em Shopping Centers e A Participação em Outras Sociedades E/ou em Fundos de Investimento Imobiliário.
+SANTOS BRP UNT;STBP11;STBP11 BS Equity;SANTOS BRASIL PARTICIPA-UNIT;Consumer, Non-cyclical;10005;Industrials;20;2.224.729.090;133,22;100;#N/A N/A;A Companhia Tem por Objeto A Exploração Comercial de Instalação Portuária Através de Operações com Contêineres. Carga Geral ou Afins e A Participação em Outras Sociedades.
+FII SANT 001 CI;STFI11;STFI11 BS Equity;SANTANDER RECEBIVEIS IMOB;Financial;10008;#N/A N/A;#N/A N/A;11.500.000;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+SUL AMERICA UNT;SULA11;SULA11 BS Equity;SUL AMERICA SA - UNITS;Financial;10008;Financials;40;4.327.336.587;314,69;92,36;#N/A N/A;A Sul América S.A. É Uma Sociedade de Participação e Suas Controladas Atuam Nos Setores de Seguros. Previdência Complementar. Administração de Recursos. Capitalização e Assistência À Saúde.
+SULTEPA ON;SULT3;SULT3 BS Equity;CONSTRUTORA SULTEPA SA;Industrial;10011;Industrials;20;8.768.897;0,79;10,56;#N/A N/A;Administração e Execução de Obras Públicas e Privadas Como: Portos. Aeroportos. Viadutos. Estradas.
+SULTEPA PN;SULT4;SULT4 BS Equity;CONSTRUTORA SULTEPA SA-PREF;Industrial;10011;Industrials;20;8.768.897;2,32;45,32;#N/A N/A;Administração e Execução de Obras Públicas e Privadas Como: Portos. Aeroportos. Viadutos. Estradas.
+SUZANO PAPEL PNA;SUZB5;SUZB5 BS Equity;SUZANO PAPEL E CELULO-PREF A;Basic Materials;10002;Materials;15;12.052.196.806;418,37;56,95;#N/A N/A;Indústria e Comércio de Papel e Celulose
+SUZANO PAPEL PNB;SUZB6;SUZB6 BS Equity;SUZANO PAPEL E CELULO-PREF B;Basic Materials;10002;Materials;15;12.052.196.806;0,01;0,69;#N/A N/A;Indústria e Comércio de Papel e Celulose
+TAESA UNT;TAEE11;TAEE11 BS Equity;TRANSMISSORA ALIANCA DE-UNIT;Utilities;10014;Utilities;55;6.717.728.726;68,03;19,75;#N/A N/A;Transmissão de Energia Elétrica.
+TAESA ON;TAEE3;TAEE3 BS Equity;TRANSMISSORA ALIANCA DE - ON;Utilities;10014;Utilities;55;#N/A N/A;100,83;14,58;#N/A N/A;Transmissão de Energia Elétrica.
+TRACTEBEL ON;TBLE3;TBLE3 BS Equity;TRACTEBEL ENERGIA SA;Utilities;10014;Utilities;55;22.630.571.797;204,24;31,29;#N/A N/A;Geração e Comercialização de Energia Elétrica
+FII TBOFFICE CI;TBOF11;TBOF11 BS Equity;FII TB OFFICE;Financial;10008;#N/A N/A;#N/A N/A;618.075.012;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+TECNOSOLO ON;TCNO3;TCNO3 BS Equity;TECNOSOLO ENGENHARIA SA;Basic Materials;10002;Industrials;20;10.989.661;35,31;100;#N/A N/A;#N/A N/A
+TECNOSOLO PN;TCNO4;TCNO4 BS Equity;TECNOSOLO ENGENHARIA SA-PREF;Basic Materials;10002;Industrials;20;10.989.661;41,04;64,13;#N/A N/A;#N/A N/A
+TECNISA ON;TCSA3;TCSA3 BS Equity;TECNISA SA;Consumer, Cyclical;10004;Consumer Discretionary;25;869.400.000;76,23;42,35;#N/A N/A;Incorporação. Compra e Venda de Imóveis Prontos e A Construir A Locação e Administração de Bens Imóveis. Construção de Imóveis e A Prestação de Serviço de Consultoria Imobiliaria.
+TECHNOS ON;TECN3;TECN3 BS Equity;TECHNOS SA;Consumer, Non-cyclical;10005;Consumer Discretionary;25;720.687.054;59,07;75,24;#N/A N/A;A Companhia Tem por Objeto Social A Participação em Outras Sociedades. como Sócia ou Acionista. no País ou no Exterior.
+TEKA ON;TEKA3;TEKA3 BS Equity;TEKA-TECELAGEM KUEHNRICH SA;Consumer, Cyclical;10004;Consumer Discretionary;25;15.769.859;1,64;9,79;#N/A N/A;Fabricação de Artigos de Cama. Mesa e Banho
+TEKA PN;TEKA4;TEKA4 BS Equity;TEKA-TECELAGEM KUEHNRICH-PRF;Consumer, Cyclical;10004;Consumer Discretionary;25;15.769.859;23,77;70,89;#N/A N/A;Fabricação de Artigos de Cama. Mesa e Banho
+TELEBRAS ON;TELB3;TELB3 BS Equity;TELECOMUNIC BRASILEIRAS S.A.;Communications;10003;Telecommunication Services;50;240.882.845;8,98;9,22;#N/A N/A;Consecução dos Objetivos Previstos no Programa Nacional de Banda Larga - (Dec. 7.175 de 12/05/2010)
+TELEBRAS PN;TELB4;TELB4 BS Equity;TELECOMUN BRASILEIRAS SA-PRF;Communications;10003;Telecommunication Services;50;240.882.845;12,3;58,54;#N/A N/A;Consecução dos Objetivos Previstos no Programa Nacional de Banda Larga - (Dec. 7.175 de 12/05/2010)
+TEMPO PART ON;TEMP3;TEMP3 BS Equity;TEMPO PARTICIPACOES SA;Financial;10008;Health Care;35;810.274.154;105,45;66,37;#N/A N/A;Soluções Médicas. Planos Médicos e Odontológicos e Assitências 24 Horas.
+TEC BLUMENAU PNA;TENE5;TENE5 BS Equity;TECBLU TECELAGEM BLUMEN-PR A;Consumer, Cyclical;10004;Consumer Discretionary;25;832.684;0,07;25,43;#N/A N/A;Constitui Objeto Principal da Sociedade A Industria e o Comercio de Produtos Texteis
+TEC BLUMENAU PNC;TENE7;TENE7 BS Equity;TECBLU TECELAGEM BLUMEN-PR C;Consumer, Cyclical;10004;Consumer Discretionary;25;832.684;0,08;10,63;#N/A N/A;Constitui Objeto Principal da Sociedade A Industria e o Comercio de Produtos Texteis
+TEREOS ON;TERI3;TERI3 BS Equity;TEREOS INTERNACIONAL SA;Consumer, Non-cyclical;10005;Consumer Staples;30;1.471.896.142;239,41;29,28;#N/A N/A;Gestão de Participações em Sociedades que Exploram Atividades de Açúcar. Amido e Bioenergia e em Ramos de Atividade Afins ou Complementares.
+TGLT DR2;TGLT32;TGLT32 BS Equity;TGLT SA-BDR;Financial;10008;Consumer Discretionary;25;98.489.280;#N/A N/A;#N/A N/A;#N/A N/A;"Gerenciamento de Projetos e Empreendimentos Imobiliários. Desenvolvimentos Urbanos; o Planejamento. Avaliação. Direção e Execução na Gestão de Tais Negócios Relacionados ao Setor Imobiliário."
+TEGMA ON;TGMA3;TGMA3 BS Equity;TEGMA GESTAO LOGISTICA;Industrial;10011;Industrials;20;1.181.452.179;26,64;40,36;#N/A N/A;Prestação de Serviços de Logística para A Indústria Automotiva. Gerenciamento de Estoques e Pátios. Atividades de Armazém Geral. Pdi. Dentre Outras.
+MILLENNIUM ON;TIBR3;TIBR3 BS Equity;MILLENNIUM INORGANIC CHEMICA;Basic Materials;10002;Materials;15;218.212.827;530,92;65,33;#N/A N/A;Cristal Pigmentos do Brasil S/A.. Indústria Química. Produtora de Pigmento Branco de Dióxido de Titânio. Foi Fundada em 25 de Janeiro de 1966.
+MILLENNIUM PNA;TIBR5;TIBR5 BS Equity;MILLENNIUM INORGANIC-PREF A;Basic Materials;10002;Materials;15;218.212.827;987,38;100;#N/A N/A;Cristal Pigmentos do Brasil S/A.. Indústria Química. Produtora de Pigmento Branco de Dióxido de Titânio. Foi Fundada em 25 de Janeiro de 1966.
+MILLENNIUM PNB;TIBR6;TIBR6 BS Equity;MILLENNIUM INORGANIC-PREF B;Basic Materials;10002;Materials;15;218.212.827;521,41;99,99;#N/A N/A;Cristal Pigmentos do Brasil S/A.. Indústria Química. Produtora de Pigmento Branco de Dióxido de Titânio. Foi Fundada em 25 de Janeiro de 1966.
+TIM PART S/A ON;TIMP3;TIMP3 BS Equity;TIM PARTICIPACOES SA;Communications;10003;Telecommunication Services;50;30.166.064.688;808,98;33,41;#N/A N/A;#N/A N/A
+TEKNO ON;TKNO3;TKNO3 BS Equity;TEKNO SA INDUSTRIA E COMERCI;Industrial;10011;Materials;15;141.494.880;0,05;3,46;#N/A N/A;Pintura de Bobinas e Chapas Metálicas
+TEKNO PN;TKNO4;TKNO4 BS Equity;TEKNO SA INDUSTRIA E COMERCI;Industrial;10011;Materials;15;141.494.880;0,31;23,06;#N/A N/A;Pintura de Bobinas e Chapas Metálicas
+TOTVS ON;TOTS3;TOTS3 BS Equity;TOTVS SA;Technology;10013;Information Technology;45;5.807.985.033;110,61;67,67;#N/A N/A;Prestação de Serviços de Consultoria. Assessoria e Desenvolvimento de Sistemas Informatizados (software). Atividades de Pesquisa e Inovação Tecnológica. Prestação de Serviços Relacionados À Gestão.
+TECTOY ON *;TOYB3;TOYB3 BS Equity;TEC TOY SA;Consumer, Cyclical;10004;Consumer Discretionary;25;13.226.407;294.308,60;42,92;#N/A N/A;Industr/Com.brinquedos.jogos Eletron. e Entretenimento
+TECTOY PN *;TOYB4;TOYB4 BS Equity;TEC TOY SA-PREF;Consumer, Cyclical;10004;Consumer Discretionary;25;13.226.407;440.041,40;69,09;#N/A N/A;Industr/Com.brinquedos.jogos Eletron. e Entretenimento
+TRIUNFO PART ON;TPIS3;TPIS3 BS Equity;TPI - TRIUNFO PARTICIPACOES;Diversified;10006;Industrials;20;1.056.000.000;38,05;21,62;#N/A N/A;Participação em Empresas de Concessões de Rodovias. Geração de Enregia e Logistica.
+TRISUL ON;TRIS3;TRIS3 BS Equity;TRISUL SA;Financial;10008;Consumer Discretionary;25;307.563.371;38,38;46,92;#N/A N/A;Incorporadora e Construtora
+TRAN PAULIST ON;TRPL3;TRPL3 BS Equity;CIA DE TRANSMISSAO DE ENERGI;Utilities;10014;Utilities;55;6.739.542.026;0,48;0,75;#N/A N/A;Transmissão de Energia Elétrica
+TRAN PAULIST PN;TRPL4;TRPL4 BS Equity;CIA DE TRANSMISSAO DE ENE-PF;Utilities;10014;Utilities;55;6.739.542.026;32,77;33,86;#N/A N/A;Transmissão de Energia Elétrica
+TARPON INV ON;TRPN3;TRPN3 BS Equity;TARPON INVESTIMENTOS SA;Financial;10008;Financials;40;532.196.654;17,88;37,96;#N/A N/A;Empresa de Participações.
+FII TRX LOG CI;TRXL11;TRXL11 BS Equity;FUNDO TRX REALTY LOGISTICA I;Financial;10008;#N/A N/A;#N/A N/A;148.012.115;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FII TRANSINC CI;TSNC11;TSNC11 BS Equity;TRANSINC FII;Financial;10008;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+TUPY ON;TUPY3;TUPY3 BS Equity;TUPY SA;Basic Materials;10002;Consumer Discretionary;25;2.595.195.000;48,05;33,33;#N/A N/A;Produtos Fundidos para A Industria Automobilística / Conexões em Ferro Fundido para Aplicações em Redes Hidráulicas e de Gás / Granalhas e Perfis
+TWITTER DRN;TWTR34;TWTR34 BS Equity;TWITTER INC - BDR;Communications;10003;Information Technology;45;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+TIME WARNER DRN;TWXB34;TWXB34 BS Equity;TIME WARNER INC-BDR;Communications;10003;Consumer Discretionary;25;174.788.234.375;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+TEX RENAUX ON;TXRX3;TXRX3 BS Equity;TEXTIL RENAUXVIEW SA;Consumer, Cyclical;10004;Consumer Discretionary;25;10.939.524;2,08;14,27;#N/A N/A;Fiação e Tecelagem de Algodão
+TEX RENAUX PN;TXRX4;TXRX4 BS Equity;RENAUXVIEW SA-PREF;Consumer, Cyclical;10004;Consumer Discretionary;25;10.939.524;8,42;30,04;#N/A N/A;Fiação e Tecelagem de Algodão
+UNICASA ON;UCAS3;UCAS3 BS Equity;UNICASA INDUSTRIA DE MOVEIS;Consumer, Cyclical;10004;Consumer Discretionary;25;188.346.137;29,41;44,5;#N/A N/A;Indústria. Comércio. Prestação de Serviços. Importação e Exportação de Produtos Relacionados ao Ramo de Mobiliário em Geral. Planejado e Modulado de Madeira. Ferro. Aço. Alumínio e Outros Materiais.
+ULTRAPAR ON;UGPA3;UGPA3 BS Equity;ULTRAPAR PARTICIPACOES SA;Basic Materials;10002;Energy;10;30.630.100.535;336,85;60,54;#N/A N/A;Distribuição de Combustíveis. Químicos e Armazenagem para Granéis Líquidos
+UNIPAR ON;UNIP3;UNIP3 BS Equity;UNIPAR CARBOCLORO SA-ORD;Basic Materials;10002;Materials;15;427.919.554;72,72;26,11;#N/A N/A;Atuar no Setor de Soda. Cloro e Derivados. Podendo Participar como Sócia ou Acionista de Outras Sociedades. Direta ou Indiretamente. Inclusive por Meio de Fundos de Investimentos.
+UNIPAR PNA;UNIP5;UNIP5 BS Equity;UNIPAR CARBOCLORO SA-PREF A;Basic Materials;10002;Materials;15;427.919.554;22,16;85,54;#N/A N/A;Atuar no Setor de Soda. Cloro e Derivados. Podendo Participar como Sócia ou Acionista de Outras Sociedades. Direta ou Indiretamente. Inclusive por Meio de Fundos de Investimentos.
+UNIPAR PNB;UNIP6;UNIP6 BS Equity;UNIPAR CARBOCLORO SA;Basic Materials;10002;Materials;15;427.919.554;519,79;97,87;#N/A N/A;Atuar no Setor de Soda. Cloro e Derivados. Podendo Participar como Sócia ou Acionista de Outras Sociedades. Direta ou Indiretamente. Inclusive por Meio de Fundos de Investimentos.
+UPS DRN;UPSS34;UPSS34 BS Equity;UNITED PARCEL SERVICE - BDR;Industrial;10011;Industrials;20;225.582.390.625;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+USIMINAS ON;USIM3;USIM3 BS Equity;USINAS SIDERURGICAS DE MINAS;Basic Materials;10002;Materials;15;6.054.972.109;97,21;19,24;#N/A N/A;Venda de Produtos Siderúrgicos. como Chapas Grossas. Laminados A Quente. A Frio. Placas. Galvanizados. entre Outros.
+USIMINAS PNA;USIM5;USIM5 BS Equity;USINAS SIDER MINAS GER-PF A;Basic Materials;10002;Materials;15;6.054.972.109;403,19;79,3;#N/A N/A;Venda de Produtos Siderúrgicos. como Chapas Grossas. Laminados A Quente. A Frio. Placas. Galvanizados. entre Outros.
+USIMINAS PNB;USIM6;USIM6 BS Equity;USINAS SIDER MINAS GER-PF B;Basic Materials;10002;Materials;15;6.054.972.109;0,09;100;#N/A N/A;Venda de Produtos Siderúrgicos. como Chapas Grossas. Laminados A Quente. A Frio. Placas. Galvanizados. entre Outros.
+ISHARES UTIP CI;UTIP11;UTIP11 BS Equity;ISHARES UTILIDADE PUBLICA;Funds;10009;#N/A N/A;#N/A N/A;7.059.000;#N/A N/A;#N/A N/A;Equity;#N/A N/A
+V-AGRO ON;VAGR3;VAGR3 BS Equity;VANGUARDA AGRO SA;Consumer, Non-cyclical;10005;Consumer Staples;30;484.279.445;168,01;43,37;#N/A N/A;#NOME?
+VALE ON;VALE3;VALE3 BS Equity;VALE SA;Basic Materials;10002;Materials;15;115.503.044.127;1.263,07;39,26;#N/A N/A;Mineração
+VALE PNA;VALE5;VALE5 BS Equity;VALE SA-PREF;Basic Materials;10002;Materials;15;115.503.044.127;1.939,45;95,67;#N/A N/A;Mineração
+VERIZON DRN;VERZ34;VERZ34 BS Equity;VERIZON COMMUNIC INC-BDR;Communications;10003;Telecommunication Services;50;528.882.286.330;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+VIGOR FOOD ON;VIGR3;VIGR3 BS Equity;VIGOR ALIMENTOS SA;Consumer, Non-cyclical;10005;Consumer Staples;30;1.122.857.595;0,37;0,25;#N/A N/A;Produção e Comércio de Laticínios e Derivados de Óleo.
+VISA INC DRN;VISA34;VISA34 BS Equity;VISA INC-BDR;Financial;10008;Information Technology;45;403.378.569.269;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+VIVER ON;VIVR3;VIVR3 BS Equity;VIVER INCORPORADORA E CONSTR;Financial;10008;Consumer Discretionary;25;33.530.945;201,32;60,04;#N/A N/A;Incorporadora e Construtora Presente em Todas as Regiões do País e com Foco de Atuação no Mercado Residencial. Particularmente Nos Segmentos de Média e Baixa Renda.
+TELEF BRASIL ON;VIVT3;VIVT3 BS Equity;TELEFONICA BRASIL S.A.;Communications;10003;Telecommunication Services;50;55.541.333.728;31,18;8,17;#N/A N/A;Prestação de Serviços Públicos de Telecomunicações
+TELEF BRASIL PN;VIVT4;VIVT4 BS Equity;TELEFONICA BRASIL S.A.-PREF;Communications;10003;Telecommunication Services;50;55.541.333.728;261,37;35,13;#N/A N/A;Prestação de Serviços Públicos de Telecomunicações
+VALID ON;VLID3;VLID3 BS Equity;VALID SOLUCOES SA;Consumer, Non-cyclical;10005;Industrials;20;2.221.637.500;55,61;99,75;#N/A N/A;Impressão de Documentos de Segurança.
+FII OLIMPIA CI;VLOL11;VLOL11 BS Equity;FII VILA OLIMPIA CORPORATE;Financial;10008;#N/A N/A;#N/A N/A;105.304.855;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FII FATOR VE CI;VRTA11;VRTA11 BS Equity;FATOR VERITA FD INV IMOBILIA;Financial;10008;#N/A N/A;#N/A N/A;97.496.719;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FER C ATLANT ON;VSPT3;VSPT3 BS Equity;FERROVIA CENTRO-ATLANTICA SA;Industrial;10011;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;Serviço de Transporte Ferroviário
+VULCABRAS ON;VULC3;VULC3 BS Equity;VULCABRAS AZALEIA SA;Consumer, Cyclical;10004;Consumer Discretionary;25;266.731.698;99,14;13,38;#N/A N/A;Com. Impor. em Geral Notadamente de Calçados e Roupas
+VIAVAREJO UNT;VVAR11;VVAR11 BS Equity;VIA VAREJO SA;Consumer, Cyclical;10004;Consumer Discretionary;25;9.680.633.580;430,25;100;#N/A N/A;#N/A N/A
+VIAVAREJO ON;VVAR3;VVAR3 BS Equity;VIA VAREJO SA;Consumer, Cyclical;10004;Consumer Discretionary;25;9.680.633.580;131,37;19,93;#N/A N/A;#N/A N/A
+WAL MART DRN;WALM34;WALM34 BS Equity;WAL-MART STORES INC - BDR;Consumer, Cyclical;10004;Consumer Staples;30;722.087.448.320;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+WEG ON;WEGE3;WEGE3 BS Equity;WEG SA;Industrial;10011;Industrials;20;24.522.023.224;285,82;35,41;#N/A N/A;A Weg Sa É Uma Sociedade de Participação Não Operacional (holding) Etambém Sociedade de Comando do Grupo Weg.
+WELLS FARGO DRN;WFCO34;WFCO34 BS Equity;WELLS FARGO - BDR;Financial;10008;Financials;40;715.665.595.630;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+WHIRLPOOL ON;WHRL3;WHRL3 BS Equity;WHIRLPOOL SA;Consumer, Cyclical;10004;Consumer Discretionary;25;5.809.430.379;59,97;5,83;#N/A N/A;Fabricação e Comercialização de Eletrodomésticos e Compressores
+WHIRLPOOL PN;WHRL4;WHRL4 BS Equity;WHIRLPOOL SA-PREF;Consumer, Cyclical;10004;Consumer Discretionary;25;5.809.430.379;20,53;4,33;#N/A N/A;Fabricação e Comercialização de Eletrodomésticos e Compressores
+WILSON SONS DR3;WSON33;WSON33 BS Equity;WILSON SONS LTD-BDR;Consumer, Non-cyclical;10005;Industrials;20;2.340.637.600;#N/A N/A;#N/A N/A;#N/A N/A;Terminais Portuários. Rebocagem. Offshore. Logística. Agenciamento Marítimo e Estaleiros.
+CAIXAETFXBOV CI;XBOV11;XBOV11 BS Equity;CAIXA ETF IBOVESPA FI;Funds;10009;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;Equity;#N/A N/A
+FII XP MACAE CI;XPCM11;XPCM11 BS Equity;XP CORPORATE MACAE FII;Financial;10008;#N/A N/A;#N/A N/A;202.823.883;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+FII XP GAIA CI;XPGA11;XPGA11 BS Equity;XP GAIA LOTE I FUNDO DE INV;Financial;10008;#N/A N/A;#N/A N/A;88.912.315;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+XEROX CORP DRN;XRXB34;XRXB34 BS Equity;XEROX CORP-BDR;Technology;10013;Information Technology;45;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+FII TRXE COR CI;XTED11;XTED11 BS Equity;TRX EDIFICIOS CORPORATIVOS;Financial;10008;#N/A N/A;#N/A N/A;83.325.600;#N/A N/A;#N/A N/A;Real Estate;#N/A N/A
+BRAZIL IBOVESPA INDEX;IBOV;IBOV Index;BRAZIL IBOVESPA INDEX;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;1.793.677.250.000;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+BRAZIL IBrX INDEX;IBX;IBX Index;BRAZIL IBrX INDEX;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;1.950.404.000.000;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+BRAZIL IBrX-50 INDEX;IBX50;IBX50 Index;BRAZIL IBrX-50 INDEX;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;1.688.401.875.000;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
+S&P 500 INDEX;SPX;SPX Index;S&P 500 INDEX;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A;18.913.068.000.000;#N/A N/A;#N/A N/A;#N/A N/A;#N/A N/A
