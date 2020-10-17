@@ -1,4 +1,4 @@
-idade;sexo;experiencia;lingua;media_1osem;media_2osem;salario;avaliacao_geral;admissao_bruto;admissao_quant;admissao_verbal;admissao_geral
+idade;sexo;experiencia;lingua;media_1oano;media_2oano;salario;avaliacao_geral;admissao_bruto;admissao_quant;admissao_verbal;admissao_geral
 24;Masculino;2;Português;7,5;6,9;22.164;8,6;504;79;29;53
 24;Masculino;2;Português;8,5;9,2;23.057;8,6;566;82;49;70
 30;Masculino;7;Português;9,5;8,8;-200;-200;635;81;86;90
