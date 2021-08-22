@@ -1,0 +1,256 @@
+Você tem TV por assinatura? *
+Sim
+Não
+
+1 - Você utiliza prioritariamente o serviço de qual operadora de TV a cabo? *
+	Claro
+	GVT
+	Oi
+	SKY
+	Vivo
+	NET
+	Other:
+
+2 - Quão satisfeito você está com sua operadora de TV a cabo? *
+	Nada satisfeito
+	1
+	2
+	3
+	4
+	5
+	Muito satisfeito
+
+3 - Quão satisfeito você está com o relacionamento com sua operadora de TV a cabo? *
+	Nada satisfeito
+	1
+	2
+	3
+	4
+	5
+	Muito satisfeito
+
+4 - De modo geral, eu NÃO estou satisfeito com meu provedor de TV a cabo. *
+	Discordo totalmente
+	1
+	2
+	3
+	4
+	5
+	Concordo totalmente
+
+5 - Eu positivamente recomendaria esse serviço para outra pessoa. *
+	Discordo totalmente
+	1
+	2
+	3
+	4
+	5
+	Concordo totalmente
+
+6 - Imagine que você tivesse que se queixar com seu provedor de TV a cabo devido à má qualidade do serviço. Quanto você acredita que seu provedor se importaria com sua queixa? *
+	Nada
+	1
+	2
+	3
+	4
+	5
+	Muito
+
+7 - Você foi tratado com educação e com respeito pelos funcionários que atenderam a sua queixa? *
+	Nunca
+	1
+	2
+	3
+	4
+	5
+	Sempre
+
+8 - Meu serviço de TV tem os mesmos valores que eu em relação à preocupação com os outros. *
+	Discordo totalmente
+	1
+	2
+	3
+	4
+	5
+	Concordo totalmente
+
+9 - Em geral, meus valores e os valores assegurados pelo meu provedor de TV a cabo NÃO são os mesmos. *
+	Discordo totalmente
+	1
+	2
+	3
+	4
+	5
+	Concordo totalmente
+
+10 - Eu acredito nos mesmos valores assegurados e promovidos pelo meu servidor de TV a cabo. *
+	Discordo totalmente
+	1
+	2
+	3
+	4
+	5
+	Concordo totalmente
+
+11 - Em relação à marca do meu provedor de TV: Essa marca me dá a sensação de confiança. *
+	Discordo totalmente
+	1
+	2
+	3
+	4
+	5
+	Concordo totalmente
+
+12 - Em relação à marca do meu provedor de TV: Essa marca NÃO me dá uma impressão confiável. *
+	Discordo totalmente
+	1
+	2
+	3
+	4
+	5
+	Concordo totalmente
+
+13 - Em relação à marca do meu provedor de TV: Eu confio nessa marca. *
+	Discordo totalmente
+	1
+	2
+	3
+	4
+	5
+	Concordo totalmente
+
+14 - Em relação à marca do meu provedor de TV: meu provedor de TV pode ser referenciado por manter promessas. *
+	Discordo totalmente
+	1
+	2
+	3
+	4
+	5
+	Concordo totalmente
+
+15 - Em relação à marca do meu provedor de TV: meu provedor de TV é confiável. *
+	Discordo totalmente
+	1
+	2
+	3
+	4
+	5
+	Concordo totalmente
+
+16 - Eu tenho plena confiança em meu serviço de TV por assinatura. *
+	Discordo totalmente
+	1
+	2
+	3
+	4
+	5
+	Concordo totalmente
+
+17 - Eu pretendo continuar com esse serviço. *
+	Discordo totalmente
+	1
+	2
+	3
+	4
+	5
+	Concordo totalmente
+
+18 - Eu pretendo recomendar esse serviço para os outros. *
+	Discordo totalmente
+	1
+	2
+	3
+	4
+	5
+	Concordo totalmente
+
+19 - No futuro, eu gostaria de "apadrinhar" essa marca. *
+	Discordo totalmente
+	1
+	2
+	3
+	4
+	5
+	Concordo totalmente
+
+20 - Tenho intenção de continuar sendo cliente dessa marca que escolhi. *
+	Discordo totalmente
+	1
+	2
+	3
+	4
+	5
+	Concordo totalmente
+
+21 - Eu continuarei a utilizar esse serviço enquanto ele me oferecer benefícios. *
+	Discordo totalmente
+	1
+	2
+	3
+	4
+	5
+	Concordo totalmente
+
+22 - Eu sinto-me leal ao meu provedor de TV a cabo. *
+	Discordo totalmente
+	1
+	2
+	3
+	4
+	5
+	Concordo totalmente
+
+23 - Eu NÃO sou um usuário de TV leal. *
+	Discordo totalmente
+	1
+	2
+	3
+	4
+	5
+	Concordo totalmente
+
+24 - O serviço de TV por assinatura tem um grande significado pessoal para mim. *
+	Discordo totalmente
+	1
+	2
+	3
+	4
+	5
+	Concordo totalmente
+
+25 - Minha preferência por esse serviço não está propensa a mudar. *
+	Discordo totalmente
+	1
+	2
+	3
+	4
+	5
+	Concordo totalmente
+
+26 - Eu tenho a intenção de reutilizar esse serviço. *
+	Discordo totalmente
+	1
+	2
+	3
+	4
+	5
+	Concordo totalmente
+
+27 - É muito provável que eu compre outra vez esse serviço. *
+	Discordo totalmente
+	1
+	2
+	3
+	4
+	5
+	Concordo totalmente
+
+28 - Eu espero comprar outra vez esse serviço no futuro. *
+	Discordo totalmente
+	1
+	2
+	3
+	4
+	5
+	Concordo totalmente
+
