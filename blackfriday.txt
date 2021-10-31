@@ -1,0 +1,9 @@
+About blackfriday.csv file
+Dataset of 550.000 observations about the Black Friday in a retail store, it contrains different kinds of variables either numerical and categorical.
+
+Columns:
+User_ID, Product_ID, Gender, Age, Occupation (codificada em números), City_Category (A,B,C), Stay_In_Current_City_Years, Marital Status, Product_Category_1 (codificada), Product_Category_2 (codificada), Product_Category_3 (codificada), Purchase (purchase amount in dollars).
+
+Description
+The dataset here is a sample of the transactions made in a retail store. The store wants to know better the customer purchase behaviour against different products. Specifically, here the problem is a regression problem where we are trying to predict the dependent variable (the amount of purchase) with the help of the information contained in the other variables.
+Classification problem can also be settled in this dataset since several variables are categorical, and some other approaches could be "Predicting the age of the consumer" or even "Predict the category of goods bought". This dataset is also particularly convenient for clustering and maybe find different clusters of consumers within it.
