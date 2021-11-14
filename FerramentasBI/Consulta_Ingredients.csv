@@ -1,0 +1,80 @@
+IngredientID;IngredientName;IngredientClassID;MeasureAmountID
+1;Beef;2;1
+2;Onion;3;17
+3;Water;9;1
+4;Guinness Beer;9;1
+5;Potato;3;2
+6;Carrot;3;2
+7;Tomato;3;8
+8;Jalapeno;3;2
+9;Garlic;1;16
+10;Black Pepper (ground);1;3
+11;Salt;1;3
+12;Halibut;10;5
+13;Chicken, Fryer;2;5
+14;Bacon;2;8
+15;Romaine Lettuce;3;13
+16;Iceberg Lettuce;3;13
+17;Butterhead Lettuce;3;13
+18;Scallop;10;5
+19;Salmon;10;5
+20;Vinegar;9;1
+21;Olive Oil;4;1
+22;Cucumber;3;17
+23;Mushrooms;3;2
+24;Red Wine;9;2
+25;White Wine;9;2
+26;Milk;8;2
+27;Cheddar Cheese;12;2
+28;Tortilla Chips;18;11
+29;Black Olives;19;2
+30;Green Beans;3;14
+31;Fettuccini Pasta;5;1
+32;Heavy Cream;8;1
+33;Chicken, Pre-cut;2;17
+34;T-bone Steak;2;17
+35;Chicken Breast;2;7
+36;Chicken Leg;2;17
+37;Chicken Wing;2;7
+38;Chicken Thigh;2;7
+39;New York Steak;2;17
+40;Spaghetti;5;1
+41;Mustard, Regular;19;1
+42;Mustard, Dijon;19;1
+43;Ketchup;19;1
+44;Salsa;13;1
+45;Parmesan Cheese;12;1
+46;Blue Cheese;12;1
+47;Butter;11;4
+48;Green Onion;3;14
+49;Green Olives;19;2
+50;Vegetable Oil;4;4
+51;White Pepper (ground);1;1
+52;Cayenne Pepper, Ground;1;1
+53;Radishes;3;14
+54;Balsamic Vinaigrette Dressing;20;1
+55;Sponge Cake;21;20
+56;Raspberry Jello;21;20
+57;Bird's Custard Powder;21;20
+58;Colored sugar sprinkles;1;3
+59;Raspberry Jam;21;21
+61;Flour;6;2
+62;Eggs;8;7
+63;Beef drippings;4;3
+64;Red Snapper;10;1
+65;Canned tomatoes;3;10
+66;Nutmeg;1;3
+67;Cinnamon;1;3
+68;Lime Juice;9;3
+69;Asparagus;3;5
+70;Parsley;22;22
+71;Pie dough for 2-crust pie;21;24
+72;Ground Pork;2;5
+73;Ground Clove;1;3
+74;Bread Crumbs;21;2
+75;Leek;3;7
+76;Red Bell Pepper;3;7
+77;Lemon Juice;9;4
+78;Lemon;17;7
+79;Lemon Sorbet;23;26
+80;Vodka;24;4
