@@ -1,0 +1,231 @@
+---
+title: "Equações Estruturais"
+author: "Profs.Cléber Figueiredo e Gustavo Mirapalheta"
+date: "05/01/2020"
+output: 
+  ioslides_presentation:
+    incremental: false
+    widescreen: true
+    smaller: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+options(digits=3)
+```
+
+## Equações Estruturais: Segmentação de Mercado
+
+- O objetivo é segmentar os consumidores de três marcas de refrigerante (Coca, Fanta, Sprite) a partir de três variáveis latentes (**constructos**). Neste exemplo os constructos são: **Sabor**, **Saude**, **Sede**. 
+- Os constructos serão medidos a partir de diferentes variáveis observáveis: *X1, ..., X7* (*itens*). Neste exemplo os ítens são provenientes das respostas às perguntas de um questionário.
+
+    - **Sabor**
+        - *X1*. A marca Y tem um sabor refrescante 
+        - *X4*. Eu gosto do sabor suave da marca Y 
+        - *X6*. A marca Y tem sabor único 
+    - **Saude**
+        - *X2*. Eu prefiro a marca Y porque tem menos calorias que outras bebidas 
+        - *X5*. Eu prefiro tomar a marca Y após os exercícios e esportes porque ela me dá energia 
+    - **Sede**
+        - *X3*. A marca Y sacia minha sede imediatamente 
+        - *X7*. Eu prefiro tomar a marca Y quando eu estou com muita sede 
+
+## Tipos de constructos, escalas de itens
+
+- Os constructos são ditos *refletivos* se eles causam a ocorrência de um ítem.
+- No caso inverso, quando o ítem causa o constructo eles são chamados de *formativos*
+- Para aplicar o método das equações estruturais, as escalas nas quais os ítens serão medidos deverão sempre ser diretas, isto é, quanto maior o valor dado na escala, maior é a influência positiva do ítem no constructo e vice versa.
+- A escala típica utilizada para medir um ítem é a chamada *Escala Likert*. No exemplo deste exercício, os ítens X1 a X7 foram medidos em uma escala Likert de 1 até 7.
+
+## Base de dados
+
+A base de dados pode ser vista a seguir. O arquivo ```refri.csv``` deverá estar disponível no diretório de trabalho do R/RStudio
+
+```{r echo=TRUE}
+refri <- read.csv2("https://raw.githubusercontent.com/gustavomirapalheta/classes_datasets/master/sem/refri.csv"); 
+refri <- dplyr::as_tibble(refri); refri
+```
+
+## Confirmação de dimensionalidade 
+
+Primeiro é necessário confirmar se, a maior parte da informação obtida através dos itens pode ser representada por três *Componentes Principais*.
+
+```{r echo = TRUE}
+fit = princomp(refri[ ,3:9], cor = TRUE); summary(fit)
+```
+
+Observe a linha *Cumulative Proportion* acima. 
+
+Por ela percebe-se que os três componentes com as maiores variâncias "explicam" quase 95% da variância total da base de dados. 
+
+## Confirmação de dimensionalidade, gráfico
+
+O gráfico a seguir apresenta a variância de cada componente em ordem decrescente
+
+```{r echo=TRUE}
+plot(fit, type="lines")
+```
+
+## Confirmação de dimensionalidade, ggplot2
+
+```{r echo=TRUE, warning=FALSE, message=FALSE}
+library(dplyr); library(ggplot2)
+compvar_tibble <- tibble(compprinc = 1:length(fit$sdev^2), compvar = fit$sdev^2) 
+ggplot(compvar_tibble, aes(x=compprinc, y=compvar)) + geom_point() + geom_line()
+```
+
+## Validade convergente: item x constructo
+
+O próximo passo é determinar se os itens tem correlação forte apenas com o seu constructo. O critério para tal é uma carga fatorial item x constructo acima de 40%. Neste caso: ${RC}_1$: $x_1=88$%, $x_4=90$%, $x_6=94$%, ${RC}_2$: $x_2=96$%, $x_5=93$% e ${RC}_3$: $x_3=88$%, $x_7=92$%. Dizemos portanto que foi atendido o critério da validação convergente.
+
+```{r echo=TRUE}
+cargas = psych::principal(refri[ ,3:9], nfactors = 3, rotate = "varimax"); cargas$loadings
+```
+
+## Validade discriminante: item x demais constr.
+
+Em seguida determinamos para cada item, se a correlação dele com os demais constructos está abaixo de 40%. Isto pode ser confirmado na tabela anterior (apresentada novamente abaixo). Sendo assim dizemos que foi atendido o critério da validação discriminante.
+
+```{r echo=TRUE}
+cargas = psych::principal(refri[ ,3:9], nfactors = 3, rotate = "varimax"); cargas$loadings
+```
+
+## Confiabilidade dos itens: Alpha de Cronbach
+
+A confiabilidade diz respeito a quão dispersas estão as medidas obtidas pelos itens de um constructo. Observe que confiabilidade não implica em validade. Validade diz respeito a encontrar o valor correto, com medidas mesmo que dispersas (pouco confiáveis). 
+
+Para cada constructo é calculado um Alpha de Cronbach, que dirá se os itens apresentam medidas confiáveis ou não. Os critérios de valores são obtidos da seguinte escala:
+
+$$ \alpha ≥ 0,9 : \text{Excelente} $$
+$$ 0,9 > \alpha ≥ 0,8 : \text{Bom} $$
+$$ 0,8 > \alpha ≥ 0,7 : \text{Aceitável} $$
+$$ 0,7 > \alpha ≥ 0,6 : \text{Questionável} $$
+$$ 0,6 > \alpha ≥ 0,5 : Fraco $$
+$$ 0,5 > \alpha : \text{Não aceitável} $$
+
+## Confiabilidade dos itens: Alpha de Cronbach
+
+O cálculo do Alpha de Cronbach para os ítens de cada constructo é feito de acordo com a seguinte fórmula:
+
+$$ \alpha = \frac{k}{k-1} \left( 1 - \frac{\sum{{s^2}_i}}{{s^2}_t} \right) $$
+
+Onde: 
+
+- $k$ é o número de itens no constructo, 
+- ${s^2}_i$ é a variância dos valores do ítem $i$ e 
+- ${s^2}_t$ é a variância da soma de cada linha dos itens do constructo.
+
+No slide a seguir vamos montar um data frame para calcular o Alpha de Cronbach de cada constructo.
+
+## Confiabilidade dos itens: Alpha de Cronbach
+
+A função a seguir calcula o alpha de Cronbach para um dataframe. Em seguida criamos três dataframes, um para cada constructo, a partir dos itens correspondentes. Por último utilizamos sapply para calcular o alpha de Cronbach de cada dataframe (isto é de cada constructo).
+
+```{r echo=TRUE}
+alpha_cron <- function(df){
+  var_i <- apply(df, 2, var); svar_i = sum(var_i)
+  src1 <- apply(df,1,sum); svar_t = var(src1)
+  k = length(df)
+  alpha = k/(k-1) * (1 - svar_i/svar_t)
+  return(alpha) }
+
+rc1 <- tibble(refri$X1, refri$X4, refri$X6); 
+rc2 <- tibble(refri$X2, refri$X5)
+rc3 <- tibble(refri$X3, refri$X7)
+
+rc = list(rc1, rc2, rc3); sapply(rc, alpha_cron)
+```
+
+## Modelo de Equações Estruturais: Notação
+
+O objetivo do modelo de equações estruturais é entender a existência de possíveis relacionamentos entre as variáveis observáveis (itens) e as variáveis latentes (constructos)
+
+- A notação utilizada na montagem de um modelo é
+    - *variável latente =~ item1 + item2 + item3*, onde ***=~*** significa *é mensurada por*
+    - *~* significa *está relacionado com* e indica uma regressão
+    - *~~* significa *está correlacionado com* e indica uma covariância
+    - *~1* indica *intercepto*
+
+- Neste exemplo o iremos testar:
+    - *Sabor =~ X1 + X4 + X6*
+    - *Saude =~ X2 + X5*
+    - *Sede  =~ X3 + X7*
+    
+## Modelo de Equações Estruturais: Montagem
+
+Os resultados são detalhados no próximo slide
+
+```{r echo=TRUE, warning=FALSE, message=FALSE}
+modelo ='
+ sabor =~ X4 + X1 + X6
+ saude =~ X5  + X2 
+ sede =~ X3 + X7
+'
+refri_result <- lavaan::sem(modelo, data=refri); refri_result
+```
+
+## Modelo de Equações Estruturais: Resultados
+
+A função a seguir apresenta todas as informações do modelo de variáveis estruturais. Como o relatório é extenso demais para apresentar em um único slide, serão apresentados resultados parciais a seguir
+
+```{r warning=FALSE, message=FALSE}
+lavaan::summary(refri_result, standardized=TRUE)
+```
+
+## Modelo de Equações Estruturais: Var.Latentes
+
+A seguir são apresentados os resultados das variáveis latentes. O software sempre fixa uma relação de 1 para 1 com alguma variável. Neste caso: em sabor: X4, em saúde: X5, em sede: X3. Os outros valores são analisados como os impactos de cada variável sobre os constructos.
+
+```{r echo=TRUE}
+refri_params <- as_tibble(lavaan::parameterEstimates(refri_result, standardized=TRUE))
+refri_params[1:7,1:4]
+```
+
+## Modelo de Equações Estruturais: Covariâncias
+
+A próxima análise é feita com base na covariância entre as variáveis latentes (construtos). Exemplos: Entre sabor e saúde: valor-p = 0,507 (irrelevante), entre sabor e sede: valor-p = 0,021 (relevante) e entre saúde e sede: valor-p = 0,001 (relevante).
+
+```{r echo=TRUE}
+refri_params <- as_tibble(lavaan::parameterEstimates(refri_result, standardized=TRUE))
+refri_params[18:20,1:7]
+```
+
+## Modelo de Segmentação: Dendrograma
+
+
+```{r echo=TRUE}
+objetos = refri$MARCA; distancia = dist(scale(refri[,3:9])) 
+h  = hclust(distancia); plot(h, labels = objetos, ylab='distancia'); rect.hclust(h,3)
+```
+
+## Modelo de Segmentação: Inclusão dos Clusters
+
+```{r echo=TRUE}
+grupos = kmeans(refri[,3:9],3); grupo = as.factor(grupos$cluster)
+matriz = dplyr::mutate(refri, cluster = grupo); matriz
+```
+
+## Modelo de Segmentação: Visualiz.dos Clusters
+
+Saude x sabor: com a baixa correlação (valor-p = 0,507), a separação dos clusters fica evidente neste caso.
+
+```{r echo=TRUE}
+matriz2 <- dplyr::mutate(matriz, sabor=(X1+X4+X6)/3, saude=(X2+X5)/2, sede=(X3+X7)/2)
+ggplot(matriz2, aes(x=sabor, y=saude)) + geom_point(aes(color=cluster))
+```
+
+## Modelo de Segmentação: Visualiz.dos Clusters
+
+Sede x Sabor: tal como era de se esperar, a separação fica mais difícil neste caso (valor-p = 0,021, relevante). Porém o cluster 2 ainda consegue ser separado dos demais.
+
+```{r echo=TRUE}
+ggplot(matriz2, aes(x=sabor, y=sede)) + geom_point(aes(color=cluster))
+```
+
+## Modelo de Segmentação: Visualiz.dos Clusters
+
+Saude x Sede: uma vez que neste caso o p-value foi o menor de todos (valor-p = 0,001), não é possível a clara separação dos clusters.
+
+```{r echo=TRUE}
+ggplot(matriz2, aes(x=saude, y=sede)) + geom_point(aes(color=cluster))
+```
