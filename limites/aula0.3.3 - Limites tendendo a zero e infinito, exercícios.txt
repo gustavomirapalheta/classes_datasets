@@ -1,0 +1,13 @@
+Calcular os seguintes limites:
+
+1o) 1/(x-1) para x tendendo a 1
+	faça a conta aproximando o 1 com valores
+	maiores que 1
+	
+2o) 1/(x-1) para x tendendo a 1
+    faça a conta aproximando o 1 com valores
+	menores que 1
+	
+3o) 1/(x-1) para x tendendo a +infinito
+
+4o) 1/(x-1) para x tendendo a -infinito

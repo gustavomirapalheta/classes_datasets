@@ -1,0 +1,9 @@
+Calcular os seguintes limites (comece com x=10):
+
+1o) (2x+1)/(x-1) para x tendendo ao infinito
+	
+2o) (x+1)/(2x-1) para x tendendo ao infinito
+
+3o) (x^2+x+1)/(3x^2+x-1) para x tendendo ao infinito
+
+4o) (3x^2+x+1)/(x^2+x-1) para x tendendo ao infinito

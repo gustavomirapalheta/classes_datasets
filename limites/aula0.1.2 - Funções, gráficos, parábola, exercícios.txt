@@ -1,0 +1,8 @@
+1o) Fazer o gráfico da parábola y = -x^2 no intervalo [-2,2] com dt = 0,25
+
+2o) Fazer o gráfico da parábola y = x^2 + 1 no intervalo [-2,2] com dt = 0,25
+
+3o) Fazer o gráfico da parábola y = -x^2 + 1 no intervalo [-2,2] com dt = 0,25
+
+4o) Fazer o gráfico da parábola y = x^2 + x + 1 no intervalo [-2,2] com dt = 0,25
+
