@@ -1,0 +1,21 @@
+Descrição: a base em anexo, da empresa Blu365, trata de um problema de recuperação de crédito. No arquivo .xlsx a base propriamente dita. Nos arquivos .pdf e .mp4 temos uma apresentação explicando o modelo a ser desenvolvido, feita pelo head de Data Science da empresa, Sr.João Netto (ex-FGV).
+
+No arquivo: dados brutos e descrição das principais variáveis nome do arquivo: blu365_dataset_estudodecaso.xlsx
+
+Questões a serem respondidas:
+
+	- Quais as suas recomendações de Feature Engineering (i.e.) escolha de variáveis? Por exemplo, pegar a data de disparo e construir variáveis relacionadas ao dia da semana)
+
+	- Como tratar as variáveis categóricas? Por exemplo através de one-hot encoding.
+
+	- Como preencher as observações ausentes? Quais eliminar? Quais eliminar a variável? Quais eliminar o registro?
+
+	- Dividir o dataset em dois conjuntos, um "balanceado" e um "não-balanceado" e determinar quais as mudanças necessárias na modelagem para tratar deste novo dataset.
+
+	- Quais as métricas disponíveis para modelos de classificação? Quais as mais adequadas para o dataset da Blu365? Quais as métricas mais adequadas para o dataset "balanceado"? Quais as mais adequadas para o dataset desbalanceado?
+
+	- Desenvolva modelos utilizando análise discriminante linear, regressão logística, árvores de decisão, random forest e support vector machines. Qual o significado dos coeficientes dos modelos? Resolva esta questão para pelo menos o modelo baseado em regressão logística.
+
+	- Quais as técnicas de cross-validation disponíveis. Qual a técnica que você recomenda para este caso?
+
+	- Desenvolva um modelo baseado em redes neurais com diferentes hiperparâmetros e determine a sua influência no desempenho dos mesmos.
