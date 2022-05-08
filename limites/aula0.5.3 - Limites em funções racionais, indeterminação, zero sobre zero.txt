@@ -1,5 +1,0 @@
-Calcular os seguintes limites
-
-1o) y = (x^2-3x+2)/(x^2-4x+3) para x tendendo a 1
-
-2o) y = (x^2-5x+6)/(x^2-4x+3) para x tendendo a 3
