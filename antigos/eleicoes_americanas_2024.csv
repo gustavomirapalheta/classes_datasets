@@ -1,0 +1,761 @@
+Day,Len,State,EV,Dem,GOP,Ind,Date,,,,,,,,Pollster
+108.0,9,Alabama,9,32,60,,Apr 21,,,,,,,,Zogby-9
+ 61.5,4,Alabama,9,38,57,,Mar 03,,,,,,,,Florida Atlantic U.-4
+281.5,2,Alaska,3,46,54,,Oct 08,,,,,,,,Alaska Survey Research-2
+271.0,3,Alaska,3,43,52,,Sep 28,,,,,,,,Alaska Survey Research-3
+255.5,2,Alaska,3,42,47,,Sep 12,,,,,,,,Alaska Survey Research-2
+108.0,9,Alaska,3,43,50,,Apr 21,,,,,,,,Zogby-9
+ 61.5,4,Alaska,3,38,57,,Mar 03,,,,,,,,Florida Atlantic U.-4
+293.5,6,Arizona,11,49,50,,Oct 22,,,,,,,,Marist Coll.-6
+292.0,5,Arizona,11,49,49,,Oct 20,,,,,,,,Morning Consult-5
+287.5,6,Arizona,11,48,51,,Oct 16,,,,,,,,YouGov-6
+284.5,10,Arizona,11,49,48,,Oct 15,,,,,,,,Morning Consult-10
+282.5,4,Arizona,11,46,51,,Oct 10,,,,,,,,Siena Coll.-4
+280.5,4,Arizona,11,48,51,,Oct 08,,,,,,,,Emerson Coll.-4
+280.5,16,Arizona,11,46,49,,Oct 14,,,,,,,,George Mason U.-16
+277.0,11,Arizona,11,48,46,,Oct 08,,,,,,,,Fabrizio + GBAO-11
+271.5,2,Arizona,11,48,52,,Sep 28,,,,,,,,Emerson Coll.-2
+271.5,8,Arizona,11,48,50,,Oct 01,,,,,,,,Fabrizio + Anzalone-8
+270.0,7,Arizona,11,48,47,,Sep 29,,,,,,,,GSG + NSOR-7
+266.0,5,Arizona,11,48,51,,Sep 24,,,,,,,,Beacon + Shaw for Fox-5
+266.0,7,Arizona,11,50,47,,Sep 25,,,,,,,,Morning Consult-7
+266.0,7,Arizona,11,50,48,,Sep 25,,,,,,,,BSG + GS for Cook-7
+264.5,6,Arizona,11,49,50,,Sep 23,,,,,,,,Marist Coll.-6
+263.0,5,Arizona,11,45,50,,Sep 21,,,,,,,,Siena Coll.-5
+260.5,4,Arizona,11,49,50,,Sep 18,,,,,,,,Emerson Coll.-4
+257.5,10,Arizona,11,48,47,,Sep 18,,,,,,,,Morning Consult-10
+252.0,3,Arizona,11,46,46,,Sep 09,,,,,,,,Data Orbital-3
+247.5,10,Arizona,11,47,49,,Sep 08,,,,,,,,Morning Consult-10
+243.0,3,Arizona,11,48,49,,Aug 31,,,,,,,,Insider Advantage-3
+241.5,12,Arizona,11,45,47,,Sep 03,,,,,,,,YouGov-12
+239.5,4,Arizona,11,47,50,,Aug 28,,,,,,,,Emerson Coll.-4
+239.0,7,Arizona,11,44,49,,Aug 29,,,,,,,,SSRS for CNN-7
+237.5,4,Arizona,11,48,48,,Aug 26,,,,,,,,Morning Consult-4
+237.5,4,Arizona,11,50,49,,Aug 26,,,,,,,,Beacon + Shaw for Fox-4
+227.0,5,Arizona,11,44,47,,Aug 16,,,,,,,,Noble Predictive Insights-5
+224.5,8,Arizona,11,49,45,,Aug 15,,,,,,,,Siena Coll.-8
+224.0,3,Arizona,11,47,44,,Aug 12,,,,,,,,Morning Consult-3
+223.5,8,Arizona,11,47,46,,Aug 14,,,,,,,,Strategies 360-8
+211.5,2,Arizona,11,47,49,,Jul 30,,,,,,,,PPP-2
+211.5,8,Arizona,11,48,46,,Aug 02,,,,,,,,BSG + GS for Cook-8
+208.0,5,Arizona,11,49,47,,Jul 28,,,,,,,,Morning Consult-5
+204.5,2,Arizona,11,44,49,,Jul 23,,,,,,,,Emerson Coll.-2
+197.5,2,Arizona,11,36,46,,Jul 16,,,,,,,,Emerson Coll.-2
+197.5,2,Arizona,11,44,49,,Jul 16,,,,,,,,Insider Advantage-2
+192.5,2,Arizona,11,44,52,,Jul 11,,,,,,,,PPP-2
+190.0,9,Arizona,11,37,44,,Jul 12,,,,,,,,YouGov-9
+185.0,5,Arizona,11,45,48,,Jul 05,,,,,,,,Morning Consult-5
+183.0,3,Arizona,11,42,46,,Jul 02,,,,,,,,Emerson Coll.-3
+167.5,6,Arizona,11,48,52,,Jun 18,,,,,,,,Emerson Coll.-6
+154.5,4,Arizona,11,46,51,,Jun 04,,,,,,,,Beacon + Shaw for Fox-4
+152.5,8,Arizona,11,44,50,,Jun 04,,,,,,,,Fabrizio + Anzalone-8
+141.0,3,Arizona,11,45,43,,May 21,,,,,,,,Florida Atlantic U.-3
+134.0,7,Arizona,11,47,52,,May 16,,,,,,,,YouGov-7
+131.5,8,Arizona,11,41,44,,May 14,,,,,,,,Noble Predictive Insights-8
+131.5,12,Arizona,11,47,52,,May 16,,,,,,,,YouGov-12
+131.0,7,Arizona,11,44,49,,May 13,,,,,,,,Morning Consult-7
+130.5,8,Arizona,11,44,45,,May 13,,,,,,,,BSG + GS for Cook-8
+124.5,12,Arizona,11,43,49,,May 09,,,,,,,,Siena Coll.-12
+118.0,5,Arizona,11,48,52,,Apr 29,,,,,,,,Emerson Coll.-5
+108.0,9,Arizona,11,40,51,,Apr 21,,,,,,,,Zogby-9
+101.5,6,Arizona,11,42,49,,Apr 13,,,,,,,,Morning Consult-6
+ 89.5,4,Arizona,11,36,39,,Mar 31,,,,,,,,RABA Research-4
+ 80.5,8,Arizona,11,42,47,,Mar 24,,,,,,,,Fabrizio + GBAO-8
+ 73.5,4,Arizona,11,48,52,,Mar 15,,,,,,,,Emerson Coll.-4
+ 71.0,7,Arizona,11,43,48,,Mar 14,,,,,,,,Morning Consult-7
+ 69.0,5,Arizona,11,45,49,,Mar 11,,,,,,,,Beacon + Shaw for Fox-5
+ 48.5,4,Arizona,11,43,46,,Feb 19,,,,,,,,Emerson Coll.-4
+ 47.0,9,Arizona,11,43,49,,Feb 20,,,,,,,,Morning Consult-9
+ 18.0,5,Arizona,11,44,47,,Jan 20,,,,,,,,Morning Consult-5
+249.5,2,Arkansas,6,40,55,,Sep 06,,,,,,,,Hendrix Coll.-2
+108.0,9,Arkansas,6,42,48,,Apr 21,,,,,,,,Zogby-9
+ 61.5,4,Arkansas,6,25,61,,Mar 03,,,,,,,,Florida Atlantic U.-4
+287.0,3,California,54,61,37,,Oct 14,,,,,,,,Emerson Coll.-3
+285.0,9,California,54,59,33,,Oct 15,,,,,,,,Public Policy Inst. of Calif.-9
+271.0,7,California,54,57,35,,Sep 30,,,,,,,,U. of Cal. Berkeley-7
+262.5,14,California,54,58,36,,Sep 25,,,,,,,,USC-14
+248.0,3,California,54,60,36,,Sep 05,,,,,,,,Emerson Coll.-3
+247.5,12,California,54,60,29,,Sep 09,,,,,,,,Public Policy Inst. of Calif.-12
+228.0,1,California,54,57,37,,Aug 15,,,,,,,,Capitol Weekly-1
+223.5,18,California,54,65,35,,Aug 19,,,,,,,,Activote-18
+218.5,12,California,54,59,34,,Aug 11,,,,,,,,U. of Cal. Berkeley-12
+180.0,9,California,54,55,30,,Jul 02,,,,,,,,Public Policy Inst. of Calif.-9
+164.0,5,California,54,54,33,,Jun 14,,,,,,,,SurveyUSA-5
+149.0,11,California,54,55,31,,Jun 02,,,,,,,,Public Policy Inst. of Calif.-11
+108.0,9,California,54,56,38,,Apr 21,,,,,,,,Zogby-9
+ 82.0,7,California,54,54,31,,Mar 25,,,,,,,,Public Policy Inst. of Calif.-7
+ 61.5,4,California,54,56,37,,Mar 03,,,,,,,,Florida Atlantic U.-4
+ 56.0,3,California,54,55,32,,Feb 26,,,,,,,,Emerson Coll.-3
+ 55.5,6,California,54,52,34,,Feb 27,,,,,,,,U. of Cal. Berkeley-6
+ 40.5,8,California,54,55,32,,Feb 13,,,,,,,,Public Policy Inst. of Calif.-8
+257.5,10,Colorado,10,53,42,,Sep 18,,,,,,,,Morning Consult-10
+247.5,10,Colorado,10,55,40,,Sep 08,,,,,,,,Morning Consult-10
+108.0,9,Colorado,10,49,43,,Apr 21,,,,,,,,Zogby-9
+ 77.0,5,Colorado,10,49,39,,Mar 19,,,,,,,,Colorado Polling Inst.-5
+ 61.5,4,Colorado,10,48,44,,Mar 03,,,,,,,,Florida Atlantic U.-4
+ 25.5,6,Colorado,10,41,35,,Jan 28,,,,,,,,Emerson Coll.-6
+259.0,7,Connecticut,7,53,37,,Sep 18,,,,,,,,MassINC-7
+108.0,9,Connecticut,7,55,38,,Apr 21,,,,,,,,Zogby-9
+  1.0,1,D.C.,3,93,6,,Jan 01,,,,,,,,Election 2020-1
+259.0,9,Delaware,3,56,36,,Sep 19,,,,,,,,U. of Delaware-9
+108.0,9,Delaware,3,51,40,,Apr 21,,,,,,,,Zogby-9
+293.0,3,Florida,30,46,54,,Oct 20,,,,,,,,Emerson Coll.-3
+286.5,12,Florida,30,43,53,,Oct 18,,,,,,,,U. of North Florida-12
+279.0,5,Florida,30,47,51,,Oct 07,,,,,,,,Marist Coll.-5
+276.5,4,Florida,30,43,49,,Oct 04,,,,,,,,Mason Dixon-4
+276.5,8,Florida,30,41,55,,Oct 06,,,,,,,,Siena Coll.-8
+269.5,2,Florida,30,46,50,,Sep 26,,,,,,,,PPP-2
+257.5,10,Florida,30,47,50,,Sep 18,,,,,,,,Morning Consult-10
+248.0,3,Florida,30,45,50,,Sep 05,,,,,,,,Emerson Coll.-3
+247.5,10,Florida,30,47,49,,Sep 08,,,,,,,,Morning Consult-10
+236.5,16,Florida,30,47,53,,Aug 31,,,,,,,,Activote-16
+234.5,2,Florida,30,47,51,,Aug 22,,,,,,,,PPP-2
+223.5,2,Florida,30,47,50,,Aug 11,,,,,,,,Florida Atlantic U.-2
+223.0,11,Florida,30,46,54,,Aug 15,,,,,,,,Activote-11
+222.0,5,Florida,30,42,47,,Aug 11,,,,,,,,Suffolk U.-5
+207.5,4,Florida,30,42,49,,Jul 27,,,,,,,,U. of North Florida-4
+197.5,2,Florida,30,44,50,,Jul 16,,,,,,,,Insider Advantage-2
+160.5,2,Florida,30,43,49,,Jun 09,,,,,,,,Florida Atlantic U.-2
+154.5,4,Florida,30,46,50,,Jun 04,,,,,,,,Beacon + Shaw for Fox-4
+134.0,7,Florida,30,45,54,,May 16,,,,,,,,YouGov-7
+108.0,9,Florida,30,42,51,,Apr 21,,,,,,,,Zogby-9
+107.0,3,Florida,30,42,50,,Apr 17,,,,,,,,Florida Atlantic U.-3
+100.5,2,Florida,30,38,51,,Apr 10,,,,,,,,Emerson Coll.-2
+ 97.0,3,Florida,30,31,39,,Apr 07,,,,,,,,Ipsos-3
+ 72.0,3,Florida,30,42,48,,Mar 13,,,,,,,,St. Pete Polls-3
+293.5,6,Georgia,16,49,49,,Oct 22,,,,,,,,Marist Coll.-6
+292.0,5,Georgia,16,48,50,,Oct 20,,,,,,,,Morning Consult-5
+286.0,5,Georgia,16,46,52,,Oct 14,,,,,,,,Quinnipiac U.-5
+285.5,6,Georgia,16,46,49,,Oct 14,,,,,,,,East Carolina U.-6
+284.5,10,Georgia,16,43,47,,Oct 15,,,,,,,,U. of Georgia-10
+284.5,10,Georgia,16,48,49,,Oct 15,,,,,,,,Morning Consult-10
+280.5,4,Georgia,16,50,50,,Oct 08,,,,,,,,Emerson Coll.-4
+280.5,16,Georgia,16,51,47,,Oct 14,,,,,,,,George Mason U.-16
+277.0,11,Georgia,16,48,46,,Oct 08,,,,,,,,Fabrizio + GBAO-11
+271.0,5,Georgia,16,45,50,,Sep 29,,,,,,,,Quinnipiac U.-5
+270.0,7,Georgia,16,47,47,,Sep 29,,,,,,,,GSG + NSOR-7
+266.0,5,Georgia,16,49,51,,Sep 24,,,,,,,,YouGov-5
+266.0,5,Georgia,16,51,48,,Sep 24,,,,,,,,Beacon + Shaw for Fox-5
+266.0,7,Georgia,16,47,49,,Sep 25,,,,,,,,BSG + GS for Cook-7
+266.0,7,Georgia,16,49,49,,Sep 25,,,,,,,,Morning Consult-7
+264.5,6,Georgia,16,49,50,,Sep 23,,,,,,,,Marist Coll.-6
+263.0,5,Georgia,16,45,49,,Sep 21,,,,,,,,Siena Coll.-5
+260.5,4,Georgia,16,48,50,,Sep 18,,,,,,,,Emerson Coll.-4
+257.5,10,Georgia,16,48,49,,Sep 18,,,,,,,,Morning Consult-10
+256.0,7,Georgia,16,44,47,,Sep 15,,,,,,,,U. of Georgia-7
+250.0,5,Georgia,16,46,49,,Sep 08,,,,,,,,Quinnipiac U.-5
+249.5,2,Georgia,16,45,47,,Sep 06,,,,,,,,Florida Atlantic U.-2
+247.5,10,Georgia,16,48,48,,Sep 08,,,,,,,,Morning Consult-10
+243.0,3,Georgia,16,48,48,,Aug 31,,,,,,,,Insider Advantage-3
+241.5,12,Georgia,16,45,47,,Sep 03,,,,,,,,YouGov-12
+239.5,4,Georgia,16,49,48,,Aug 28,,,,,,,,Emerson Coll.-4
+239.0,7,Georgia,16,48,47,,Aug 29,,,,,,,,SSRS for CNN-7
+237.5,4,Georgia,16,49,47,,Aug 26,,,,,,,,Morning Consult-4
+237.5,4,Georgia,16,50,48,,Aug 26,,,,,,,,Beacon + Shaw for Fox-4
+224.5,6,Georgia,16,44,51,,Aug 14,,,,,,,,Siena Coll.-6
+211.5,2,Georgia,16,47,49,,Jul 30,,,,,,,,Insider Adv. + Trafalgar-2
+211.5,2,Georgia,16,48,47,,Jul 30,,,,,,,,PPP-2
+211.5,8,Georgia,16,48,48,,Aug 02,,,,,,,,BSG + GS for Cook-8
+209.5,8,Georgia,16,48,48,,Jul 31,,,,,,,,Fabrizio + Impact-8
+208.0,5,Georgia,16,47,47,,Jul 28,,,,,,,,Morning Consult-5
+207.5,2,Georgia,16,46,50,,Jul 26,,,,,,,,SoCal Research-2
+204.5,2,Georgia,16,46,48,,Jul 23,,,,,,,,Emerson Coll.-2
+197.5,2,Georgia,16,39,44,,Jul 16,,,,,,,,Emerson Coll.-2
+197.5,2,Georgia,16,44,47,,Jul 16,,,,,,,,Insider Advantage-2
+195.5,4,Georgia,16,43,46,,Jul 15,,,,,,,,Florida Atlantic U.-4
+194.0,9,Georgia,16,46,51,,Jul 16,,,,,,,,U. of Georgia-9
+190.0,9,Georgia,16,40,44,,Jul 12,,,,,,,,YouGov-9
+184.5,4,Georgia,16,46,47,,Jul 04,,,,,,,,Morning Consult-4
+183.0,3,Georgia,16,42,47,,Jul 02,,,,,,,,Emerson Coll.-3
+167.5,6,Georgia,16,48,52,,Jun 18,,,,,,,,Emerson Coll.-6
+167.5,10,Georgia,16,38,43,,Jun 20,,,,,,,,U. of Georgia-10
+153.0,5,Georgia,16,44,49,,Jun 03,,,,,,,,Quinnipiac U.-5
+131.0,7,Georgia,16,44,47,,May 13,,,,,,,,Morning Consult-7
+130.5,8,Georgia,16,38,42,,May 13,,,,,,,,BSG + GS for Cook-8
+124.5,12,Georgia,16,41,50,,May 09,,,,,,,,Siena Coll.-12
+118.0,5,Georgia,16,49,51,,Apr 29,,,,,,,,Emerson Coll.-5
+108.0,9,Georgia,16,44,47,,Apr 21,,,,,,,,Zogby-9
+104.5,6,Georgia,16,45,51,,Apr 16,,,,,,,,Beacon + Shaw for Fox-6
+101.5,6,Georgia,16,43,49,,Apr 13,,,,,,,,Morning Consult-6
+ 80.5,8,Georgia,16,43,44,,Mar 24,,,,,,,,Fabrizio + GBAO-8
+ 72.5,4,Georgia,16,47,51,,Mar 14,,,,,,,,Marist Coll.-4
+ 70.0,5,Georgia,16,42,49,,Mar 12,,,,,,,,Morning Consult-5
+ 67.5,8,Georgia,16,48,51,,Mar 11,,,,,,,,YouGov-8
+ 66.0,3,Georgia,16,48,52,,Mar 07,,,,,,,,Emerson Coll.-3
+ 47.0,9,Georgia,16,43,49,,Feb 20,,,,,,,,Morning Consult-9
+ 46.0,3,Georgia,16,42,48,,Feb 16,,,,,,,,Emerson Coll.-3
+ 28.0,5,Georgia,16,43,51,,Jan 30,,,,,,,,Beacon+Shaw for Fox-5
+ 18.5,6,Georgia,16,41,49,,Jan 21,,,,,,,,Morning Consult-6
+  7.0,9,Georgia,16,37,45,,Jan 11,,,,,,,,U. of Georgia.-9
+108.0,9,Hawaii,4,55,33,,Apr 21,,,,,,,,Zogby-9
+108.0,9,Idaho,4,31,60,,Apr 21,,,,,,,,Zogby-9
+105.5,4,Idaho,4,28,63,,Apr 16,,,,,,,,Civiqs-4
+230.5,24,Illinois,19,58,42,,Aug 29,,,,,,,,Activote-24
+108.0,9,Illinois,19,53,40,,Apr 21,,,,,,,,Zogby-9
+256.5,2,Indiana,11,40,57,,Sep 13,,,,,,,,Emerson Coll.-2
+108.0,9,Indiana,11,43,47,,Apr 21,,,,,,,,Zogby-9
+ 63.5,4,Indiana,11,34,55,,Mar 05,,,,,,,,Emerson Coll.-4
+253.5,4,Iowa,6,43,47,,Sep 11,,,,,,,,Selzer-4
+163.5,6,Iowa,6,32,50,,Jun 14,,,,,,,,Selzer-6
+108.0,9,Iowa,6,45,47,,Apr 21,,,,,,,,Zogby-9
+ 57.5,4,Iowa,6,33,48,,Feb 28,,,,,,,,Selzer-4
+  3.0,3,Iowa,6,39,51,,Jan 04,,,,,,,,Zogby-3
+108.0,9,Kansas,6,44,49,,Apr 21,,,,,,,,Zogby-9
+108.0,9,Kentucky,8,35,60,,Apr 21,,,,,,,,Zogby-9
+115.0,5,Louisiana,8,33,48,,Apr 26,,,,,,,,Faucheux Strategies-5
+108.0,9,Louisiana,8,39,54,,Apr 21,,,,,,,,Zogby-9
+267.5,28,Maine,4,48,41,,Oct 07,,,,,,,,Critical Insights-28
+254.0,11,Maine,4,50,41,,Sep 15,,,,,,,,Pan Atlantic Research-11
+230.0,5,Maine,4,55,38,,Aug 19,,,,,,,,U. of New Hampshire-5
+206.0,3,Maine,4,54,45,,Jul 25,,,,,,,,U. of New Hampshire-3
+110.0,23,Maine,4,40,41,,Apr 30,,,,,,,,Critical Insights-23
+108.0,9,Maine,4,45,46,,Apr 21,,,,,,,,Zogby-9
+ 61.5,4,Maine,4,52,36,,Mar 03,,,,,,,,Florida Atlantic U.-4
+ 41.0,9,Maine,4,32,38,,Feb 14,,,,,,,,Pan Atlantic Research-9
+294.0,3,Maryland,10,64,34,,Oct 21,,,,,,,,Emerson Coll.-3
+293.5,6,Maryland,10,61,33,,Oct 22,,,,,,,,U. of Maryland-6
+284.5,10,Maryland,10,64,31,,Oct 15,,,,,,,,Morning Consult-10
+269.5,6,Maryland,10,57,35,,Sep 28,,,,,,,,U. of Maryland-6
+265.0,5,Maryland,10,63,31,,Sep 23,,,,,,,,U. of Maryland-5
+260.5,2,Maryland,10,64,33,,Sep 17,,,,,,,,PPP-2
+257.5,10,Maryland,10,61,33,,Sep 18,,,,,,,,Morning Consult-10
+256.5,2,Maryland,10,63,32,,Sep 13,,,,,,,,Emerson Coll.-2
+247.5,10,Maryland,10,62,34,,Sep 08,,,,,,,,Morning Consult-10
+240.0,7,Maryland,10,56,35,,Aug 30,,,,,,,,Gonzales Research-7
+230.0,7,Maryland,10,64,32,,Aug 20,,,,,,,,Fabrizio + Anzalone-7
+171.5,2,Maryland,10,56,30,,Jun 20,,,,,,,,PPP-2
+128.0,3,Maryland,10,56,35,,May 08,,,,,,,,Emerson Coll.-3
+127.5,2,Maryland,10,60,32,,May 07,,,,,,,,PPP-2
+108.0,9,Maryland,10,58,34,,Apr 21,,,,,,,,Zogby-9
+ 43.5,2,Maryland,10,55,32,,Feb 13,,,,,,,,Emerson Coll.-2
+ 29.5,14,Maryland,10,53,32,,Feb 05,,,,,,,,Gonzales Research-14
+280.5,8,Massachusetts,11,56,30,,Oct 10,,,,,,,,U. of Mass.-8
+277.0,5,Massachusetts,11,61,32,,Oct 05,,,,,,,,Suffolk U.-5
+259.0,7,Massachusetts,11,63,35,,Sep 18,,,,,,,,MassINC-7
+258.0,5,Massachusetts,11,62,31,,Sep 16,,,,,,,,U. of New Hampshire-5
+199.0,3,Massachusetts,11,47,29,,Jul 18,,,,,,,,Suffolk U.-3
+144.5,14,Massachusetts,11,48,27,,May 30,,,,,,,,U. of Mass.-14
+139.0,5,Massachusetts,11,68,32,,May 20,,,,,,,,U. of New Hampshire-5
+109.0,5,Massachusetts,11,52,22,,Apr 20,,,,,,,,Suffolk U.-5
+108.0,9,Massachusetts,11,55,36,,Apr 21,,,,,,,,Zogby-9
+ 36.0,5,Massachusetts,11,45,26,,Feb 07,,,,,,,,Suffolk U.-5
+293.0,5,Michigan,15,50,46,,Oct 21,,,,,,,,Quinnipiac U.-5
+292.0,5,Michigan,15,50,46,,Oct 20,,,,,,,,Morning Consult-5
+284.5,10,Michigan,15,49,47,,Oct 15,,,,,,,,Morning Consult-10
+280.5,4,Michigan,15,50,50,,Oct 08,,,,,,,,Emerson Coll.-4
+280.5,16,Michigan,15,49,47,,Oct 14,,,,,,,,George Mason U.-16
+280.0,3,Michigan,15,51,48,,Oct 07,,,,,,,,Research Co.-3
+279.0,5,Michigan,15,47,51,,Oct 07,,,,,,,,Quinnipiac U.-5
+279.0,7,Michigan,15,48,49,,Oct 08,,,,,,,,Fabrizio + Anzalone-7
+277.0,11,Michigan,15,49,47,,Oct 08,,,,,,,,Fabrizio + GBAO-11
+276.5,4,Michigan,15,47,44,,Oct 04,,,,,,,,Glengariff Group-4
+270.0,7,Michigan,15,47,49,,Sep 29,,,,,,,,GSG + NSOR-7
+267.5,6,Michigan,15,48,47,,Sep 26,,,,,,,,Siena Coll.-6
+266.0,7,Michigan,15,50,47,,Sep 25,,,,,,,,Morning Consult-7
+266.0,7,Michigan,15,51,48,,Sep 25,,,,,,,,BSG + GS for Cook-7
+261.5,4,Michigan,15,48,45,,Sep 19,,,,,,,,Suffolk U.-4
+260.5,4,Michigan,15,50,49,,Sep 18,,,,,,,,Emerson Coll.-4
+259.0,9,Michigan,15,48,43,,Sep 19,,,,,,,,U. of Mass.-9
+259.0,9,Michigan,15,48,43,,Sep 19,,,,,,,,YouGov-9
+258.0,5,Michigan,15,51,46,,Sep 16,,,,,,,,Quinnipiac U.-5
+257.5,6,Michigan,15,52,47,,Sep 16,,,,,,,,Marist Coll.-6
+257.5,10,Michigan,15,52,44,,Sep 18,,,,,,,,Morning Consult-10
+255.5,2,Michigan,15,48,49,,Sep 12,,,,,,,,Insider Advantage-2
+248.5,4,Michigan,15,50,49,,Sep 06,,,,,,,,YouGov-4
+247.5,10,Michigan,15,49,46,,Sep 08,,,,,,,,Morning Consult-10
+241.5,12,Michigan,15,48,43,,Sep 03,,,,,,,,YouGov-12
+240.5,4,Michigan,15,44,45,,Aug 29,,,,,,,,Glengariff Group-4
+239.5,4,Michigan,15,50,47,,Aug 28,,,,,,,,Emerson Coll.-4
+239.0,7,Michigan,15,48,43,,Aug 29,,,,,,,,SSRS for CNN-7
+237.5,4,Michigan,15,46,47,,Aug 26,,,,,,,,EPIC-MRA-4
+237.5,4,Michigan,15,49,46,,Aug 26,,,,,,,,Morning Consult-4
+225.5,32,Michigan,15,50,50,,Aug 28,,,,,,,,Activote-32
+222.0,5,Michigan,15,48,48,,Aug 11,,,,,,,,Fabrizio + Anzalone-5
+220.0,3,Michigan,15,49,47,,Aug 08,,,,,,,,Insider Advantage-3
+220.0,5,Michigan,15,50,46,,Aug 09,,,,,,,,Siena Coll.-5
+211.5,8,Michigan,15,49,46,,Aug 02,,,,,,,,BSG + GS for Cook-8
+208.0,5,Michigan,15,53,42,,Jul 28,,,,,,,,Morning Consult-5
+207.5,2,Michigan,15,46,49,,Jul 26,,,,,,,,SoCal Research-2
+205.0,3,Michigan,15,42,41,,Jul 24,,,,,,,,Glengariff Group-3
+205.0,3,Michigan,15,49,49,,Jul 24,,,,,,,,Beacon + Shaw for Fox-3
+204.5,2,Michigan,15,45,46,,Jul 23,,,,,,,,Emerson Coll.-2
+199.5,2,Michigan,15,46,49,,Jul 18,,,,,,,,PPP-2
+197.5,2,Michigan,15,40,43,,Jul 16,,,,,,,,Emerson Coll.-2
+196.5,4,Michigan,15,43,46,,Jul 16,,,,,,,,Civiqs-4
+194.0,3,Michigan,15,36,39,,Jul 13,,,,,,,,Marketing Resource Grp.-3
+190.0,9,Michigan,15,40,42,,Jul 12,,,,,,,,YouGov-9
+185.0,5,Michigan,15,48,43,,Jul 05,,,,,,,,Morning Consult-5
+183.0,3,Michigan,15,44,45,,Jul 02,,,,,,,,Emerson Coll.-3
+175.5,6,Michigan,15,45,49,,Jun 26,,,,,,,,EPIC-MRA-6
+167.5,6,Michigan,15,49,51,,Jun 18,,,,,,,,Emerson Coll.-6
+151.5,2,Michigan,15,47,46,,May 31,,,,,,,,Florida Atlantic U.-2
+131.0,7,Michigan,15,46,45,,May 13,,,,,,,,Morning Consult-7
+130.5,8,Michigan,15,45,47,,May 13,,,,,,,,BSG + GS for Cook-8
+124.5,12,Michigan,15,47,46,,May 09,,,,,,,,Siena Coll.-12
+118.0,5,Michigan,15,48,52,,Apr 29,,,,,,,,Emerson Coll.-5
+113.0,7,Michigan,15,51,49,,Apr 25,,,,,,,,YouGov-7
+108.0,9,Michigan,15,48,45,,Apr 21,,,,,,,,Zogby-9
+104.5,6,Michigan,15,46,49,,Apr 16,,,,,,,,Beacon + Shaw for Fox-6
+101.5,6,Michigan,15,47,45,,Apr 13,,,,,,,,Morning Consult-6
+100.5,4,Michigan,15,36,42,,Apr 11,,,,,,,,Marketing Resource Grp.-4
+ 80.5,8,Michigan,15,45,48,,Mar 24,,,,,,,,Fabrizio + GBAO-8
+ 76.0,5,Michigan,15,50,50,,Mar 18,,,,,,,,Emerson Coll.-5
+ 75.5,6,Michigan,15,42,50,,Mar 18,,,,,,,,SSRS for CNN-6
+ 70.0,5,Michigan,15,45,45,,Mar 12,,,,,,,,Morning Consult-5
+ 70.0,5,Michigan,15,45,48,,Mar 12,,,,,,,,Quinnipiac U.-5
+ 53.0,5,Michigan,15,44,46,,Feb 24,,,,,,,,Emerson Coll.-5
+ 47.0,9,Michigan,15,44,46,,Feb 20,,,,,,,,Morning Consult-9
+ 46.5,6,Michigan,15,41,45,,Feb 18,,,,,,,,EPIC-MRA-6
+ 41.0,5,Michigan,15,45,47,,Feb 12,,,,,,,,Beacon+Shaw for Fox-5
+  4.0,5,Michigan,15,39,47,,Jan 06,,,,,,,,Glengariff Group-5
+  3.0,3,Michigan,15,44,47,,Jan 04,,,,,,,,Zogby-3
+261.0,3,Minnesota,10,48,43,,Sep 18,,,,,,,,Mason Dixon-3
+257.5,10,Minnesota,10,50,43,,Sep 18,,,,,,,,Morning Consult-10
+250.0,5,Minnesota,10,49,45,,Sep 08,,,,,,,,Embold Research-5
+247.5,10,Minnesota,10,51,44,,Sep 08,,,,,,,,Morning Consult-10
+241.0,3,Minnesota,10,48,43,,Aug 29,,,,,,,,SurveyUSA-3
+206.0,3,Minnesota,10,50,40,,Jul 25,,,,,,,,SurveyUSA-3
+205.0,3,Minnesota,10,52,46,,Jul 24,,,,,,,,Beacon + Shaw for Fox-3
+167.5,6,Minnesota,10,51,49,,Jun 18,,,,,,,,Emerson Coll.-6
+166.0,5,Minnesota,10,47,41,,Jun 16,,,,,,,,SurveyUSA-5
+156.0,3,Minnesota,10,45,41,,Jun 05,,,,,,,,Mason Dixon-3
+130.5,4,Minnesota,10,44,42,,May 11,,,,,,,,SurveyUSA-4
+108.0,9,Minnesota,10,46,44,,Apr 21,,,,,,,,Zogby-9
+ 96.0,5,Minnesota,10,44,42,,Apr 07,,,,,,,,SurveyUSA-5
+ 61.5,4,Minnesota,10,46,39,,Mar 03,,,,,,,,Florida Atlantic U.-4
+ 56.5,6,Minnesota,10,42,38,,Feb 28,,,,,,,,SurveyUSA-6
+ 26.5,6,Minnesota,10,42,39,,Jan 29,,,,,,,,SurveyUSA-6
+108.0,9,Mississippi,6,42,51,,Apr 21,,,,,,,,Zogby-9
+256.5,2,Missouri,10,43,53,,Sep 13,,,,,,,,Emerson Coll.-2
+225.0,9,Missouri,10,41,54,,Aug 16,,,,,,,,YouGov-9
+221.0,29,Missouri,10,41,59,,Aug 22,,,,,,,,Activote-29
+170.0,3,Missouri,10,43,57,,Jun 19,,,,,,,,Emerson Coll.-3
+108.0,9,Missouri,10,43,49,,Apr 21,,,,,,,,Zogby-9
+ 25.5,6,Missouri,10,32,49,,Jan 28,,,,,,,,Emerson Coll.-6
+280.5,4,Montana,4,40,57,,Oct 08,,,,,,,,Siena Coll.-4
+240.0,5,Montana,4,41,56,,Aug 29,,,,,,,,Fabrizio + Binder-5
+218.5,2,Montana,4,40,55,,Aug 06,,,,,,,,Emerson Coll.-2
+108.0,9,Montana,4,34,59,,Apr 21,,,,,,,,Zogby-9
+ 59.5,6,Montana,4,35,56,,Mar 02,,,,,,,,Emerson Coll.-6
+ 44.5,4,Montana,4,29,51,,Feb 15,,,,,,,,SurveyUSA-4
+264.5,4,Nebraska,5,40,56,,Sep 22,,,,,,,,SurveyUSA-4
+238.0,5,Nebraska,5,37,54,,Aug 27,,,,,,,,SurveyUSA-5
+115.5,2,Nebraska,5,34,57,,Apr 25,,,,,,,,PPP-2
+108.0,9,Nebraska,5,39,50,,Apr 21,,,,,,,,Zogby-9
+292.0,5,Nevada,6,49,48,,Oct 20,,,,,,,,Morning Consult-5
+285.5,8,Nevada,6,47,49,,Oct 15,,,,,,,,Fabrizio + Anzalone-8
+284.5,10,Nevada,6,49,45,,Oct 15,,,,,,,,Morning Consult-10
+280.5,4,Nevada,6,49,48,,Oct 08,,,,,,,,Emerson Coll.-4
+280.5,16,Nevada,6,48,48,,Oct 14,,,,,,,,George Mason U.-16
+277.0,11,Nevada,6,43,49,,Oct 08,,,,,,,,Fabrizio + GBAO-11
+270.0,7,Nevada,6,48,47,,Sep 29,,,,,,,,GSG + NSOR-7
+266.0,7,Nevada,6,48,47,,Sep 25,,,,,,,,BSG + GS for Cook-7
+266.0,7,Nevada,6,52,45,,Sep 25,,,,,,,,Morning Consult-7
+260.5,4,Nevada,6,49,49,,Sep 18,,,,,,,,Emerson Coll.-4
+257.5,10,Nevada,6,51,47,,Sep 18,,,,,,,,Morning Consult-10
+256.5,8,Nevada,6,48,47,,Sep 16,,,,,,,,Noble Predictive Insights-8
+247.5,10,Nevada,6,48,48,,Sep 08,,,,,,,,Morning Consult-10
+243.0,3,Nevada,6,47,48,,Aug 31,,,,,,,,Insider Advantage-3
+241.5,12,Nevada,6,49,46,,Sep 03,,,,,,,,YouGov-12
+239.5,4,Nevada,6,49,48,,Aug 28,,,,,,,,Emerson Coll.-4
+239.0,7,Nevada,6,48,47,,Aug 29,,,,,,,,SSRS for CNN-7
+237.5,4,Nevada,6,49,45,,Aug 26,,,,,,,,Morning Consult-4
+237.5,4,Nevada,6,50,48,,Aug 26,,,,,,,,Beacon + Shaw for Fox-4
+223.5,8,Nevada,6,48,42,,Aug 14,,,,,,,,Strategies 360-8
+223.0,9,Nevada,6,46,48,,Aug 14,,,,,,,,Siena Coll.-9
+211.5,8,Nevada,6,45,48,,Aug 02,,,,,,,,BSG + GS for Cook-8
+208.0,5,Nevada,6,47,45,,Jul 28,,,,,,,,Morning Consult-5
+197.5,2,Nevada,6,40,43,,Jul 16,,,,,,,,Emerson Coll.-2
+197.5,2,Nevada,6,42,49,,Jul 16,,,,,,,,Insider Advantage-2
+190.0,9,Nevada,6,42,46,,Jul 12,,,,,,,,YouGov-9
+184.5,4,Nevada,6,45,48,,Jul 04,,,,,,,,Morning Consult-4
+183.0,3,Nevada,6,41,47,,Jul 02,,,,,,,,Emerson Coll.-3
+167.5,6,Nevada,6,50,50,,Jun 18,,,,,,,,Emerson Coll.-6
+167.0,7,Nevada,6,45,48,,Jun 18,,,,,,,,Fabrizio + Anzalone-7
+154.5,4,Nevada,6,45,50,,Jun 04,,,,,,,,Beacon + Shaw for Fox-4
+141.0,3,Nevada,6,43,51,,May 21,,,,,,,,Florida Atlantic U.-3
+131.0,7,Nevada,6,47,47,,May 13,,,,,,,,Morning Consult-7
+130.5,8,Nevada,6,40,49,,May 13,,,,,,,,BSG + GS for Cook-8
+124.5,12,Nevada,6,38,51,,May 09,,,,,,,,Siena Coll.-12
+118.0,5,Nevada,6,49,51,,Apr 29,,,,,,,,Emerson Coll.-5
+108.0,9,Nevada,6,44,50,,Apr 21,,,,,,,,Zogby-9
+101.5,6,Nevada,6,43,51,,Apr 13,,,,,,,,Morning Consult-6
+ 80.5,8,Nevada,6,44,48,,Mar 24,,,,,,,,Fabrizio + GBAO-8
+ 73.5,4,Nevada,6,49,51,,Mar 15,,,,,,,,Emerson Coll.-4
+ 71.5,8,Nevada,6,44,46,,Mar 15,,,,,,,,Morning Consult-8
+ 61.0,9,Nevada,6,40,45,,Mar 05,,,,,,,,Noble Predictive Insights-9
+ 48.5,4,Nevada,6,40,46,,Feb 19,,,,,,,,Emerson Coll.-4
+ 47.0,9,Nevada,6,42,48,,Feb 20,,,,,,,,Morning Consult-9
+ 18.5,6,Nevada,6,40,48,,Jan 21,,,,,,,,Morning Consult-6
+296.0,3,New Hampshire,4,50,47,,Oct 23,,,,,,,,Emerson Coll.-3
+285.5,14,New Hampshire,4,59,38,,Oct 18,,,,,,,,The Dartmouth Poll-14
+279.0,7,New Hampshire,4,50,41,,Oct 08,,,,,,,,U. of Mass.-7
+275.5,2,New Hampshire,4,51,44,,Oct 02,,,,,,,,St. Anselm Coll.-2
+258.0,5,New Hampshire,4,54,43,,Sep 16,,,,,,,,U. of New Hampshire-5
+255.5,2,New Hampshire,4,51,43,,Sep 12,,,,,,,,St. Anselm Coll.-2
+230.0,5,New Hampshire,4,52,47,,Aug 19,,,,,,,,U. of New Hampshire-5
+226.5,2,New Hampshire,4,51,44,,Aug 14,,,,,,,,St. Anselm Coll.-2
+209.0,3,New Hampshire,4,50,46,,Jul 28,,,,,,,,Emerson Coll.-3
+206.5,2,New Hampshire,4,50,44,,Jul 25,,,,,,,,St. Anselm Coll.-2
+206.0,3,New Hampshire,4,53,46,,Jul 25,,,,,,,,U. of New Hampshire-3
+202.0,3,New Hampshire,4,39,40,,Jul 21,,,,,,,,Praecones Analytica-3
+180.5,2,New Hampshire,4,42,44,,Jun 29,,,,,,,,St. Anselm Coll.-2
+139.0,5,New Hampshire,4,52,48,,May 20,,,,,,,,U. of New Hampshire-5
+138.5,6,New Hampshire,4,37,37,,May 20,,,,,,,,Praecones Analytica-6
+131.0,9,New Hampshire,4,42,36,,May 14,,,,,,,,U. of Mass.-9
+108.0,9,New Hampshire,4,48,44,,Apr 21,,,,,,,,Zogby-9
+ 16.0,3,New Hampshire,4,52,45,,Jan 17,,,,,,,,Marist Coll.-3
+  5.0,5,New Hampshire,4,42,34,,Jan 07,,,,,,,,Suffolk U.-5
+108.0,9,New Jersey,14,51,42,,Apr 21,,,,,,,,Zogby-9
+ 87.5,4,New Jersey,14,46,39,,Mar 29,,,,,,,,Emerson Coll.-4
+288.0,9,New Mexico,5,50,41,,Oct 18,,,,,,,,Research and Polling-9
+259.0,7,New Mexico,5,50,42,,Sep 18,,,,,,,,SurveyUSA-7
+253.5,8,New Mexico,5,49,39,,Sep 13,,,,,,,,Research and Polling-8
+234.0,3,New Mexico,5,54,46,,Aug 22,,,,,,,,Emerson Coll.-3
+165.5,2,New Mexico,5,48,41,,Jun 14,,,,,,,,PPP-2
+108.0,9,New Mexico,5,49,42,,Apr 21,,,,,,,,Zogby-9
+289.0,5,New York,28,58,39,,Oct 17,,,,,,,,Siena Coll.-5
+268.0,3,New York,28,54,40,,Sep 25,,,,,,,,Emerson Coll.-3
+257.5,6,New York,28,55,42,,Sep 16,,,,,,,,Siena Coll.-6
+224.0,21,New York,28,58,42,,Aug 21,,,,,,,,Activote-21
+212.0,5,New York,28,53,39,,Aug 01,,,,,,,,Siena Coll.-5
+200.5,2,New York,28,52,41,,Jul 19,,,,,,,,SoCal Research-2
+164.5,2,New York,28,47,39,,Jun 13,,,,,,,,Siena Coll.-2
+149.5,2,New York,28,55,45,,May 29,,,,,,,,Emerson Coll.-2
+135.0,3,New York,28,47,38,,May 15,,,,,,,,Siena Coll.-3
+108.0,9,New York,28,48,42,,Apr 21,,,,,,,,Zogby-9
+107.0,3,New York,28,47,37,,Apr 17,,,,,,,,Siena Coll.-3
+ 44.0,3,New York,28,48,36,,Feb 14,,,,,,,,Siena Coll.-3
+ 15.5,4,New York,28,46,37,,Jan 17,,,,,,,,Siena Coll.-4
+295.5,2,North Carolina,16,48,50,,Oct 22,,,,,,,,Emerson Coll.-2
+293.5,6,North Carolina,16,48,50,,Oct 22,,,,,,,,Marist Coll.-6
+292.5,4,North Carolina,16,47,46,,Oct 20,,,,,,,,SurveyUSA-4
+292.0,5,North Carolina,16,48,50,,Oct 20,,,,,,,,Morning Consult-5
+286.0,5,North Carolina,16,50,47,,Oct 14,,,,,,,,Quinnipiac U.-5
+284.5,10,North Carolina,16,48,49,,Oct 15,,,,,,,,Morning Consult-10
+280.5,4,North Carolina,16,49,50,,Oct 08,,,,,,,,Emerson Coll.-4
+280.5,16,North Carolina,16,47,50,,Oct 14,,,,,,,,George Mason U.-16
+277.0,11,North Carolina,16,47,47,,Oct 08,,,,,,,,Fabrizio + GBAO-11
+271.5,2,North Carolina,16,49,50,,Sep 28,,,,,,,,Emerson Coll.-2
+271.0,5,North Carolina,16,48,49,,Sep 29,,,,,,,,Quinnipiac U.-5
+271.0,5,North Carolina,16,48,50,,Sep 29,,,,,,,,George Mason U.-5
+270.0,7,North Carolina,16,47,48,,Sep 29,,,,,,,,GSG + NSOR-7
+268.5,4,North Carolina,16,47,49,,Sep 26,,,,,,,,East Carolina U.-4
+268.5,10,North Carolina,16,48,48,,Sep 29,,,,,,,,High Point U.-10
+266.0,7,North Carolina,16,49,49,,Sep 25,,,,,,,,BSG + GS for Cook-7
+266.0,7,North Carolina,16,50,48,,Sep 25,,,,,,,,Morning Consult-7
+264.5,6,North Carolina,16,49,49,,Sep 23,,,,,,,,Marist Coll.-6
+263.0,5,North Carolina,16,47,49,,Sep 21,,,,,,,,Siena Coll.-5
+261.0,3,North Carolina,16,45,49,,Sep 18,,,,,,,,Victory Insights-3
+260.5,4,North Carolina,16,50,49,,Sep 18,,,,,,,,Emerson Coll.-4
+258.0,7,North Carolina,16,47,50,,Sep 17,,,,,,,,Fabrizio + Anzalone-7
+257.5,10,North Carolina,16,49,47,,Sep 18,,,,,,,,Morning Consult-10
+252.5,10,North Carolina,16,46,45,,Sep 13,,,,,,,,YouGov-10
+250.0,5,North Carolina,16,50,47,,Sep 08,,,,,,,,Quinnipiac U.-5
+249.5,2,North Carolina,16,47,48,,Sep 06,,,,,,,,Florida Atlantic U.-2
+249.5,4,North Carolina,16,49,46,,Sep 07,,,,,,,,SurveyUSA-4
+247.5,10,North Carolina,16,48,48,,Sep 08,,,,,,,,Morning Consult-10
+243.0,3,North Carolina,16,48,49,,Aug 31,,,,,,,,Insider Advantage-3
+241.5,12,North Carolina,16,46,47,,Sep 03,,,,,,,,YouGov-12
+240.0,3,North Carolina,16,47,48,,Aug 28,,,,,,,,East Carolina U.-3
+239.5,4,North Carolina,16,48,49,,Aug 28,,,,,,,,Emerson Coll.-4
+237.5,4,North Carolina,16,49,47,,Aug 26,,,,,,,,Morning Consult-4
+237.5,4,North Carolina,16,49,50,,Aug 26,,,,,,,,Beacon + Shaw for Fox-4
+233.0,3,North Carolina,16,47,47,,Aug 21,,,,,,,,SurveyUSA-3
+231.5,26,North Carolina,16,50,50,,Aug 31,,,,,,,,Activote-26
+224.5,6,North Carolina,16,49,46,,Aug 14,,,,,,,,Siena Coll.-6
+220.0,5,North Carolina,16,46,46,,Aug 09,,,,,,,,YouGov-5
+211.5,8,North Carolina,16,48,47,,Aug 02,,,,,,,,BSG + GS for Cook-8
+208.0,5,North Carolina,16,46,48,,Jul 28,,,,,,,,Morning Consult-5
+197.5,2,North Carolina,16,38,47,,Jul 16,,,,,,,,Emerson Coll.-2
+190.0,9,North Carolina,16,40,44,,Jul 12,,,,,,,,YouGov-9
+184.5,4,North Carolina,16,43,46,,Jul 04,,,,,,,,Morning Consult-4
+153.5,4,North Carolina,16,43,48,,Jun 03,,,,,,,,East Carolina U.-4
+131.0,7,North Carolina,16,42,49,,May 13,,,,,,,,Morning Consult-7
+130.5,8,North Carolina,16,41,48,,May 13,,,,,,,,BSG + GS for Cook-8
+126.5,8,North Carolina,16,42,44,,May 09,,,,,,,,High Point U.-8
+118.0,5,North Carolina,16,48,52,,Apr 29,,,,,,,,Emerson Coll.-5
+108.0,9,North Carolina,16,45,49,,Apr 21,,,,,,,,Zogby-9
+105.0,7,North Carolina,16,39,41,,Apr 17,,,,,,,,Meredith Coll.-7
+102.0,5,North Carolina,16,43,49,,Apr 13,,,,,,,,Mason Dixon-5
+101.5,6,North Carolina,16,41,51,,Apr 13,,,,,,,,Morning Consult-6
+ 97.0,5,North Carolina,16,46,48,,Apr 08,,,,,,,,Quinnipiac U.-5
+ 86.0,9,North Carolina,16,42,45,,Mar 30,,,,,,,,High Point University-9
+ 80.5,8,North Carolina,16,43,49,,Mar 24,,,,,,,,Fabrizio + GBAO-8
+ 79.0,1,North Carolina,16,44,45,,Mar 19,,,,,,,,YouGov-1
+ 72.5,4,North Carolina,16,48,51,,Mar 14,,,,,,,,Marist Coll.-4
+ 70.0,5,North Carolina,16,43,49,,Mar 12,,,,,,,,Morning Consult-5
+ 66.0,7,North Carolina,16,45,50,,Mar 09,,,,,,,,SurveyUSA-7
+ 61.0,5,North Carolina,16,40,54,,Mar 03,,,,,,,,Florida Atlantic U.-5
+ 47.0,9,North Carolina,16,41,50,,Feb 20,,,,,,,,Morning Consult-9
+ 46.0,3,North Carolina,16,44,47,,Feb 16,,,,,,,,Emerson Coll.-3
+ 41.0,5,North Carolina,16,45,50,,Feb 12,,,,,,,,Beacon+Shaw for Fox-5
+108.0,9,North Dakota,3,37,55,,Apr 21,,,,,,,,Zogby-9
+289.5,12,Ohio,17,43,50,,Oct 21,,,,,,,,YouGov-12
+284.5,10,Ohio,17,45,52,,Oct 15,,,,,,,,Morning Consult-10
+279.0,5,Ohio,17,45,51,,Oct 07,,,,,,,,George Mason U.-5
+279.0,5,Ohio,17,46,52,,Oct 07,,,,,,,,Marist Coll.-5
+267.5,6,Ohio,17,44,50,,Sep 26,,,,,,,,Siena Coll.-6
+266.5,10,Ohio,17,44,51,,Sep 27,,,,,,,,YouGov-10
+257.5,10,Ohio,17,43,52,,Sep 18,,,,,,,,Morning Consult-10
+248.0,3,Ohio,17,43,53,,Sep 05,,,,,,,,Emerson Coll.-3
+247.5,10,Ohio,17,44,52,,Sep 08,,,,,,,,Morning Consult-10
+225.0,21,Ohio,17,44,56,,Aug 22,,,,,,,,Activote-21
+207.5,6,Ohio,17,42,52,,Jul 28,,,,,,,,Fabrizio + Anzalone-6
+156.5,4,Ohio,17,41,48,,Jun 06,,,,,,,,Marist Coll.-4
+108.0,9,Ohio,17,42,52,,Apr 21,,,,,,,,Zogby-9
+ 73.0,1,Ohio,17,40,51,,Mar 13,,,,,,,,Florida Atlantic U.-1
+ 69.5,4,Ohio,17,38,48,,Mar 11,,,,,,,,East Carolina U.-4
+ 68.5,4,Ohio,17,45,55,,Mar 10,,,,,,,,Emerson Coll.-4
+ 68.5,6,Ohio,17,38,50,,Mar 11,,,,,,,,SurveyUSA-6
+ 24.0,3,Ohio,17,36,47,,Jan 25,,,,,,,,Emerson Coll.-3
+239.5,8,Oklahoma,7,40,56,,Aug 30,,,,,,,,Sooner Poll-8
+108.0,9,Oklahoma,7,40,53,,Apr 21,,,,,,,,Zogby-9
+ 61.5,4,Oklahoma,7,31,59,,Mar 03,,,,,,,,Florida Atlantic U.-4
+290.5,2,Oregon,8,53,41,,Oct 17,,,,,,,,PPP-2
+108.0,9,Oregon,8,47,44,,Apr 21,,,,,,,,Zogby-9
+105.5,4,Oregon,8,54,34,,Apr 16,,,,,,,,Civiqs-4
+295.5,2,Pennsylvania,19,49,51,,Oct 22,,,,,,,,Emerson Coll.-2
+292.0,5,Pennsylvania,19,50,48,,Oct 20,,,,,,,,Morning Consult-5
+288.5,12,Pennsylvania,19,49,50,,Oct 20,,,,,,,,Franklin + Marshall Coll.-12
+284.5,10,Pennsylvania,19,49,48,,Oct 15,,,,,,,,Morning Consult-10
+282.5,4,Pennsylvania,19,50,47,,Oct 10,,,,,,,,Siena Coll.-4
+280.5,4,Pennsylvania,19,49,50,,Oct 08,,,,,,,,Emerson Coll.-4
+280.5,16,Pennsylvania,19,49,47,,Oct 14,,,,,,,,George Mason U.-16
+280.0,3,Pennsylvania,19,50,49,,Oct 07,,,,,,,,Research Co.-3
+279.5,8,Pennsylvania,19,46,45,,Oct 09,,,,,,,,U. of Mass.-8
+279.0,5,Pennsylvania,19,49,47,,Oct 07,,,,,,,,Quinnipiac U.-5
+278.5,6,Pennsylvania,19,47,48,,Oct 07,,,,,,,,U. of Austin-6
+277.0,11,Pennsylvania,19,46,47,,Oct 08,,,,,,,,Fabrizio + GBAO-11
+271.5,2,Pennsylvania,19,49,49,,Sep 28,,,,,,,,Emerson Coll.-2
+271.0,9,Pennsylvania,19,47,45,,Oct 01,,,,,,,,YouGov-9
+270.0,7,Pennsylvania,19,48,48,,Sep 29,,,,,,,,GSG + NSOR-7
+266.0,7,Pennsylvania,19,50,49,,Sep 25,,,,,,,,BSG + GS for Cook-7
+266.0,7,Pennsylvania,19,51,46,,Sep 25,,,,,,,,Morning Consult-7
+264.5,8,Pennsylvania,19,50,47,,Sep 24,,,,,,,,Fabrizio + Anzalone-8
+261.5,4,Pennsylvania,19,48,48,,Sep 19,,,,,,,,Muhlenberg Coll.-4
+260.5,4,Pennsylvania,19,50,49,,Sep 18,,,,,,,,Emerson Coll.-4
+259.0,7,Pennsylvania,19,52,47,,Sep 18,,,,,,,,MassINC-7
+259.0,9,Pennsylvania,19,48,46,,Sep 19,,,,,,,,U. of Mass.-9
+259.0,9,Pennsylvania,19,48,46,,Sep 19,,,,,,,,YouGov-9
+258.0,5,Pennsylvania,19,48,48,,Sep 16,,,,,,,,Braun Research-5
+258.0,5,Pennsylvania,19,48,48,,Sep 16,,,,,,,,George Mason U.-5
+258.0,5,Pennsylvania,19,51,46,,Sep 16,,,,,,,,Quinnipiac U.-5
+257.5,6,Pennsylvania,19,49,49,,Sep 16,,,,,,,,Marist Coll.-6
+257.5,6,Pennsylvania,19,50,46,,Sep 16,,,,,,,,Siena Coll.-6
+257.5,10,Pennsylvania,19,49,47,,Sep 18,,,,,,,,Morning Consult-10
+257.0,5,Pennsylvania,19,49,46,,Sep 15,,,,,,,,Suffolk U.-5
+253.5,12,Pennsylvania,19,49,46,,Sep 15,,,,,,,,Franklin + Marshall Coll.-12
+248.5,4,Pennsylvania,19,50,50,,Sep 06,,,,,,,,YouGov-4
+247.5,10,Pennsylvania,19,49,46,,Sep 08,,,,,,,,Morning Consult-10
+241.5,12,Pennsylvania,19,46,45,,Sep 03,,,,,,,,YouGov-12
+241.0,3,Pennsylvania,19,49,49,,Aug 29,,,,,,,,Wick-3
+239.5,4,Pennsylvania,19,48,48,,Aug 28,,,,,,,,Emerson Coll.-4
+239.0,7,Pennsylvania,19,47,47,,Aug 29,,,,,,,,SSRS for CNN-7
+237.5,4,Pennsylvania,19,51,47,,Aug 26,,,,,,,,Morning Consult-4
+236.0,1,Pennsylvania,19,47,48,,Aug 23,,,,,,,,SoCal Research-1
+231.5,2,Pennsylvania,19,46,47,,Aug 19,,,,,,,,Insider Advantage-2
+226.5,2,Pennsylvania,19,49,51,,Aug 14,,,,,,,,Emerson Coll.-2
+226.5,18,Pennsylvania,19,51,49,,Aug 22,,,,,,,,Activote-18
+223.0,5,Pennsylvania,19,50,47,,Aug 12,,,,,,,,Quinnipiac U.-5
+220.0,5,Pennsylvania,19,50,46,,Aug 09,,,,,,,,Siena Coll.-5
+218.5,12,Pennsylvania,19,46,43,,Aug 11,,,,,,,,Franklin + Marshall Coll.-12
+211.5,2,Pennsylvania,19,47,48,,Jul 30,,,,,,,,PPP-2
+211.5,8,Pennsylvania,19,49,48,,Aug 02,,,,,,,,BSG + GS for Cook-8
+208.0,5,Pennsylvania,19,46,50,,Jul 28,,,,,,,,Morning Consult-5
+205.0,3,Pennsylvania,19,49,49,,Jul 24,,,,,,,,Beacon + Shaw for Fox-3
+204.5,2,Pennsylvania,19,46,48,,Jul 23,,,,,,,,Emerson Coll.-2
+202.5,2,Pennsylvania,19,46,50,,Jul 21,,,,,,,,SoCal Research-2
+199.5,2,Pennsylvania,19,44,49,,Jul 18,,,,,,,,PPP-2
+197.5,2,Pennsylvania,19,40,46,,Jul 16,,,,,,,,Emerson Coll.-2
+197.5,2,Pennsylvania,19,45,49,,Jul 16,,,,,,,,Insider Advantage-2
+196.5,4,Pennsylvania,19,42,46,,Jul 16,,,,,,,,Civiqs-4
+193.5,2,Pennsylvania,19,45,51,,Jul 12,,,,,,,,PPP-2
+192.0,3,Pennsylvania,19,45,48,,Jul 11,,,,,,,,Siena Coll.-3
+190.0,9,Pennsylvania,19,40,43,,Jul 12,,,,,,,,YouGov-9
+184.5,4,Pennsylvania,19,44,51,,Jul 04,,,,,,,,Morning Consult-4
+183.0,3,Pennsylvania,19,43,48,,Jul 02,,,,,,,,Emerson Coll.-3
+167.5,6,Pennsylvania,19,49,51,,Jun 18,,,,,,,,Emerson Coll.-6
+156.5,4,Pennsylvania,19,45,47,,Jun 06,,,,,,,,Marist Coll.-4
+151.5,2,Pennsylvania,19,45,47,,May 31,,,,,,,,Florida Atlantic U.-2
+131.0,7,Pennsylvania,19,46,48,,May 13,,,,,,,,Morning Consult-7
+130.5,8,Pennsylvania,19,45,48,,May 13,,,,,,,,BSG + GS for Cook-8
+124.5,12,Pennsylvania,19,45,48,,May 09,,,,,,,,Siena Coll.-12
+118.0,5,Pennsylvania,19,49,51,,Apr 29,,,,,,,,Emerson Coll.-5
+118.0,7,Pennsylvania,19,45,49,,Apr 30,,,,,,,,Fabrizio + Anzalone-7
+113.0,7,Pennsylvania,19,49,50,,Apr 25,,,,,,,,YouGov-7
+111.0,11,Pennsylvania,19,41,44,,Apr 25,,,,,,,,Muhlenberg Coll.-11
+108.0,9,Pennsylvania,19,50,45,,Apr 21,,,,,,,,Zogby-9
+104.5,6,Pennsylvania,19,48,48,,Apr 16,,,,,,,,Beacon + Shaw for Fox-6
+101.5,6,Pennsylvania,19,46,47,,Apr 13,,,,,,,,Morning Consult-6
+ 85.5,12,Pennsylvania,19,48,38,,Mar 31,,,,,,,,Franklin + Marshall Coll.-12
+ 80.5,8,Pennsylvania,19,44,47,,Mar 24,,,,,,,,Fabrizio + GBAO-8
+ 75.5,6,Pennsylvania,19,46,46,,Mar 18,,,,,,,,SSRS for CNN-6
+ 71.5,4,Pennsylvania,19,48,52,,Mar 13,,,,,,,,Emerson Coll.-4
+ 70.0,5,Pennsylvania,19,45,45,,Mar 12,,,,,,,,Morning Consult-5
+ 69.0,5,Pennsylvania,19,47,49,,Mar 11,,,,,,,,Beacon + Shaw for Fox-5
+ 47.0,9,Pennsylvania,19,43,49,,Feb 20,,,,,,,,Morning Consult-9
+ 22.5,12,Pennsylvania,19,43,42,,Jan 28,,,,,,,,Franklin + Marshall Coll.-12
+261.0,5,Rhode Island,4,52,38,,Sep 19,,,,,,,,Embold Research-5
+259.0,7,Rhode Island,4,52,40,,Sep 18,,,,,,,,MassINC-7
+258.0,5,Rhode Island,4,58,38,,Sep 16,,,,,,,,U. of New Hampshire-5
+161.5,10,Rhode Island,4,40,33,,Jun 14,,,,,,,,Salve Regina U.-10
+139.0,5,Rhode Island,4,60,40,,May 20,,,,,,,,U. of New Hampshire-5
+108.0,9,Rhode Island,4,48,43,,Apr 21,,,,,,,,Zogby-9
+269.0,9,South Carolina,9,42,52,,Sep 29,,,,,,,,Winthrop U.-9
+108.0,9,South Carolina,9,40,52,,Apr 21,,,,,,,,Zogby-9
+ 46.0,3,South Carolina,9,37,51,,Feb 16,,,,,,,,Emerson Coll.-3
+ 37.0,9,South Carolina,9,35,50,,Feb 10,,,,,,,,Winthrop U.-9
+ 35.5,8,South Carolina,9,36,54,,Feb 08,,,,,,,,Florida Atlantic U.-8
+294.5,4,South Dakota,3,37,62,,Oct 22,,,,,,,,Emerson Coll.-4
+288.0,5,South Dakota,3,33,59,,Oct 16,,,,,,,,Mason Dixon-5
+132.5,4,South Dakota,3,31,50,,May 13,,,,,,,,Mason Dixon-4
+108.0,9,South Dakota,3,32,60,,Apr 21,,,,,,,,Zogby-9
+ 25.5,6,South Dakota,3,26,55,,Jan 28,,,,,,,,Emerson Coll.-6
+225.5,34,Tennessee,11,37,63,,Aug 29,,,,,,,,Activote-34
+123.5,14,Tennessee,11,29,47,,May 09,,,,,,,,Vanderbilt U.-14
+108.0,9,Tennessee,11,35,59,,Apr 21,,,,,,,,Zogby-9
+ 84.0,19,Tennessee,11,31,55,,Apr 02,,,,,,,,Targoz Market Research-19
+ 61.5,4,Tennessee,11,34,59,,Mar 03,,,,,,,,Florida Atlantic U.-4
+293.5,4,Texas,40,46,53,,Oct 21,,,,,,,,Emerson Coll.-4
+284.5,10,Texas,40,46,50,,Oct 15,,,,,,,,Morning Consult-10
+280.0,9,Texas,40,46,51,,Oct 10,,,,,,,,YouGov-9
+279.0,5,Texas,40,46,53,,Oct 07,,,,,,,,Marist Coll.-5
+278.0,5,Texas,40,45,50,,Oct 06,,,,,,,,Florida Atlantic U.-5
+277.0,15,Texas,40,46,51,,Oct 10,,,,,,,,U. of Houston-15
+275.5,6,Texas,40,44,50,,Oct 04,,,,,,,,Siena Coll.-6
+269.5,2,Texas,40,46,51,,Sep 26,,,,,,,,PPP-2
+267.0,3,Texas,40,47,52,,Sep 24,,,,,,,,Emerson Coll.-3
+261.0,3,Texas,40,44,50,,Sep 18,,,,,,,,Texas Hispanic Policy Foundation-3
+257.5,10,Texas,40,46,50,,Sep 18,,,,,,,,Morning Consult-10
+248.0,3,Texas,40,46,50,,Sep 05,,,,,,,,Emerson Coll.-3
+247.5,10,Texas,40,43,52,,Sep 08,,,,,,,,Morning Consult-10
+240.0,9,Texas,40,44,49,,Aug 31,,,,,,,,U. of Texas-9
+237.5,10,Texas,40,44,49,,Aug 29,,,,,,,,YouGov-10
+235.5,18,Texas,40,45,55,,Aug 31,,,,,,,,Activote-18
+234.5,2,Texas,40,44,49,,Aug 22,,,,,,,,PPP-2
+223.5,12,Texas,40,45,50,,Aug 16,,,,,,,,U. of Houston-12
+219.5,14,Texas,40,47,53,,Aug 13,,,,,,,,Activote-14
+177.5,12,Texas,40,40,49,,Jul 01,,,,,,,,U. of Houston-12
+167.5,10,Texas,40,43,48,,Jun 20,,,,,,,,U. of Texas-10
+156.5,10,Texas,40,39,46,,Jun 09,,,,,,,,U. of Texas-10
+108.0,9,Texas,40,40,50,,Apr 21,,,,,,,,Zogby-9
+108.0,11,Texas,40,40,48,,Apr 22,,,,,,,,U. of Texas-11
+107.5,10,Texas,40,31,41,,Apr 21,,,,,,,,Texas Lyceum-10
+ 98.5,6,Texas,40,36,48,,Apr 10,,,,,,,,Texas Hispanic Policy Foundation-6
+ 79.5,4,Texas,40,44,55,,Mar 21,,,,,,,,Marist Coll.-4
+ 61.5,4,Texas,40,42,51,,Mar 03,,,,,,,,Florida Atlantic U.-4
+ 53.0,9,Texas,40,42,46,,Feb 26,,,,,,,,U. of Texas-9
+ 43.0,21,Texas,40,41,48,,Feb 22,,,,,,,,YouGov-21
+ 17.5,14,Texas,40,40,49,,Jan 24,,,,,,,,U. of Houston-14
+ 14.0,3,Texas,40,41,49,,Jan 15,,,,,,,,Emerson Coll.-3
+291.0,5,Utah,6,31,63,,Oct 19,,,,,,,,HarrisX-5
+278.5,6,Utah,6,38,54,,Oct 07,,,,,,,,Noble Predictive Insights-6
+271.5,2,Utah,6,39,54,,Sep 28,,,,,,,,PPP-2
+218.5,8,Utah,6,28,60,,Aug 09,,,,,,,,HarrisX-8
+157.5,4,Utah,6,25,57,,Jun 07,,,,,,,,HarrisX-4
+108.0,9,Utah,6,43,46,,Apr 21,,,,,,,,Zogby-9
+103.0,9,Utah,6,23,47,,Apr 16,,,,,,,,Noble Predictive Insights-9
+ 61.5,4,Utah,6,38,46,,Mar 03,,,,,,,,Florida Atlantic U.-4
+ 18.5,6,Utah,6,34,47,,Jan 21,,,,,,,,Dan Jones-6
+230.0,5,Vermont,3,70,29,,Aug 19,,,,,,,,U. of New Hampshire-5
+108.0,9,Vermont,3,56,35,,Apr 21,,,,,,,,Zogby-9
+ 61.5,4,Vermont,3,59,28,,Mar 03,,,,,,,,Florida Atlantic U.-4
+275.0,7,Virginia,13,52,41,,Oct 04,,,,,,,,Christopher Newport U.-7
+267.0,3,Virginia,13,53,46,,Sep 24,,,,,,,,Emerson Coll.-3
+264.5,10,Virginia,13,43,37,,Sep 25,,,,,,,,Virginia Commonwealth U.-10
+257.5,10,Virginia,13,51,44,,Sep 18,,,,,,,,Morning Consult-10
+250.0,5,Virginia,13,51,43,,Sep 08,,,,,,,,George Mason U.-5
+250.0,7,Virginia,13,48,46,,Sep 09,,,,,,,,Research America-7
+247.5,10,Virginia,13,52,42,,Sep 08,,,,,,,,Morning Consult-10
+244.5,12,Virginia,13,46,36,,Sep 06,,,,,,,,Virginia Commonwealth U.-12
+227.0,5,Virginia,13,47,44,,Aug 16,,,,,,,,Roanoke Coll.-5
+195.5,4,Virginia,13,45,41,,Jul 15,,,,,,,,Florida Atlantic U.-4
+192.5,4,Virginia,13,48,45,,Jul 12,,,,,,,,Siena Coll.-4
+190.0,5,Virginia,13,47,44,,Jul 10,,,,,,,,SoCal Research-5
+185.0,1,Virginia,13,36,39,,Jul 03,,,,,,,,Virginia Commonwealth U.-1
+154.5,4,Virginia,13,48,48,,Jun 04,,,,,,,,Beacon + Shaw for Fox-4
+137.5,10,Virginia,13,42,42,,May 21,,,,,,,,Roanoke Coll.-10
+119.0,1,Virginia,13,43,42,,Apr 28,,,,,,,,Fabrizio + Anzalone-1
+108.0,9,Virginia,13,45,45,,Apr 21,,,,,,,,Zogby-9
+ 61.5,4,Virginia,13,49,42,,Mar 03,,,,,,,,Florida Atlantic U.-4
+ 46.0,9,Virginia,13,47,43,,Feb 19,,,,,,,,Roanoke Coll.-9
+290.5,2,Washington,12,55,40,,Oct 17,,,,,,,,PPP-2
+285.5,6,Washington,12,57,35,,Oct 14,,,,,,,,SurveyUSA-6
+284.0,5,Washington,12,57,32,,Oct 12,,,,,,,,Elway Research-5
+248.5,4,Washington,12,53,32,,Sep 06,,,,,,,,Elway Research-4
+206.5,2,Washington,12,52,38,,Jul 25,,,,,,,,PPP-2
+193.5,4,Washington,12,50,36,,Jul 13,,,,,,,,SurveyUSA-4
+136.5,2,Washington,12,55,39,,May 16,,,,,,,,PPP-2
+135.5,4,Washington,12,42,34,,May 16,,,,,,,,Elway Research-4
+108.0,9,Washington,12,52,40,,Apr 21,,,,,,,,Zogby-9
+105.5,4,Washington,12,54,39,,Apr 16,,,,,,,,Civiqs-4
+ 44.5,2,Washington,12,54,38,,Feb 14,,,,,,,,PPP-2
+237.0,7,West Virginia,4,34,61,,Aug 27,,,,,,,,Research America-7
+108.0,9,West Virginia,4,31,63,,Apr 21,,,,,,,,Zogby-9
+295.5,2,Wisconsin,10,49,50,,Oct 22,,,,,,,,Emerson Coll.-2
+293.0,5,Wisconsin,10,48,48,,Oct 21,,,,,,,,Quinnipiac U.-5
+292.0,5,Wisconsin,10,48,48,,Oct 20,,,,,,,,Morning Consult-5
+284.5,10,Wisconsin,10,47,48,,Oct 15,,,,,,,,Morning Consult-10
+280.5,4,Wisconsin,10,49,50,,Oct 08,,,,,,,,Emerson Coll.-4
+280.5,16,Wisconsin,10,50,47,,Oct 14,,,,,,,,George Mason U.-16
+280.0,3,Wisconsin,10,50,48,,Oct 07,,,,,,,,Research Co.-3
+279.0,5,Wisconsin,10,47,49,,Oct 07,,,,,,,,Quinnipiac U.-5
+277.0,11,Wisconsin,10,48,48,,Oct 08,,,,,,,,Fabrizio + GBAO-11
+270.0,7,Wisconsin,10,48,46,,Sep 29,,,,,,,,GSG + NSOR-7
+267.5,6,Wisconsin,10,49,47,,Sep 26,,,,,,,,Siena Coll.-6
+266.0,7,Wisconsin,10,49,47,,Sep 25,,,,,,,,BSG + GS for Cook-7
+266.0,7,Wisconsin,10,51,48,,Sep 25,,,,,,,,Morning Consult-7
+266.0,9,Wisconsin,10,52,48,,Sep 26,,,,,,,,Marquette Law School-9
+260.5,4,Wisconsin,10,49,50,,Sep 18,,,,,,,,Emerson Coll.-4
+259.0,7,Wisconsin,10,53,46,,Sep 18,,,,,,,,MassINC-7
+258.0,5,Wisconsin,10,49,48,,Sep 16,,,,,,,,Quinnipiac U.-5
+257.5,6,Wisconsin,10,50,49,,Sep 16,,,,,,,,Marist Coll.-6
+257.5,10,Wisconsin,10,50,44,,Sep 18,,,,,,,,Morning Consult-10
+256.5,4,Wisconsin,10,49,48,,Sep 14,,,,,,,,Fabrizio + Anzalone-4
+255.5,2,Wisconsin,10,49,47,,Sep 12,,,,,,,,Insider Advantage-2
+248.5,4,Wisconsin,10,51,49,,Sep 06,,,,,,,,YouGov-4
+247.5,10,Wisconsin,10,49,46,,Sep 08,,,,,,,,Morning Consult-10
+245.0,9,Wisconsin,10,52,48,,Sep 05,,,,,,,,Marquette Law School-9
+241.5,12,Wisconsin,10,47,44,,Sep 03,,,,,,,,YouGov-12
+239.5,4,Wisconsin,10,48,49,,Aug 28,,,,,,,,Emerson Coll.-4
+239.0,7,Wisconsin,10,50,44,,Aug 29,,,,,,,,SSRS for CNN-7
+237.5,4,Wisconsin,10,52,44,,Aug 26,,,,,,,,Morning Consult-4
+220.0,3,Wisconsin,10,48,49,,Aug 08,,,,,,,,Insider Advantage-3
+220.0,5,Wisconsin,10,50,46,,Aug 09,,,,,,,,Siena Coll.-5
+211.5,8,Wisconsin,10,49,46,,Aug 02,,,,,,,,BSG + GS for Cook-8
+210.0,9,Wisconsin,10,50,49,,Aug 01,,,,,,,,Marquette Law School-9
+208.0,5,Wisconsin,10,49,47,,Jul 28,,,,,,,,Morning Consult-5
+206.0,1,Wisconsin,10,49,47,,Jul 24,,,,,,,,Morning Consult-1
+205.0,3,Wisconsin,10,49,50,,Jul 24,,,,,,,,Beacon + Shaw for Fox-3
+204.5,2,Wisconsin,10,47,47,,Jul 23,,,,,,,,Emerson Coll.-2
+202.5,2,Wisconsin,10,46,50,,Jul 21,,,,,,,,SoCal Research-2
+197.5,2,Wisconsin,10,43,46,,Jul 16,,,,,,,,Emerson Coll.-2
+196.5,4,Wisconsin,10,47,47,,Jul 16,,,,,,,,Civiqs-4
+193.5,2,Wisconsin,10,47,46,,Jul 12,,,,,,,,PPP-2
+190.0,9,Wisconsin,10,38,43,,Jul 12,,,,,,,,YouGov-9
+185.0,5,Wisconsin,10,47,44,,Jul 05,,,,,,,,Morning Consult-5
+183.0,3,Wisconsin,10,43,44,,Jul 02,,,,,,,,SoCal Research-3
+183.0,3,Wisconsin,10,44,47,,Jul 02,,,,,,,,Emerson Coll.-3
+182.0,5,Wisconsin,10,45,50,,Jul 02,,,,,,,,Fabrizio + Anzalone-5
+168.0,9,Wisconsin,10,47,44,,Jun 20,,,,,,,,Marquette Law School-9
+167.5,6,Wisconsin,10,49,51,,Jun 18,,,,,,,,Emerson Coll.-6
+151.5,2,Wisconsin,10,40,41,,May 31,,,,,,,,Florida Atlantic U.-2
+131.0,7,Wisconsin,10,46,47,,May 13,,,,,,,,Morning Consult-7
+130.5,8,Wisconsin,10,45,45,,May 13,,,,,,,,BSG + GS for Cook-8
+125.0,5,Wisconsin,10,50,44,,May 06,,,,,,,,Quinnipiac U.-5
+124.5,12,Wisconsin,10,46,47,,May 09,,,,,,,,Siena Coll.-12
+118.0,5,Wisconsin,10,48,52,,Apr 29,,,,,,,,Emerson Coll.-5
+113.0,7,Wisconsin,10,49,50,,Apr 25,,,,,,,,YouGov-7
+108.0,9,Wisconsin,10,46,48,,Apr 21,,,,,,,,Zogby-9
+104.5,6,Wisconsin,10,48,48,,Apr 16,,,,,,,,Beacon + Shaw for Fox-6
+101.5,6,Wisconsin,10,44,48,,Apr 13,,,,,,,,Morning Consult-6
+ 97.5,8,Wisconsin,10,49,51,,Apr 10,,,,,,,,Marquette Law School-8
+ 80.5,8,Wisconsin,10,46,46,,Mar 24,,,,,,,,Fabrizio + GBAO-8
+ 76.0,5,Wisconsin,10,43,46,,Mar 18,,,,,,,,Emerson Coll.-5
+ 71.0,7,Wisconsin,10,46,45,,Mar 14,,,,,,,,Morning Consult-7
+ 53.0,5,Wisconsin,10,42,45,,Feb 24,,,,,,,,Emerson Coll.-5
+ 47.0,9,Wisconsin,10,42,46,,Feb 20,,,,,,,,Morning Consult-9
+ 28.0,5,Wisconsin,10,47,47,,Jan 30,,,,,,,,Beacon + Shaw for Fox-5
+ 27.5,8,Wisconsin,10,47,45,,Jan 31,,,,,,,,Marquette Law School-8
+108.0,9,Wyoming,3,26,67,,Apr 21,,,,,,,,Zogby-9
