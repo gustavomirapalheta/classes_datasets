@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2017-08-26">
+    <creator>NodosChile</creator>
+    <description>A graph file writing in R using "rgexf"</description>
+    <keywords>gexf graph, NodosChile, R, rgexf</keywords>
+  </meta>
+  <graph mode="static" defaultedgetype="undirected">
+    <attributes class="node" mode="static">
+      <attribute id="att1" title="DEG" type="float"/>
+      <attribute id="att2" title="BET" type="float"/>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="att1" title="WGH" type="float"/>
+      <attribute id="att2" title="SIM" type="float"/>
+    </attributes>
+    <nodes>
+      <node id="1" label="A">
+        <attvalues>
+          <attvalue for="att1" value="3"/>
+          <attvalue for="att2" value="0"/>
+        </attvalues>
+        <viz:color r="250" g="111" b="89" a="1"/>
+        <viz:position x="24.7987580425139" y="57.7352685807991" z="0"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="2" label="B">
+        <attvalues>
+          <attvalue for="att1" value="4"/>
+          <attvalue for="att2" value="0.9363636"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0" a="1"/>
+        <viz:position x="24.5874649517346" y="58.8790892000607" z="0"/>
+        <viz:size value="4.333333"/>
+      </node>
+      <node id="3" label="C">
+        <attvalues>
+          <attvalue for="att1" value="3"/>
+          <attvalue for="att2" value="0"/>
+        </attvalues>
+        <viz:color r="250" g="111" b="89" a="1"/>
+        <viz:position x="25.4525280973071" y="57.5894057218314" z="0"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="4" label="D">
+        <attvalues>
+          <attvalue for="att1" value="4"/>
+          <attvalue for="att2" value="0.9363636"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0" a="1"/>
+        <viz:position x="26.1339717277338" y="58.5222208884747" z="0"/>
+        <viz:size value="4.333333"/>
+      </node>
+      <node id="5" label="E">
+        <attvalues>
+          <attvalue for="att1" value="4"/>
+          <attvalue for="att2" value="0.8545455"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0" a="1"/>
+        <viz:position x="23.4432646789346" y="60.7632469086927" z="0"/>
+        <viz:size value="3.666667"/>
+      </node>
+      <node id="6" label="F">
+        <attvalues>
+          <attvalue for="att1" value="3"/>
+          <attvalue for="att2" value="0"/>
+        </attvalues>
+        <viz:color r="250" g="111" b="89" a="1"/>
+        <viz:position x="22.8708036998328" y="62.2273194999516" z="0"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="7" label="G">
+        <attvalues>
+          <attvalue for="att1" value="3"/>
+          <attvalue for="att2" value="0"/>
+        </attvalues>
+        <viz:color r="250" g="111" b="89" a="1"/>
+        <viz:position x="22.554792974245" y="61.5916284581098" z="0"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="8" label="H">
+        <attvalues>
+          <attvalue for="att1" value="4"/>
+          <attvalue for="att2" value="0.7"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0" a="1"/>
+        <viz:position x="23.9628857450717" y="62.0275797246872" z="0"/>
+        <viz:size value="3"/>
+      </node>
+      <node id="9" label="I">
+        <attvalues>
+          <attvalue for="att1" value="2"/>
+          <attvalue for="att2" value="0.6454545"/>
+        </attvalues>
+        <viz:color r="245" g="222" b="179" a="1"/>
+        <viz:position x="25.906277301603" y="62.1552966430513" z="0"/>
+        <viz:size value="2.333333"/>
+      </node>
+      <node id="10" label="J">
+        <attvalues>
+          <attvalue for="att1" value="4"/>
+          <attvalue for="att2" value="1"/>
+        </attvalues>
+        <viz:color r="255" g="0" b="0" a="1"/>
+        <viz:position x="27.9672571934506" y="59.7124185687573" z="0"/>
+        <viz:size value="5"/>
+      </node>
+      <node id="11" label="K">
+        <attvalues>
+          <attvalue for="att1" value="2"/>
+          <attvalue for="att2" value="0"/>
+        </attvalues>
+        <viz:color r="245" g="222" b="179" a="1"/>
+        <viz:position x="29.5136519537826" y="59.7024511032611" z="0"/>
+        <viz:size value="1"/>
+      </node>
+      <node id="12" label="L">
+        <attvalues>
+          <attvalue for="att1" value="3"/>
+          <attvalue for="att2" value="0.1181818"/>
+        </attvalues>
+        <viz:color r="250" g="111" b="89" a="1"/>
+        <viz:position x="28.8963923494346" y="60.6129955516359" z="0"/>
+        <viz:size value="1.666667"/>
+      </node>
+      <node id="13" label="M">
+        <attvalues>
+          <attvalue for="att1" value="3"/>
+          <attvalue for="att2" value="0.7"/>
+        </attvalues>
+        <viz:color r="250" g="111" b="89" a="1"/>
+        <viz:position x="27.6158810256855" y="61.2642696018149" z="0"/>
+        <viz:size value="3"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="1" target="2" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="1"/>
+          <attvalue for="att2" value="0.5714286"/>
+        </attvalues>
+        <viz:color r="255" g="255" b="0" a="1"/>
+      </edge>
+      <edge id="1" source="1" target="3" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="1"/>
+          <attvalue for="att2" value="0.6666667"/>
+        </attvalues>
+        <viz:color r="255" g="255" b="0" a="1"/>
+      </edge>
+      <edge id="2" source="1" target="4" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="1"/>
+          <attvalue for="att2" value="0.5714286"/>
+        </attvalues>
+        <viz:color r="255" g="255" b="0" a="1"/>
+      </edge>
+      <edge id="3" source="2" target="3" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="1"/>
+          <attvalue for="att2" value="0.5714286"/>
+        </attvalues>
+        <viz:color r="255" g="255" b="0" a="1"/>
+      </edge>
+      <edge id="4" source="2" target="4" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="1"/>
+          <attvalue for="att2" value="0.5"/>
+        </attvalues>
+        <viz:color r="255" g="255" b="0" a="1"/>
+      </edge>
+      <edge id="5" source="2" target="5" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="1"/>
+          <attvalue for="att2" value="0"/>
+        </attvalues>
+        <viz:color r="255" g="255" b="0" a="1"/>
+      </edge>
+      <edge id="6" source="3" target="4" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="1"/>
+          <attvalue for="att2" value="0.5714286"/>
+        </attvalues>
+        <viz:color r="255" g="255" b="0" a="1"/>
+      </edge>
+      <edge id="7" source="4" target="10" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="1"/>
+          <attvalue for="att2" value="0"/>
+        </attvalues>
+        <viz:color r="255" g="255" b="0" a="1"/>
+      </edge>
+      <edge id="8" source="5" target="6" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="1"/>
+          <attvalue for="att2" value="0.5714286"/>
+        </attvalues>
+        <viz:color r="255" g="255" b="0" a="1"/>
+      </edge>
+      <edge id="9" source="5" target="7" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="1"/>
+          <attvalue for="att2" value="0.5714286"/>
+        </attvalues>
+        <viz:color r="255" g="255" b="0" a="1"/>
+      </edge>
+      <edge id="10" source="5" target="8" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="1"/>
+          <attvalue for="att2" value="0.5"/>
+        </attvalues>
+        <viz:color r="255" g="255" b="0" a="1"/>
+      </edge>
+      <edge id="11" source="6" target="7" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="1"/>
+          <attvalue for="att2" value="0.6666667"/>
+        </attvalues>
+        <viz:color r="255" g="255" b="0" a="1"/>
+      </edge>
+      <edge id="12" source="6" target="8" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="1"/>
+          <attvalue for="att2" value="0.5714286"/>
+        </attvalues>
+        <viz:color r="255" g="255" b="0" a="1"/>
+      </edge>
+      <edge id="13" source="7" target="8" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="1"/>
+          <attvalue for="att2" value="0.5714286"/>
+        </attvalues>
+        <viz:color r="255" g="255" b="0" a="1"/>
+      </edge>
+      <edge id="14" source="8" target="9" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="1"/>
+          <attvalue for="att2" value="0"/>
+        </attvalues>
+        <viz:color r="255" g="255" b="0" a="1"/>
+      </edge>
+      <edge id="15" source="9" target="13" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="1"/>
+          <attvalue for="att2" value="0"/>
+        </attvalues>
+        <viz:color r="255" g="255" b="0" a="1"/>
+      </edge>
+      <edge id="16" source="10" target="11" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="1"/>
+          <attvalue for="att2" value="0.3333333"/>
+        </attvalues>
+        <viz:color r="255" g="255" b="0" a="1"/>
+      </edge>
+      <edge id="17" source="10" target="12" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="1"/>
+          <attvalue for="att2" value="0.5714286"/>
+        </attvalues>
+        <viz:color r="255" g="255" b="0" a="1"/>
+      </edge>
+      <edge id="18" source="10" target="13" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="1"/>
+          <attvalue for="att2" value="0.2857143"/>
+        </attvalues>
+        <viz:color r="255" g="255" b="0" a="1"/>
+      </edge>
+      <edge id="19" source="11" target="12" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="1"/>
+          <attvalue for="att2" value="0.4"/>
+        </attvalues>
+        <viz:color r="255" g="255" b="0" a="1"/>
+      </edge>
+      <edge id="20" source="12" target="13" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="1"/>
+          <attvalue for="att2" value="0.3333333"/>
+        </attvalues>
+        <viz:color r="255" g="255" b="0" a="1"/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
+
